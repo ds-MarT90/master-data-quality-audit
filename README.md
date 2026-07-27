@@ -4,6 +4,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 Projekt przedstawia proces audytu jakości danych podstawowych – od profilowania danych i implementacji reguł jakości w SQL-u, po budowę tabeli wynikowej oraz interaktywnego dashboardu w Power BI.
+Wszystkie reguły zostały opisane w pliku [Data Quality Report](raport/Data_Quality_Report.md)
 
 ## Problem
 
@@ -22,11 +23,6 @@ Celem projektu było wykrycie problemów z jakością danych, zmierzenie ich ska
 - budowa tabeli wynikowej (`dq_wyniki`)
 - dashboard KPI w Power BI
 - analiza sześciu wymiarów jakości danych
-
-<p align="center">
-  <img src="images/Dashboard_overview-01.png" alt="Dashboard Power BI — strona przeglądu" width="90%">
-</p>
-
 
 
 ## Dane
@@ -78,26 +74,26 @@ Na podstawie tabeli wynikowej przygotowałem interaktywny dashboard prezentując
 
 ## Kluczowe wyniki
 
-- **Ogólny wskaźnik jakości ~97%** — wysoki jako średnia, ale maskuje, gdzie
-  naprawdę leżą problemy.
-- **Tabela `kontrahenci` to epicentrum.** Jako dane podstawowe jest „rodzicem" umów,
-  CRM i środków, więc błąd tutaj promieniuje na całą organizację.
-- **Najsłabszy wymiar to spójność** — niespójne słowniki kraju, waluty, jednostki
-  miary i stawki VAT.
-- Wykryto **304 rekordy osierocone** (naruszone relacje) oraz **240 duplikatów**
-  NIP i REGON.
+Audyt wykazał, że ogólny wskaźnik jakości danych wynosi około **97%**, jednak szczegółowa analiza pokazała, że problemy koncentrują się w kilku obszarach.
 
-### Główny wniosek: korekta vs prewencja
+Najważniejsze obserwacje:
 
-Naruszenia podzieliłem na dwie grupy, bo wymagają różnych działań:
+- ogólny wskaźnik jakości danych: **~97%**,
+- największa liczba naruszeń występuje w tabeli **`kontrahenci`**,
+- najwięcej błędów dotyczy wymiaru **spójności danych**,
+- wykryto **304 naruszenia integralności referencyjnej** oraz **240 duplikatów** identyfikatorów (NIP i REGON).
 
-- **Do automatycznego czyszczenia (Power Query):** ta sama wartość zapisana na różne
-  sposoby — kraj, waluta, jednostka, VAT, format kodu pocztowego, NIP z myślnikami.
-- **Do prewencji u źródła (walidacja w ERP):** realne błędy, których czyszczenie nie
-  wymyśli — braki NIP, duplikaty, rekordy osierocone, ujemna marża, błędna
-  kolejność dat.
 
-Ten podział zamienia listę błędów w konkretny plan działania.
+## Wnioski
+
+Audyt pokazał, że nie wszystkie problemy jakości danych wymagają tego samego sposobu rozwiązania.
+
+Można je podzielić na dwie grupy:
+
+- **problemy możliwe do usunięcia podczas przygotowania danych**, np. ujednolicenie słowników, formatów czy wartości tekstowych,
+- **problemy wymagające zmian w systemach źródłowych**, takie jak brakujące dane, duplikaty, naruszenia relacji czy błędna logika biznesowa.
+
+Taki podział ułatwia określenie, które działania można zautomatyzować, a które wymagają zmian w procesach wprowadzania danych.
 
 ## Dashboard
 
@@ -107,7 +103,7 @@ Ten podział zamienia listę błędów w konkretny plan działania.
   otwierana przez **drill-through** z wykresów.
 
 <p align="center">
-  <img src="docs/dashboard_szczegoly.png" alt="Dashboard Power BI — strona szczegółów" width="90%">
+  <img src="images/Dashboard_overview-01.png" alt="Dashboard Power BI — strona przeglądu" width="90%">
 </p>
 
 ## Jak uruchomić
