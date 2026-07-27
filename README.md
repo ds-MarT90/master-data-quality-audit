@@ -1,31 +1,43 @@
-# Jakość danych podstawowych — audyt w SQL i dashboard w Power BI
+# Audyt jakości danych podstawowych w SQL-u i Power BI
 
 ![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-003B57?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=flat-square)
 
-Kompletny projekt jakości danych: od surowego, „brudnego" eksportu z ERP/CRM,
-przez profilowanie i reguły napisane w **SQL**, po scorecard KPI oraz interaktywny
-**dashboard w Power BI**, który pozwala zejść do pojedynczego rekordu.
+Projekt przedstawia proces audytu jakości danych podstawowych – od profilowania danych i implementacji reguł jakości w SQL-u, po budowę tabeli wynikowej oraz interaktywnego dashboardu w Power BI.
+
+## Problem
+
+Jakość danych podstawowych ma bezpośredni wpływ na raportowanie, analizy oraz procesy biznesowe. Błędy takie jak duplikaty, brakujące wartości, niespójne słowniki czy naruszenia relacji pomiędzy tabelami prowadzą do nieprawidłowych analiz i zwiększają koszt utrzymania danych.
+
+Celem projektu było wykrycie problemów z jakością danych, zmierzenie ich skali oraz przygotowanie raportu wspierającego działania związane z Data Quality i Master Data Management.
 
 > **Dane w tym repozytorium są syntetyczne** (wygenerowane na potrzeby projektu).
 > Nie zawierają żadnych rzeczywistych informacji o firmach ani osobach.
 
+
+> ## Projekt w skrócie
+
+- profilowanie danych z pięciu tabel
+- implementacja 35 reguł jakości danych w SQL
+- budowa tabeli wynikowej (`dq_wyniki`)
+- dashboard KPI w Power BI
+- analiza sześciu wymiarów jakości danych
+
 <p align="center">
-  <img src="docs/dashboard_przeglad.png" alt="Dashboard Power BI — strona przeglądu" width="90%">
+  <img src="images/Dashboard_overview-01.png" alt="Dashboard Power BI — strona przeglądu" width="90%">
 </p>
 
-## Problem
+--
 
-Dane podstawowe (kontrahenci, produkty, umowy, kontakty CRM, środki trwałe) rzadko
-są idealne: duplikaty NIP-ów, niespójne słowniki (`PL` / `Polska` / `Poland`),
-rekordy wskazujące na nieistniejącego kontrahenta oraz daty łamiące chronologię.
-Takie błędy po cichu psują raporty i procesy.
+<p align="center">
+  <img src="images/Dashboard_overview-02.png" alt="Dashboard Power BI — filtrowanie" width="90%">
+</p>
 
-Celem projektu było **zmierzenie** stanu danych, **wskazanie konkretnych rekordów**
-do poprawy oraz **podział problemów** na dwie grupy: te, które można wyczyścić
-automatycznie, i te, które trzeba naprawić u źródła.
+--
+
+<p align="center">
+  <img src="images/Dashboard_details.png" alt="Dashboard Power BI — Drill Through" width="90%">
+</p>
 
 ## Dane
 
@@ -41,7 +53,7 @@ Pięć powiązanych tabel w formacie CSV (dane podstawowe):
 
 ## Reguły jakości
 
-Napisałem **35 reguł w T-SQL**, pogrupowanych w sześć wymiarów jakości. Każda reguła
+Napisałem **35 reguł w SQL**, pogrupowanych w sześć wymiarów jakości. Każda reguła
 ma `Rule ID`, opis i zwraca zarówno listę błędnych rekordów, jak i procent naruszeń.
 
 | Wymiar | Reguły | Przykłady |
@@ -54,20 +66,25 @@ ma `Rule ID`, opis i zwraca zarówno listę błędnych rekordów, jak i procent 
 | Aktualność | 5 | daty z przyszłości, błędna kolejność dat umów |
 | Reguła biznesowa | 1 | marża: cena sprzedaży ≥ cena zakupu |
 
-## Co zrobiłem
+## Przebieg projektu
 
-1. **Profilowanie.** Zmierzyłem kompletność, duplikaty, formaty i zakresy wartości
-   zanim napisałem jakąkolwiek regułę — najpierw liczby, potem wnioski.
-2. **Reguły w SQL.** Zbudowałem po jednym zapytaniu na regułę, używając wzorców
-   takich jak `GROUP BY ... HAVING COUNT(*) > 1` (duplikaty),
-   `LEFT JOIN ... WHERE klucz IS NULL` (rekordy osierocone) oraz bezpiecznego
-   rzutowania dat przez `TRY_CAST`.
-3. **Scorecard.** Połączyłem wszystkie reguły w jedną tabelę wynikową (`dq_wyniki`),
-   tak by każda reguła stała się jednym wierszem: wymiar, tabela, liczba naruszeń
-   i procent błędów.
-4. **Dashboard w Power BI.** Podłączyłem scorecard i zbudowałem dwie strony:
-   przegląd z KPI i wykresami oraz stronę szczegółów dostępną przez drążenie
-   (drill-through).
+Projekt został zrealizowany w czterech etapach:
+
+### 1. Profilowanie danych
+
+Na początku przeanalizowałem strukturę i jakość danych w pięciu tabelach. Sprawdziłem między innymi kompletność, duplikaty, rozkład wartości, formaty danych oraz zakresy dat. Dzięki temu możliwe było określenie, które obszary wymagają walidacji.
+
+### 2. Implementacja reguł jakości danych
+
+Na podstawie wyników profilowania przygotowałem 35 reguł jakości danych w SQL-u, obejmujących sześć wymiarów jakości. Każda reguła zwraca liczbę naruszeń, procent błędnych rekordów oraz listę rekordów wymagających poprawy.
+
+### 3. Budowa scorecard
+
+Wyniki wszystkich reguł zostały zapisane w tabeli `dq_wyniki`, która stanowi centralne źródło danych dla raportowania. Dzięki ujednoliconej strukturze możliwe jest porównywanie jakości pomiędzy tabelami, wymiarami oraz poszczególnymi regułami.
+
+### 4. Dashboard Power BI
+
+Na podstawie tabeli wynikowej przygotowałem interaktywny dashboard prezentujący wskaźniki jakości danych, liczbę naruszeń oraz możliwość analizy szczegółów z wykorzystaniem mechanizmu Drill Through.
 
 ## Kluczowe wyniki
 
