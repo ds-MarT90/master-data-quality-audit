@@ -83,7 +83,7 @@ Najważniejsze obserwacje:
 - ogólny wskaźnik jakości danych: **~97%**,
 - największa liczba naruszeń występuje w tabeli **`kontrahenci`**,
 - najwięcej błędów dotyczy wymiaru **spójności danych**,
-- wykryto **304 naruszenia integralności referencyjnej** oraz **240 duplikatów** identyfikatorów (NIP i REGON).
+- wykryto **223 naruszenia integralności referencyjnej** oraz **240 duplikatów** identyfikatorów (NIP i REGON).
 
 
 ## Wnioski
@@ -118,7 +118,7 @@ Taki podział ułatwia określenie, które działania można zautomatyzować, a 
 
 ## Technologie
 
-· MS SQL Server · Power BI · 
+MS SQL Server · Power BI 
 
 ## Autor
 
