@@ -27,16 +27,6 @@ Celem projektu było wykrycie problemów z jakością danych, zmierzenie ich ska
   <img src="images/Dashboard_overview-01.png" alt="Dashboard Power BI — strona przeglądu" width="90%">
 </p>
 
-
-<p align="center">
-  <img src="images/Dashboard_overview-02.png" alt="Dashboard Power BI — filtrowanie" width="90%">
-</p>
-
-
-<p align="center">
-  <img src="images/Dashboard_details.png" alt="Dashboard Power BI — Drill Through" width="90%">
-</p>
-
 ## Dane
 
 Pięć powiązanych tabel w formacie CSV (dane podstawowe):
