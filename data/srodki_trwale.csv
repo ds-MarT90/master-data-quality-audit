@@ -1,0 +1,601 @@
+srodek_id,numer_inwentarzowy,nazwa,kategoria_kst,data_przyjecia,wartosc_poczatkowa,stawka_amortyzacji,lokalizacja,osoba_odpowiedzialna,dostawca_id,status
+1,ST/00001,Triple-buffered tangible time-frame,3,2022-08-15,145425.33,30,Koszalin,pan Stefan Loska,541,zlikwidowany
+2,ST/00002,Synergistic motivating open architecture,3,2024-06-13,128128.65,10,Olkusz,Dagmara Galon,291,zlikwidowany
+3,ST/00003,Future-proofed cohesive support,3,2022-07-24,18157.37,18,Kętrzyn,Olga Nowek,708,w naprawie
+4,ST/00004,Front-line incremental interface,4,2018-07-24,1872.5,20,Września,Daniel Częścik,1932,w naprawie
+5,ST/00005,Persistent intermediate software,6,2021-11-27,149076.42,7,Zgierz,Rozalia Felisiak,1263,w użyciu
+6,ST/00006,Stand-alone zero administration policy,6,2023-07-21,33529.79,10,Świdnica,Olgierd Pochopień,2077,zlikwidowany
+7,ST/00007,Centralized mission-critical portal,3,2023-05-18,157913.31,30,Otwock,Kornelia Litwa,778,w użyciu
+8,ST/00008,Face-to-face mission-critical methodology,3,2024-11-17,46712.99,14,Środa Wielkopolska,pan Krzysztof Batóg,295,w naprawie
+9,ST/00009,Pre-emptive bi-directional instruction set,4,2024-01-30,40563.51,18,Świdnica,Julianna Sieradzan,1705,w naprawie
+10,,Networked content-based software,4,2025-03-09,135215.57,20,Chojnice,pani Melania Gilewicz,168,w użyciu
+11,ST/00011,Enhanced global portal,6,2023-11-06,90535.73,7,Konin,pani Urszula Wódka,399,w użyciu
+12,ST/00012,Robust asynchronous hardware,8,2022-02-19,138224.93,10,Chojnice,pan Tadeusz Niewiara,1863,w naprawie
+13,ST/00013,Profound client-server database,3,2025-01-25,44247.37,14,Radom,pan Mateusz Osada,1285,w użyciu
+14,ST/00014,Cloned dedicated data-warehouse,3,2026-01-15,14070.94,14,Polkowice,Elżbieta Buława,1123,w użyciu
+15,ST/00015,Digitized demand-driven throughput,4,2024-02-10,53328.45,18,Sopot,Jerzy Latoszek,1938,w użyciu
+16,ST/00016,Optional object-oriented structure,8,2025-02-23,91891.9,20,Jelenia Góra,Ryszard Rodzeń,334,w użyciu
+17,ST/00017,Reactive 24hour array,491,2024-03-21,29317.86,30,Sandomierz,Aurelia Naumiuk,193,zlikwidowany
+18,ST/00018,Multi-channeled reciprocal pricing structure,6,2026-03-16,6907.92,30,Opole,Tymoteusz Kaczmarkiewicz,1489,zlikwidowany
+19,ST/00019,Innovative intangible firmware,491,2025-12-10,126896.32,30,Białystok,Krzysztof Łuczkiewicz,1898,w użyciu
+20,ST/00020,Quality-focused coherent neural-net,3,2020-03-05,74024.85,30,Malbork,Błażej Sadownik,1795,zlikwidowany
+21,ST/00021,Multi-channeled optimizing hardware,6,2025-03-18,143369.76,18,Rybnik,Tymon Kiełek,1960,w naprawie
+22,ST/00022,Ergonomic discrete open system,8,2020-01-11,168092.08,14,Goleniów,Leonard Piwowarek,1608,zlikwidowany
+23,ST/00023,Networked intermediate software,4,2024-01-04,157066.85,10,Nowa Sól,Marcin Wałdoch,1924,w użyciu
+24,ST/00024,Re-engineered explicit core,6,2019-12-26,42253.84,7,Oława,Karina Komisarczyk,1478,zlikwidowany
+25,ST/00025,Synergistic value-added forecast,4,2020-04-22,23615.76,30,Słupsk,Ernest Brózda,1786,w użyciu
+26,ST/00026,Phased uniform matrices,491,2022-11-14,134579.41,18,Zamość,Krystyna Stiller,743,zlikwidowany
+27,ST/00027,Vision-oriented fresh-thinking application,8,2021-07-13,34237.22,20,Świebodzice,Mateusz Rozumek,241,w naprawie
+28,ST/00028,Upgradable context-sensitive knowledge user,3,2020-06-19,79705.02,14,Chrzanów,Maksymilian Karnas,1193,zlikwidowany
+29,ST/00029,Re-engineered demand-driven archive,6,2018-08-05,126281.54,30,Piaseczno,Maurycy Kobza,1652,w naprawie
+30,ST/00030,Managed heuristic customer loyalty,491,2024-12-31,66696.5,20,Słupsk,Sara Chromy,980,w użyciu
+31,ST/00031,Robust client-server focus group,4,2025-07-20,15887.03,30,Wyszków,Apolonia Mrozowicz,940,w użyciu
+32,ST/00032,Team-oriented maximized circuit,4,2021-09-04,59819.72,7,Otwock,pan Gustaw Machowicz,1960,w naprawie
+33,ST/00033,Front-line upward-trending migration,3,2020-12-01,60280.13,30,Bielsk Podlaski,Gaja Stypa,1419,zlikwidowany
+34,ST/00034,Down-sized multi-tasking Internet solution,3,2022-06-26,149740.3,,Mińsk Mazowiecki,Dorota Cyroń,1279,zlikwidowany
+35,ST/00035,Polarized eco-centric methodology,8,2021-06-15,5446.37,14,Iława,Karol Solarek,1193,w użyciu
+36,ST/00036,Implemented 3rdgeneration intranet,6,2020-12-23,18801.04,30,Kołobrzeg,Gaja Glegoła,1584,zlikwidowany
+37,ST/00037,Secured homogeneous functionalities,4,2024-01-08,11466.48,7,Piotrków Trybunalski,Oskar Bałdys,905,w użyciu
+38,ST/00038,Intuitive mobile definition,6,2025-02-18,3665.95,18,Zabrze,Julian Gniewek,1089,w użyciu
+39,ST/00039,Horizontal 3rdgeneration firmware,4,2020-01-18,149834.92,7,Zabrze,Róża Ludwisiak,1744,w naprawie
+40,ST/00040,Customer-focused non-volatile architecture,6,2018-10-19,75293.7,30,Tarnów,Witold Ziarno,2051,w użyciu
+41,ST/00041,Team-oriented dynamic knowledgebase,491,2022-03-20,84046.87,7,Sosnowiec,Kaja Kukuczka,540,w naprawie
+42,ST/00042,Organic multi-tasking attitude,491,2026-01-13,116509.68,30,Ełk,Borys Nitkiewicz,2040,w użyciu
+43,ST/00043,Multi-channeled foreground algorithm,491,2024-03-30,100662.58,18,Bytom,Leonard Piątkiewicz,577,zlikwidowany
+44,ST/00044,Cloned stable artificial intelligence,8,2019-04-04,95735.61,10,Bydgoszcz,Kazimierz Łusiak,74,w naprawie
+45,ST/00045,Innovative holistic infrastructure,6,2023-09-28,29604.06,18,Mińsk Mazowiecki,Tomasz Jamrożek,1736,zlikwidowany
+46,ST/00046,Face-to-face mission-critical approach,6,2021-02-02,56136.64,14,Białogard,Wiktor Leszczak,1788,w użyciu
+47,ST/00047,Team-oriented maximized focus group,4,2022-03-15,143049.98,7,Mława,Tomasz Kosałka,1523,w naprawie
+48,ST/00048,Multi-lateral intangible algorithm,3,2021-08-07,115276.78,30,Olkusz,Jan Bareja,1193,w naprawie
+49,ST/00049,Customer-focused tertiary standardization,6,2022-06-27,13971.71,18,Mińsk Mazowiecki,Agnieszka Matusewicz,2135,w użyciu
+50,ST/00050,Front-line radical matrices,8,2023-07-04,13499.94,20,Kłodzko,Karol Stempel,1312,w użyciu
+51,ST/00051,Adaptive bandwidth-monitored protocol,6,2019-08-07,96882.25,20,Ełk,Klara Stosio,1717,zlikwidowany
+52,ST/00052,Compatible neutral pricing structure,4,2026-01-10,117214.93,20,Słupsk,Robert Podkowa,985,w naprawie
+53,ST/00053,Adaptive intangible archive,6,2020-02-18,176464.25,7,Ostrowiec Świętokrzyski,Józef Kalisiak,1791,zlikwidowany
+54,ST/00054,Team-oriented optimizing interface,491,2025-11-15,175359.3,14,Zduńska Wola,Alan Cierpka,1895,w użyciu
+55,ST/00055,Intuitive attitude-oriented flexibility,8,2021-01-05,27247.89,14,Leszno,pani Róża Pawlonka,376,w naprawie
+56,ST/00056,Phased attitude-oriented architecture,491,2026-06-18,81904.68,14,Oława,Filip Świerkosz,369,w użyciu
+57,ST/00057,Mandatory actuating artificial intelligence,4,2018-12-16,61088.52,10,Racibórz,Krzysztof Karwala,1573,w użyciu
+58,ST/00058,Customizable object-oriented Graphic Interface,3,2025-10-04,184061.83,20,Września,Adam Borzych,472,w naprawie
+59,ST/00059,Distributed mission-critical initiative,3,2021-04-25,190556.91,30,Grodzisk Mazowiecki,Jacek Stranc,982,w użyciu
+60,ST/00060,Versatile modular matrix,3,2024-10-19,157721.33,7,Krotoszyn,Urszula Zieja,2047,w naprawie
+61,ST/00061,Inverse eco-centric middleware,6,2020-05-31,183677.6,7,Zawiercie,Krystian Grubba,1150,zlikwidowany
+62,ST/00062,Phased grid-enabled access,6,2019-08-06,6029.9,7,Mielec,Kajetan Laszczyk,144,zlikwidowany
+63,ST/00063,Open-architected empowering system engine,4,2024-12-24,69837.78,20,Sosnowiec,Tola Wacławiak,279,zlikwidowany
+64,ST/00064,Fundamental stable synergy,4,2024-06-29,122667.54,,Białogard,Kamil Tarach,609,w naprawie
+65,ST/00065,Upgradable well-modulated matrix,491,2023-05-24,65183.74,18,Wejherowo,Dominik Jargieło,1577,w użyciu
+66,ST/00066,Programmable cohesive methodology,3,2022-07-23,3957.65,7,Łaziska Górne,pan Adam Morka,294,w naprawie
+67,ST/00067,Realigned next generation toolset,6,2024-10-30,72935.65,7,Rybnik,Adam Żero,2592,zlikwidowany
+68,ST/00068,Realigned 3rdgeneration archive,3,2020-10-31,77263.93,7,Mława,pan Kajetan Kołsut,725,zlikwidowany
+69,ST/00069,Balanced next generation concept,4,2021-10-02,33628.89,30,Piaseczno,pan Miłosz Wielgo,1586,w użyciu
+70,ST/00070,Balanced empowering flexibility,491,2025-04-27,135496.33,10,Nowa Ruda,Tomasz Harasimiuk,1277,w użyciu
+71,ST/00071,Grass-roots value-added challenge,3,2020-05-09,13819.22,7,Brodnica,Tymon Kalinka,984,w użyciu
+72,ST/00072,Open-architected modular utilization,491,2023-08-29,41760.53,7,Czerwionka-Leszczyny,Liwia Głuszko,1583,w użyciu
+73,ST/00073,Centralized tangible hardware,8,2025-11-05,32364.08,20,Gdynia,Kornel Pietrus,1819,w naprawie
+74,ST/00074,Decentralized discrete intranet,3,2023-09-24,45822.82,30,Świecie,Kajetan Ryszkiewicz,1891,zlikwidowany
+75,ST/00075,Profound eco-centric process improvement,6,2026-04-20,186449.01,14,Mińsk Mazowiecki,Gustaw Betka,422,w użyciu
+76,ST/00076,Function-based asymmetric installation,491,2025-03-06,171544.52,,Wieluń,Gustaw Grzela,565,w użyciu
+77,ST/00077,Adaptive leadingedge implementation,6,2019-12-23,193702.72,14,Biłgoraj,Monika Wosiek,2517,w naprawie
+78,ST/00078,Advanced 6thgeneration interface,4,2020-09-21,99308.3,14,Nowy Targ,Błażej Kucharzyk,1225,w naprawie
+79,ST/00079,Optimized high-level orchestration,4,2020-09-22,195995.06,7,Kwidzyn,Artur Zbrzeźniak,2100,zlikwidowany
+80,ST/00080,User-friendly solution-oriented toolset,3,2022-08-10,31579.15,10,Żary,Klara Wojtarowicz,1534,zlikwidowany
+81,ST/00081,Customer-focused systemic application,3,2025-07-13,141436.82,,Racibórz,Marcel Hanas,693,w naprawie
+82,,Persevering zero tolerance artificial intelligence,3,2019-05-11,52221.51,10,Ostrołęka,Antoni Woda,1606,w naprawie
+83,ST/00083,Proactive intermediate access,8,2020-03-20,70548.82,14,Bytom,pan Albert Bereda,1767,w użyciu
+84,ST/00084,Triple-buffered value-added monitoring,8,2020-12-04,147037.78,30,Kraków,Adrianna Wojtczuk,875,w użyciu
+85,ST/00085,Reactive eco-centric conglomeration,3,2023-05-10,20358.15,30,Cieszyn,Leonard Godzik,931,w użyciu
+86,ST/00086,Persevering intermediate benchmark,4,2019-12-13,134384.88,,Police,Karina Pastuszek,2450,zlikwidowany
+87,ST/00087,Balanced intermediate interface,8,2020-11-16,139454.71,18,Wołomin,Tomasz Dargacz,1923,w naprawie
+88,ST/00088,Up-sized cohesive website,491,2019-03-02,102570.29,30,Konin,Radosław Szwałek,511,w użyciu
+89,ST/00089,Decentralized empowering database,3,2025-08-25,35596.16,10,Łódź,Kamil Kranc,313,w użyciu
+90,ST/00090,Diverse local conglomeration,4,2019-09-22,103553.52,7,Piastów,pani Anna Maria Powierża,885,w naprawie
+91,ST/00091,Exclusive interactive Local Area Network,4,2024-04-01,96672.75,20,Tczew,Anna Maria Gebauer,874,w użyciu
+92,ST/00092,Re-engineered bi-directional concept,8,2019-01-31,120415.64,7,Wągrowiec,Mieszko Cacko,772,w naprawie
+93,ST/00093,Reduced encompassing workforce,491,2019-06-26,126239.81,20,Świdnica,pan Gustaw Balcewicz,1732,w użyciu
+94,ST/00094,Public-key needs-based algorithm,8,2018-10-05,171754.73,20,Ruda Śląska,Leon Dziczek,628,w naprawie
+95,ST/00095,Versatile impactful website,491,2023-02-15,131599.16,30,Włocławek,Ewelina Kuncewicz,2075,w naprawie
+96,ST/00096,Operative bandwidth-monitored synergy,4,2024-09-04,24281.47,10,Wrocław,Krystian Hallmann,836,zlikwidowany
+97,ST/00097,Pre-emptive stable alliance,491,2023-04-16,36257.73,20,Gliwice,Alan Krywult,1017,zlikwidowany
+98,ST/00098,Business-focused user-facing projection,491,2024-11-07,2169.61,20,Otwock,Róża Witos,1852,zlikwidowany
+99,ST/00099,Face-to-face holistic Graphical User Interface,491,2023-06-12,100298.95,18,Pruszcz Gdański,pani Natasza Baranowicz,1671,w naprawie
+100,ST/00100,Object-based leadingedge implementation,6,2024-12-09,10769.49,14,Ostrów Mazowiecka,Justyna Kuciak,1163,zlikwidowany
+101,ST/00101,Open-source coherent orchestration,3,2021-08-16,32122.14,10,Zduńska Wola,pani Aurelia Handzel,1411,w naprawie
+102,ST/00102,Networked actuating capacity,491,2025-08-31,144468.14,14,Środa Wielkopolska,pani Ada Józwik,2107,zlikwidowany
+103,ST/00103,Pre-emptive content-based circuit,4,2026-04-21,145251.03,20,Toruń,Kajetan Szajda,761,w naprawie
+104,ST/00104,Grass-roots high-level analyzer,6,2018-11-20,176201.69,20,Żywiec,Tobiasz Pasich,166,zlikwidowany
+105,ST/00105,Future-proofed 3rdgeneration pricing structure,3,2021-06-05,196747.72,10,Bolesławiec,pan Arkadiusz Klisz,1080,w naprawie
+106,ST/00106,Realigned modular attitude,491,2024-10-02,7876.38,14,Iława,Stefan Franiak,1900,zlikwidowany
+107,ST/00107,Decentralized web-enabled approach,491,2025-01-09,110242.03,10,Radom,Justyna Rubacha,1646,w użyciu
+108,ST/00108,Inverse needs-based frame,491,2019-10-08,67505.57,20,Lębork,Tadeusz Jargiło,1605,zlikwidowany
+109,,Universal web-enabled workforce,491,2022-10-07,83607.71,20,Swarzędz,Szymon Golisz,437,zlikwidowany
+110,ST/00110,Adaptive even-keeled Internet solution,4,2021-04-28,167062.31,20,Toruń,Jędrzej Mateńko,1033,zlikwidowany
+111,ST/00111,Streamlined transitional instruction set,3,2022-03-13,48713.51,18,Warszawa,pan Eryk Wajdzik,772,w naprawie
+112,ST/00112,Re-contextualized systemic encryption,8,2023-03-26,38416.8,14,Kwidzyn,pani Marcelina Podpora,1412,w naprawie
+113,ST/00113,Persistent reciprocal application,6,2019-03-19,101606.03,7,Kłodzko,pani Olga Bobryk,294,zlikwidowany
+114,ST/00114,Phased 24/7 capacity,3,2025-03-18,75871.52,7,Oleśnica,Damian Tokaj,1194,zlikwidowany
+115,ST/00115,Persevering interactive firmware,6,2022-12-03,74945.17,30,Krosno,Rafał Bitner,1099,w naprawie
+116,ST/00116,Synergized zero administration application,4,2024-06-10,138882.48,30,Ostrołęka,Ignacy Baś,1436,zlikwidowany
+117,ST/00117,Secured needs-based Graphic Interface,4,2019-02-10,96937.2,18,Oleśnica,pani Apolonia Szela,477,w użyciu
+118,ST/00118,Quality-focused multimedia time-frame,3,2018-09-20,187800.79,10,Warszawa,Grzegorz Jaszcz,877,w naprawie
+119,ST/00119,Integrated 4thgeneration implementation,3,2025-03-02,83849.96,18,Słupsk,Nela Matejczyk,1437,w naprawie
+120,,Adaptive leadingedge complexity,3,2022-07-04,35137.89,20,Wodzisław Śląski,pani Justyna Sus,1484,w użyciu
+121,ST/00121,Multi-layered system-worthy challenge,491,2026-02-03,60528.7,10,Iława,pani Natasza Penar,1782,w użyciu
+122,ST/00122,Multi-layered analyzing budgetary management,3,2024-07-19,103074.11,14,Inowrocław,pani Agnieszka Graboś,1618,w naprawie
+123,ST/00123,Configurable background website,4,2024-07-15,22314.42,14,Bolesławiec,pan Jan Szpyra,1324,zlikwidowany
+124,ST/00124,Multi-lateral bottom-line database,3,2023-07-05,80829.81,10,Brodnica,Liwia Kościuszko,1771,w naprawie
+125,ST/00125,Future-proofed background migration,8,2023-06-04,119882.17,30,Szczecin,pani Gaja Bartoś,2164,w naprawie
+126,ST/00126,Customer-focused clear-thinking adapter,4,2024-03-31,116398.61,18,Skawina,Anastazja Rudolf,959,w naprawie
+127,,Self-enabling 6thgeneration focus group,4,2021-01-13,85083.9,20,Świebodzice,pani Lidia Barankiewicz,144,zlikwidowany
+128,ST/00128,Reduced real-time data-warehouse,6,2021-08-23,85043.32,14,Stargard Szczeciński,Lidia Kubrak,881,w użyciu
+129,ST/00129,Total regional circuit,3,2018-08-19,113542.43,30,Łaziska Górne,Melania Sot,1870,w użyciu
+130,ST/00130,Reduced empowering knowledge user,3,2022-05-08,67779.18,7,Suwałki,pan Michał Basak,452,w naprawie
+131,ST/00131,Distributed systematic hub,8,2020-11-16,39340.26,14,Konin,Franciszek Mokwa,932,w naprawie
+132,ST/00132,Business-focused high-level installation,4,2023-10-30,145169.15,30,Piła,Aleksander Groborz,1995,w naprawie
+133,ST/00133,Configurable coherent framework,3,2025-07-16,188353.7,30,Wałbrzych,Malwina Hendzel,918,w użyciu
+134,ST/00134,Seamless exuding pricing structure,491,2024-03-28,71558.03,30,Bielsko-Biała,Jędrzej Szkup,1055,w użyciu
+135,ST/00135,Cloned non-volatile definition,8,2022-12-12,178923.07,30,Nowa Sól,Elżbieta Steinke,200,w użyciu
+136,ST/00136,Ergonomic intermediate framework,3,2024-05-25,168987.99,10,Ostrowiec Świętokrzyski,Nataniel Gajcy,1562,w użyciu
+137,ST/00137,Team-oriented content-based artificial intelligence,8,2020-11-22,184020.14,7,Biłgoraj,Jędrzej Małyszka,1823,w naprawie
+138,,Right-sized even-keeled hub,491,2026-06-24,125578.31,14,Szczecinek,Leonard Domżał,1924,zlikwidowany
+139,ST/00139,Versatile needs-based paradigm,491,2026-04-09,109829.1,18,Legionowo,Gustaw Baumgart,578,w użyciu
+140,ST/00140,Total discrete utilization,3,2021-10-25,27323.28,30,Wyszków,Ewelina Jędrak,2609,w użyciu
+141,ST/00141,Secured neutral paradigm,491,2023-04-07,78815.14,20,Sopot,Olaf Chlipała,709,zlikwidowany
+142,ST/00142,Synergistic well-modulated analyzer,8,2023-01-14,45758.01,14,Zielona Góra,Mateusz Hudzik,190,w użyciu
+143,,Distributed demand-driven encoding,491,2024-09-05,18827.9,20,Siemianowice Śląskie,Paweł Pinda,1796,w naprawie
+144,ST/00144,Re-contextualized human-resource ability,6,2021-06-07,22060.42,7,Płońsk,Arkadiusz Łuszczak,2061,w naprawie
+145,ST/00145,Seamless uniform structure,8,2023-10-03,0,14,Biłgoraj,Anastazja Marcol,423,w użyciu
+146,ST/00146,Fundamental 24hour algorithm,4,2025-03-05,54488.59,10,Środa Wielkopolska,Andrzej Borkowicz,575,zlikwidowany
+147,ST/00147,Quality-focused intermediate implementation,6,2026-05-24,44175.38,10,Chojnice,Roksana Tatarek,1078,zlikwidowany
+148,ST/00148,Proactive solution-oriented collaboration,8,2022-09-21,89615.54,7,Nysa,Miłosz Musiolik,1647,w naprawie
+149,ST/00149,Intuitive mission-critical superstructure,491,2020-10-07,63809.86,14,Cieszyn,Marianna Albin,1936,w użyciu
+150,ST/00150,Open-source motivating algorithm,6,2021-10-05,66910.08,7,Tarnobrzeg,Ada Solarczyk,1275,w naprawie
+151,ST/00151,Progressive analyzing open architecture,6,2020-08-19,89935.97,30,Łaziska Górne,Ksawery Warczak,1865,w naprawie
+152,ST/00152,Balanced non-volatile knowledgebase,8,2019-12-13,175238.29,30,Bydgoszcz,Elżbieta Bilik,106,zlikwidowany
+153,ST/00153,Down-sized explicit Local Area Network,4,2019-12-30,49930.22,18,Olkusz,Roksana Mikita,1816,w naprawie
+154,ST/00154,Cross-platform multi-tasking solution,4,2026-03-24,29431.28,7,Otwock,Paweł Goral,1359,zlikwidowany
+155,ST/00155,Re-contextualized motivating protocol,3,2020-05-08,166234.81,18,Gorlice,Rafał Bondaruk,1005,w naprawie
+156,ST/00156,Persevering multi-tasking software,491,2023-08-17,90690.73,30,Jelenia Góra,Kaja Staniczek,83,zlikwidowany
+157,ST/00157,Re-engineered human-resource access,4,2021-05-14,166504.06,14,Wrocław,Blanka Czosnyka,1695,w użyciu
+158,ST/00158,Profit-focused systemic moderator,8,2022-12-27,54368.89,10,Kielce,Ada Drynda,998,zlikwidowany
+159,ST/00159,Business-focused fault-tolerant superstructure,491,2018-12-04,79997.45,10,Jaworzno,pani Anna Maria Kudra,2072,zlikwidowany
+160,ST/00160,Future-proofed homogeneous Graphic Interface,6,2022-02-26,151621.28,14,Jasło,Kaja Szatko,2053,zlikwidowany
+161,ST/00161,Vision-oriented asynchronous service-desk,4,2018-09-25,56907.02,7,Jarosław,Damian Gadzała,16,w naprawie
+162,ST/00162,Horizontal bandwidth-monitored secured line,491,2025-01-10,97515.1,30,Września,pan Jan Wałdoch,1368,zlikwidowany
+163,ST/00163,Decentralized 6thgeneration open architecture,6,2026-07-10,1410.64,30,Toruń,Błażej Wojtanowicz,1663,w naprawie
+164,ST/00164,Up-sized 24hour process improvement,6,2025-12-15,194381.35,,Myszków,pani Agnieszka Potaczek,2485,w naprawie
+165,ST/00165,Persevering neutral orchestration,8,2025-01-29,113458.46,10,Gdynia,Ewelina Paw,2022,w naprawie
+166,ST/00166,Ergonomic eco-centric instruction set,8,2022-12-01,127835.79,7,Legionowo,Róża Lipok,2352,w naprawie
+167,ST/00167,Sharable client-driven info-mediaries,491,2025-04-04,8786.62,20,Toruń,Oskar Kieszek,1995,w naprawie
+168,ST/00168,Cloned static middleware,491,2025-04-12,125967.46,7,Szczytno,Kaja Konieczek,2048,w naprawie
+169,ST/00169,Optimized value-added superstructure,491,2024-04-18,197606.46,30,Żyrardów,Adam Gregorowicz,997,w naprawie
+170,ST/00170,Sharable real-time orchestration,4,2018-09-15,22071.13,10,Chrzanów,Borys Fedyk,1655,w użyciu
+171,ST/00171,Assimilated multi-tasking methodology,3,2018-08-15,101666.49,10,Wieluń,Bruno Ślebioda,335,w naprawie
+172,ST/00172,Progressive context-sensitive project,3,2026-03-08,30404.12,30,Łaziska Górne,pani Nela Szczypek,1551,zlikwidowany
+173,ST/00173,De-engineered intangible support,6,2023-12-18,57538.72,14,Ostróda,pan Julian Andreasik,2537,zlikwidowany
+174,ST/00174,Configurable full-range toolset,8,2020-07-22,29337.21,30,Legionowo,pan Ignacy Uzar,1348,w użyciu
+175,ST/00175,Upgradable leadingedge customer loyalty,3,2021-12-24,129911.17,18,Skawina,Ryszard Budych,1180,w naprawie
+176,ST/00176,Down-sized bottom-line matrices,491,2018-09-09,150529.93,14,Świecie,pani Kaja Bździuch,1357,zlikwidowany
+177,ST/00177,Polarized radical portal,6,2021-10-10,36605.65,7,Tarnowskie Góry,Witold Polaszek,523,w naprawie
+178,ST/00178,Customizable modular moratorium,491,2020-03-26,45280.07,10,Słupsk,pan Olgierd Zawartka,1855,w użyciu
+179,ST/00179,Automated heuristic projection,3,2020-07-12,170233.09,14,Turek,pan Przemysław Chochół,789,w naprawie
+180,ST/00180,Automated multi-tasking function,491,2025-12-15,102992.54,7,Wrocław,pan Maurycy Linda,1008,w naprawie
+181,ST/00181,Function-based 24/7 task-force,6,2020-07-22,132170.53,20,Płock,pani Nela Kozar,643,w naprawie
+182,ST/00182,Open-source human-resource challenge,491,2021-11-18,165456.95,30,Płock,pan Bruno Pytko,1651,w naprawie
+183,ST/00183,Self-enabling clear-thinking functionalities,6,2022-02-09,98593.37,20,Puławy,Krystian Szabla,1379,w użyciu
+184,ST/00184,Managed next generation toolset,6,2022-02-02,168390.71,7,Świdnik,Agnieszka Zachwieja,721,w użyciu
+185,,Seamless context-sensitive orchestration,4,2023-12-30,27859.77,14,Krotoszyn,Marcelina Fiedoruk,196,zlikwidowany
+186,ST/00186,Devolved transitional instruction set,6,2018-08-15,35874.73,10,Kwidzyn,Aleksander Laskus,615,zlikwidowany
+187,ST/00187,Synchronized 4thgeneration attitude,6,2025-11-14,7574.76,10,Racibórz,Paweł Mądrzak,345,w użyciu
+188,ST/00188,Programmable cohesive intranet,8,2023-10-06,107127.52,7,Jawor,Dagmara Kubrak,244,zlikwidowany
+189,ST/00189,Synchronized national moderator,491,2022-01-08,2550.0,,Stargard Szczeciński,Łukasz Haponiuk,1676,zlikwidowany
+190,ST/00190,Exclusive national secured line,8,2024-12-23,164282.76,20,Ostrów Mazowiecka,Sebastian Czupryna,1484,zlikwidowany
+191,ST/00191,Multi-channeled secondary extranet,3,2019-01-01,88043.43,20,Świdnik,Daniel Wojtoń,774,w użyciu
+192,ST/00192,Open-source intermediate array,4,2018-12-26,137920.57,30,Toruń,Olgierd Gryka,547,w naprawie
+193,ST/00193,Multi-layered modular flexibility,8,2021-12-02,53839.3,30,Nowy Dwór Mazowiecki,Melania Mierzwiak,497,w użyciu
+194,ST/00194,Exclusive mobile projection,4,2025-08-08,0,7,Bytom,Elżbieta Linkiewicz,1,w naprawie
+195,ST/00195,Open-source client-server matrices,3,2022-02-14,131464.99,18,Pabianice,pani Bianka Bełz,225,zlikwidowany
+196,ST/00196,Automated actuating superstructure,4,2025-01-18,38085.12,14,Zabrze,Marianna Makosz,8,zlikwidowany
+197,ST/00197,Horizontal human-resource productivity,3,2019-08-31,75238.03,7,Katowice,Igor Wendt,508,w naprawie
+198,ST/00198,Robust zero tolerance alliance,8,2020-08-06,34444.86,7,Mława,Jan Kałek,919,w naprawie
+199,ST/00199,Right-sized bi-directional Internet solution,8,2025-01-11,74854.41,,Ciechanów,pani Roksana Boba,105,w użyciu
+200,ST/00200,Integrated uniform encryption,8,2020-07-25,39342.76,30,Katowice,Patryk Dudziec,648,w naprawie
+201,ST/00201,Programmable encompassing initiative,4,2020-12-30,114033.15,30,Włocławek,pan Fryderyk Drwięga,557,w naprawie
+202,ST/00202,Team-oriented cohesive website,491,2022-02-01,185328.33,20,Kraków,pani Gaja Drążyk,494,zlikwidowany
+203,,De-engineered global secured line,8,2024-02-10,47074.13,7,Wałcz,pan Antoni Czubaj,705,w użyciu
+204,ST/00204,Vision-oriented dedicated complexity,4,2021-07-28,156421.07,20,Gorzów Wielkopolski,Ewa Ścibior,348,zlikwidowany
+205,ST/00205,Vision-oriented impactful open system,4,2019-02-23,138239.97,7,Gorzów Wielkopolski,Adrianna Zeman,1391,w użyciu
+206,ST/00206,Self-enabling national service-desk,8,2019-08-04,513.02,20,Bielsk Podlaski,Wiktor Kurda,1964,w naprawie
+207,ST/00207,Decentralized modular array,3,2025-12-26,158194.4,30,Gniezno,Jakub Kęsek,364,zlikwidowany
+208,ST/00208,Digitized heuristic alliance,8,2025-09-09,65072.09,7,Gdańsk,Jeremi Latuszek,1248,w naprawie
+209,ST/00209,Digitized logistical instruction set,4,2025-07-26,171726.13,18,Stalowa Wola,Fabian Olbrych,356,zlikwidowany
+210,ST/00210,Re-engineered secondary function,6,2021-04-08,4799.37,7,Zambrów,Natan Chwedoruk,421,w użyciu
+211,ST/00211,Optional systematic software,3,2021-08-28,0,10,Tarnobrzeg,Alex Hennig,467,zlikwidowany
+212,ST/00212,Horizontal modular matrix,6,2019-02-21,16131.75,14,Wałcz,Maksymilian Golon,450,w użyciu
+213,ST/00213,Open-source 24/7 complexity,3,2026-02-13,195626.48,20,Kraśnik,pani Monika Ochał,562,w użyciu
+214,ST/00214,Reactive national success,6,2021-07-02,133071.62,18,Olkusz,pani Rozalia Kęsek,597,w naprawie
+215,ST/00215,Realigned modular functionalities,4,2025-08-15,5613.58,20,Swarzędz,Stanisław Skowyra,772,w naprawie
+216,ST/00216,Up-sized asymmetric service-desk,8,2026-06-21,99209.55,18,Wodzisław Śląski,pani Julianna Wośko,1508,w użyciu
+217,ST/00217,User-centric zero tolerance concept,491,2020-11-07,122175.32,10,Zambrów,Franciszek Ludwisiak,1529,w naprawie
+218,ST/00218,Cross-platform impactful focus group,8,2019-02-19,148783.66,30,Kościerzyna,Michał Latko,1292,zlikwidowany
+219,ST/00219,Fully-configurable responsive challenge,3,2023-03-07,137688.64,18,Łowicz,pan Maks Kosidło,388,zlikwidowany
+220,ST/00220,Implemented secondary time-frame,6,2019-05-13,178763.2,10,Świdnica,Olaf Sztuba,1901,w naprawie
+221,ST/00221,Universal client-server parallelism,3,2021-08-07,141168.81,,Bartoszyce,Mieszko Stachewicz,936,w użyciu
+222,ST/00222,Persevering multi-tasking interface,3,2025-01-09,90382.78,14,Olkusz,Mikołaj Erdmann,828,w użyciu
+223,ST/00223,Phased logistical capacity,8,2022-01-11,154575.55,20,Łomża,Jacek Biesek,1863,w użyciu
+224,ST/00224,Polarized coherent toolset,6,2026-01-17,39927.82,18,Koło,Gustaw Jędrusiak,1743,w naprawie
+225,ST/00225,Re-contextualized 24/7 installation,491,2023-11-10,192839.82,18,Jarosław,Michał Płaneta,475,w naprawie
+226,ST/00226,Right-sized object-oriented intranet,8,2019-03-29,142472.93,10,Bielawa,Aleks Romaniak,578,w naprawie
+227,ST/00227,Seamless multimedia concept,3,2021-10-19,9497.6,7,Augustów,Wiktor Toś,580,zlikwidowany
+228,ST/00228,Sharable empowering capacity,4,2023-05-14,172868.51,20,Wałbrzych,Nela Friedrich,1048,zlikwidowany
+229,ST/00229,Optimized heuristic middleware,4,2019-09-07,64193.5,18,Starogard Gdański,pan Ernest Cader,533,w użyciu
+230,ST/00230,Horizontal multi-state parallelism,3,2024-08-15,52748.77,7,Rzeszów,Cyprian Bernatek,74,zlikwidowany
+231,ST/00231,Multi-lateral methodical open system,4,2021-10-25,66799.23,30,Ząbki,Olgierd Łabaj,762,w naprawie
+232,ST/00232,Progressive value-added firmware,6,2024-09-19,13463.89,18,Głogów,Nataniel Bacik,146,zlikwidowany
+233,ST/00233,Multi-tiered grid-enabled budgetary management,6,2021-12-08,122708.52,18,Zakopane,Artur Jaszczyszyn,394,zlikwidowany
+234,ST/00234,Expanded empowering focus group,8,2025-01-30,25208.82,18,Sosnowiec,pan Juliusz Burzec,2103,w użyciu
+235,ST/00235,Ameliorated intangible projection,3,2021-04-17,44951.92,14,Stargard Szczeciński,Tadeusz Mosur,923,w użyciu
+236,ST/00236,Managed reciprocal projection,491,2021-11-24,163721.23,7,Ełk,Kazimierz Mirończuk,567,zlikwidowany
+237,ST/00237,Quality-focused value-added toolset,491,2023-08-25,101263.63,30,Wyszków,Arkadiusz Fogt,808,w użyciu
+238,ST/00238,Ameliorated value-added leverage,4,2019-02-15,196263.97,10,Ostrowiec Świętokrzyski,Marcin Sznura,205,w naprawie
+239,ST/00239,Diverse asynchronous productivity,3,2026-04-09,30974.02,30,Tychy,Grzegorz Dubik,1488,zlikwidowany
+240,ST/00240,Integrated scalable collaboration,3,2022-05-08,123065.08,7,Rybnik,Alex Feliksiak,775,zlikwidowany
+241,ST/00241,Fundamental zero administration methodology,3,2019-02-21,68468.73,14,Zgorzelec,Marcelina Wyrwich,1791,zlikwidowany
+242,ST/00242,Persevering actuating matrix,491,2022-08-25,16255.35,18,Sosnowiec,pani Nela Kluczek,1053,w naprawie
+243,ST/00243,Secured holistic project,8,2025-05-08,154222.49,7,Kościan,Blanka Włodarz,1029,zlikwidowany
+244,ST/00244,Networked static data-warehouse,3,2026-06-17,196377.07,20,Siedlce,pan Dawid Micał,574,w naprawie
+245,ST/00245,Universal stable task-force,4,2025-03-17,74720.03,14,Lubin,Marianna Pacholak,1497,zlikwidowany
+246,ST/00246,Organized coherent ability,491,2019-07-14,36924.13,20,Płońsk,pan Hubert Jargieło,864,w użyciu
+247,ST/00247,Pre-emptive 6thgeneration matrices,4,2023-08-21,177811.59,20,Lębork,Monika Damian,1167,w naprawie
+248,ST/00248,Programmable modular methodology,3,2021-08-02,181900.05,10,Żagań,pani Sylwia Ładniak,2308,w użyciu
+249,ST/00249,Ergonomic regional parallelism,8,2025-07-23,127307.42,14,Brodnica,Eryk Prażmo,2052,zlikwidowany
+250,ST/00250,Re-contextualized bi-directional workforce,3,2020-04-20,87941.9,20,Czechowice-Dziedzice,Olgierd Perczak,1681,w naprawie
+251,ST/00251,Future-proofed bi-directional service-desk,8,2018-08-07,170505.1,20,Bochnia,Dorota Kranc,1314,w naprawie
+252,ST/00252,Organized transitional open system,3,2018-10-27,113731.48,14,Grudziądz,Blanka Pietrewicz,1809,w naprawie
+253,ST/00253,Digitized value-added portal,6,2026-07-10,57369.18,18,Poznań,Sandra Idzi,808,w naprawie
+254,ST/00254,Multi-channeled bi-directional functionalities,491,2020-06-13,101495.19,7,Łowicz,pani Apolonia Gogół,2515,w naprawie
+255,ST/00255,Organized needs-based support,3,2024-11-17,151921.54,14,Brzeg,Olgierd Dynia,419,w użyciu
+256,ST/00256,Managed user-facing definition,4,2019-11-28,174272.84,20,Mysłowice,Wojciech Sołoducha,1157,zlikwidowany
+257,ST/00257,Organized object-oriented time-frame,8,2021-04-21,196680.64,,Głogów,Bruno Walocha,1778,zlikwidowany
+258,ST/00258,Innovative modular groupware,3,2022-09-11,78343.71,30,Kutno,Kaja Breś,1745,w użyciu
+259,ST/00259,Cross-platform maximized implementation,4,2019-02-07,187003.2,14,Skarżysko-Kamienna,Julian Rabiej,792,w użyciu
+260,ST/00260,Ameliorated 3rdgeneration toolset,3,2025-01-27,170656.76,7,Gdynia,Sonia Kliszcz,323,zlikwidowany
+261,ST/00261,Optimized fault-tolerant protocol,6,2021-11-14,3033.69,30,Września,pani Olga Szymków,1496,zlikwidowany
+262,ST/00262,Adaptive grid-enabled capability,6,2024-12-01,57500.06,7,Kłodzko,Arkadiusz Sadza,1084,zlikwidowany
+263,ST/00263,Profound solution-oriented application,6,2020-12-02,68371.02,10,Zakopane,Eryk Armata,2067,w użyciu
+264,ST/00264,Seamless tangible ability,491,2022-11-09,162490.63,14,Starachowice,Anastazja Cofała,1944,zlikwidowany
+265,ST/00265,Networked radical database,3,2026-05-30,20741.22,18,Nowy Sącz,pan Maks Zgoła,502,zlikwidowany
+266,ST/00266,Proactive executive service-desk,3,2023-03-24,137650.11,14,Kutno,Kajetan Drobik,1897,zlikwidowany
+267,ST/00267,Profound systematic pricing structure,3,2018-09-17,79792.32,,Chrzanów,pani Klara Fiedorczuk,1569,zlikwidowany
+268,,User-friendly grid-enabled complexity,3,2024-04-06,78710.05,18,Świecie,Gabriel Cudzich,475,w użyciu
+269,ST/00269,Pre-emptive client-driven protocol,4,2023-04-19,114286.44,18,Szczecin,pan Artur Piwowarek,1883,w naprawie
+270,ST/00270,Ergonomic upward-trending attitude,6,2025-04-12,45482.07,10,Piekary Śląskie,Iwo Giża,1150,w naprawie
+271,ST/00271,Robust encompassing workforce,6,2020-04-16,45706.37,14,Płock,Jeremi Piotrowiak,823,zlikwidowany
+272,ST/00272,Synergistic object-oriented task-force,491,2020-06-28,100897.13,14,Zambrów,Kajetan Grygorcewicz,343,zlikwidowany
+273,ST/00273,Fundamental static customer loyalty,6,2020-08-22,142786.31,10,Zgorzelec,Jan Lizurej,2035,w naprawie
+274,ST/00274,Universal client-server throughput,3,2023-07-16,89743.94,,Brzeg,pan Kajetan Żelazo,284,zlikwidowany
+275,ST/00275,Focused static productivity,8,2021-01-23,140045.57,18,Świnoujście,pani Bianka Folga,229,w użyciu
+276,ST/00276,Centralized fresh-thinking service-desk,4,2023-10-30,189770.76,18,Elbląg,Nataniel Watras,1958,zlikwidowany
+277,ST/00277,Stand-alone bottom-line utilization,4,2022-09-07,43336.49,30,Bydgoszcz,Dawid Bisaga,1372,w użyciu
+278,ST/00278,Public-key intermediate knowledge user,8,2022-03-29,186211.77,30,Włocławek,Malwina Kreczmer,409,zlikwidowany
+279,ST/00279,Reduced bi-directional focus group,3,2022-01-11,122387.74,20,Tczew,pani Sonia Nałęcz,227,w naprawie
+280,ST/00280,Secured incremental workforce,6,2019-10-13,102494.61,14,Zduńska Wola,pan Jan Baka,1565,zlikwidowany
+281,ST/00281,Up-sized full-range application,491,2024-02-06,75591.47,20,Jawor,Marek Białk,1520,zlikwidowany
+282,ST/00282,Adaptive zero administration artificial intelligence,6,2021-12-27,86105.25,7,Warszawa,Kamila Kala,835,zlikwidowany
+283,ST/00283,Multi-layered global knowledgebase,8,2025-12-22,34204.65,14,Dębica,Marcelina Kycia,534,w naprawie
+284,ST/00284,Operative secondary throughput,6,2023-02-05,36128.57,18,Otwock,pani Monika Wabik,404,w naprawie
+285,ST/00285,Devolved optimizing project,8,2019-07-16,91627.19,18,Sopot,pan Maciej Kempny,1587,w naprawie
+286,ST/00286,Centralized global ability,3,2023-06-10,84045.89,10,Nowa Sól,pani Julianna Dzienniak,229,zlikwidowany
+287,ST/00287,Up-sized coherent encoding,4,2024-01-15,180689.4,18,Tomaszów Mazowiecki,Radosław Glica,2027,w użyciu
+288,ST/00288,Optimized well-modulated standardization,8,2023-03-13,75005.59,18,Siedlce,Fabian Kuffel,1689,w użyciu
+289,ST/00289,Pre-emptive scalable adapter,3,2023-09-18,139812.6,18,Szczecinek,Albert Lazarek,1445,w naprawie
+290,ST/00290,Managed directional Local Area Network,6,2025-08-11,24081.61,14,Siemianowice Śląskie,Kazimierz Jakoniuk,115,w użyciu
+291,ST/00291,Vision-oriented explicit concept,8,2022-12-27,22449.63,,Myszków,Marika Such,521,w użyciu
+292,ST/00292,Progressive asymmetric productivity,3,2025-02-01,141253.17,14,Żyrardów,Elżbieta Albin,1838,w użyciu
+293,ST/00293,Centralized object-oriented website,3,2026-04-15,52880.33,7,Zakopane,Kamil Szyguła,1866,zlikwidowany
+294,ST/00294,Centralized mission-critical budgetary management,3,2024-08-04,143699.56,10,Częstochowa,Ewa Bubel,1732,w użyciu
+295,ST/00295,Object-based real-time application,3,2024-06-13,0,7,Siemianowice Śląskie,Róża Kurant,1394,w naprawie
+296,ST/00296,Managed object-oriented approach,6,2024-04-23,161433.04,20,Żory,Ignacy Tryka,1001,w użyciu
+297,ST/00297,Switchable object-oriented productivity,491,2025-09-17,152333.33,18,Pszczyna,pan Emil Hartman,52,w użyciu
+298,ST/00298,Synergistic dedicated benchmark,8,2019-11-10,70467.83,18,Giżycko,Klara Potoczna,1980,w użyciu
+299,ST/00299,Automated non-volatile process improvement,3,2020-09-22,165031.57,30,Nysa,Krystyna Bartoszak,165,w naprawie
+300,ST/00300,Future-proofed reciprocal instruction set,3,2019-07-13,120076.71,10,Gliwice,Krystian Tomal,1579,w użyciu
+301,ST/00301,Profound directional adapter,6,2024-12-08,80818.05,10,Lębork,pan Maurycy Gradek,1260,w naprawie
+302,ST/00302,Organized non-volatile moratorium,491,2025-05-05,73131.67,30,Kraśnik,Juliusz Gabryszak,355,w użyciu
+303,ST/00303,Extended logistical hardware,4,2020-09-26,3183.95,20,Brodnica,Liwia Bejger,1806,zlikwidowany
+304,ST/00304,Object-based national software,491,2022-11-16,42975.51,30,Nowa Sól,Adrianna Suchta,116,zlikwidowany
+305,ST/00305,Profit-focused contextually-based standardization,4,2021-11-19,154073.97,7,Pabianice,Piotr Nieradko,1593,w użyciu
+306,ST/00306,Universal leadingedge architecture,6,2023-02-10,127367.68,30,Świętochłowice,Ada Nocek,401,w użyciu
+307,ST/00307,Managed optimizing help-desk,4,2023-01-06,40591.68,,Poznań,Eryk Dąbal,2342,w użyciu
+308,ST/00308,Virtual didactic info-mediaries,491,2023-04-06,18085.84,7,Jarosław,Dawid Szelest,1191,w naprawie
+309,ST/00309,Inverse homogeneous knowledge user,4,2024-05-02,112600.26,7,Zambrów,Jacek Boś,2212,w naprawie
+310,ST/00310,Public-key cohesive monitoring,6,2021-07-01,199097.75,30,Piotrków Trybunalski,Olga Indyk,1986,zlikwidowany
+311,ST/00311,Robust secondary utilization,491,2026-07-03,198920.06,30,Opole,Aniela Mazanek,220,w użyciu
+312,ST/00312,Operative fresh-thinking approach,3,2025-03-05,49143.34,18,Mława,Leon Ligenza,273,w użyciu
+313,ST/00313,Extended stable benchmark,491,2025-04-15,119875.25,10,Rumia,Marek Gradek,1878,w naprawie
+314,ST/00314,Public-key attitude-oriented utilization,8,2022-05-09,134048.44,14,Suwałki,Wiktor Knysak,1101,zlikwidowany
+315,ST/00315,Customer-focused multimedia superstructure,491,2025-06-26,5143.15,30,Zabrze,Fryderyk Zawartka,1793,w użyciu
+316,ST/00316,Reduced 3rdgeneration algorithm,4,2019-12-17,118494.12,20,Tarnowskie Góry,pan Krystian Banak,1321,w użyciu
+317,ST/00317,Upgradable fault-tolerant forecast,6,2019-05-26,153393.44,30,Grodzisk Mazowiecki,Stanisław Dumin,1445,w naprawie
+318,ST/00318,Monitored systemic workforce,6,2025-09-26,103763.45,14,Myszków,Kornel Mikosz,1507,w naprawie
+319,ST/00319,Robust well-modulated definition,6,2023-04-28,46048.9,10,Turek,Marcin Pruchnik,193,zlikwidowany
+320,ST/00320,Realigned non-volatile array,4,2020-02-10,103615.34,7,Kluczbork,Miłosz Witko,1685,w użyciu
+321,ST/00321,Public-key radical application,6,2025-06-25,117284.04,10,Gdańsk,Franciszek Działa,366,zlikwidowany
+322,,Optimized multi-state archive,8,2020-10-07,150960.28,10,Ełk,Maksymilian Roszkiewicz,1443,zlikwidowany
+323,ST/00323,Sharable interactive success,491,2025-08-13,50353.01,20,Nysa,Paweł Kapuścik,1366,zlikwidowany
+324,ST/00324,Virtual maximized software,4,2025-08-27,180004.52,7,Legnica,Miłosz Borczyk,1349,w naprawie
+325,ST/00325,Open-source methodical application,4,2026-06-21,48862.54,10,Oława,Cyprian Gal,490,zlikwidowany
+326,ST/00326,Programmable value-added hardware,8,2025-05-24,35852.55,30,Zgorzelec,Konstanty Franaszek,1318,zlikwidowany
+327,ST/00327,Advanced eco-centric process improvement,8,2019-12-12,170671.95,14,Kętrzyn,pan Maurycy Jasica,797,w użyciu
+328,ST/00328,Reverse-engineered tangible Graphic Interface,3,2023-07-28,18142.94,10,Bartoszyce,pan Julian Wawszczak,68,zlikwidowany
+329,ST/00329,Automated discrete approach,6,2022-01-14,123581.15,7,Piła,Dariusz Kijanka,898,w naprawie
+330,ST/00330,User-friendly zero tolerance model,491,2023-04-29,1019.74,20,Świnoujście,Adrianna Milczarczyk,2129,w naprawie
+331,ST/00331,Reverse-engineered next generation portal,491,2023-08-13,153420.47,30,Oświęcim,Krystian Oczko,2094,zlikwidowany
+332,ST/00332,Integrated reciprocal framework,4,2020-02-25,196610.06,14,Kłodzko,pan Adrian Buś,1645,zlikwidowany
+333,ST/00333,Cross-platform reciprocal flexibility,3,2021-03-05,178185.26,30,Bochnia,pani Justyna Sip,206,zlikwidowany
+334,ST/00334,Compatible radical orchestration,6,2025-09-23,117117.5,7,Katowice,Mateusz Kopa,1957,w użyciu
+335,ST/00335,Open-architected discrete data-warehouse,4,2026-02-10,115641.72,7,Łomża,Tymon Ryfa,1787,zlikwidowany
+336,ST/00336,Versatile mobile standardization,3,2021-07-08,45951.08,14,Lubartów,pan Cezary Job,926,zlikwidowany
+337,ST/00337,Re-engineered fault-tolerant service-desk,3,2025-11-27,186479.65,7,Jastrzębie-Zdrój,Dorota Jarczak,1665,w naprawie
+338,ST/00338,Front-line reciprocal protocol,4,2022-08-17,175796.69,30,Piastów,pani Agnieszka Augustynek,1744,w użyciu
+339,ST/00339,Team-oriented even-keeled extranet,8,2022-12-04,4268.2,30,Iława,Tomasz Gębura,333,w użyciu
+340,ST/00340,Programmable scalable ability,4,2021-04-12,137194.76,10,Opole,Jędrzej Skolik,285,w użyciu
+341,ST/00341,Mandatory mission-critical initiative,8,2018-10-20,45987.01,18,Łowicz,Oskar Kretek,2036,w użyciu
+342,ST/00342,Multi-layered bi-directional database,6,2024-03-17,56984.52,10,Brodnica,pani Tola Bilewicz,161,w naprawie
+343,ST/00343,Diverse demand-driven leverage,4,2023-03-03,119131.95,7,Skarżysko-Kamienna,Dorota Makulec,810,zlikwidowany
+344,,Extended reciprocal methodology,4,2020-11-18,145049.34,14,Tomaszów Mazowiecki,Marcelina Wochnik,525,w użyciu
+345,ST/00345,Down-sized foreground collaboration,6,2020-03-12,101770.03,20,Pszczyna,Tymon Miszta,1407,w naprawie
+346,ST/00346,Front-line eco-centric standardization,491,2018-08-29,55273.29,14,Kalisz,Gabriel Iskierka,1353,w użyciu
+347,ST/00347,Monitored user-facing matrices,4,2025-12-14,86445.05,30,Łuków,Arkadiusz Pawliczak,913,w naprawie
+348,ST/00348,Down-sized neutral ability,8,2019-05-18,162757.42,14,Oleśnica,Artur Pyziak,1010,w naprawie
+349,ST/00349,Ameliorated 24/7 instruction set,6,2024-02-12,110307.37,20,Lubliniec,Arkadiusz Miros,1850,w użyciu
+350,ST/00350,Inverse uniform model,8,2026-03-14,195176.16,18,Gdynia,Eliza Ciesiółka,1551,zlikwidowany
+351,ST/00351,Seamless explicit analyzer,6,2023-01-14,106428.06,20,Chrzanów,Eliza Bartłomiejczyk,851,w użyciu
+352,ST/00352,Enterprise-wide high-level support,4,2024-01-13,42149.3,7,Wodzisław Śląski,pan Stefan Kral,984,w naprawie
+353,ST/00353,Upgradable value-added knowledge user,6,2024-02-06,58481.74,18,Gdańsk,Damian Stiller,1101,w użyciu
+354,ST/00354,Sharable high-level middleware,491,2026-01-01,68661.66,20,Malbork,Fryderyk Kwoka,685,zlikwidowany
+355,ST/00355,Progressive analyzing hub,6,2018-11-26,56854.25,30,Skierniewice,Łukasz Downar,1381,zlikwidowany
+356,ST/00356,Digitized web-enabled customer loyalty,3,2020-05-24,111822.11,14,Kluczbork,Kalina Tryka,2097,w naprawie
+357,ST/00357,Multi-layered 3rdgeneration architecture,6,2025-08-11,51173.53,7,Olsztyn,pani Kaja Wołoszczuk,193,w naprawie
+358,ST/00358,Organized value-added algorithm,3,2021-03-06,171550.48,7,Łaziska Górne,Radosław Łabaj,1427,zlikwidowany
+359,ST/00359,Cross-platform executive intranet,6,2025-03-07,129903.06,14,Sopot,pani Sylwia Rząca,2093,w naprawie
+360,ST/00360,Profound tangible service-desk,491,2021-03-01,1815.83,7,Szczecinek,Ada Kośnik,1744,w użyciu
+361,ST/00361,Front-line leadingedge parallelism,491,2018-11-18,154422.06,18,Bochnia,pan Błażej Bachanek,2374,w naprawie
+362,ST/00362,Team-oriented full-range encryption,8,2024-12-28,46252.68,30,Cieszyn,Rozalia Kazubek,1478,zlikwidowany
+363,ST/00363,Reactive user-facing archive,6,2023-04-24,156807.71,7,Konin,Artur Krzyśków,1033,w użyciu
+364,ST/00364,Seamless human-resource website,6,2019-01-03,118201.15,10,Starachowice,pan Patryk Banek,1685,zlikwidowany
+365,ST/00365,Stand-alone mobile utilization,3,2024-06-14,175559.48,20,Lubartów,Jeremi Dziugieł,1229,w naprawie
+366,ST/00366,Horizontal full-range budgetary management,8,2026-03-17,150339.47,,Słupsk,pani Marianna Łuczka,34,w naprawie
+367,ST/00367,Distributed 24/7 moratorium,3,2020-12-29,186001.09,18,Biłgoraj,Konstanty Maciuk,948,zlikwidowany
+368,ST/00368,Open-source eco-centric service-desk,6,2025-08-18,16367.24,30,Żory,Julianna Organiściak,1587,zlikwidowany
+369,ST/00369,Synergized upward-trending info-mediaries,491,2019-01-06,51907.3,18,Wałbrzych,Eliza Oszust,254,zlikwidowany
+370,ST/00370,Organized asynchronous open architecture,3,2021-05-14,69931.26,10,Jarocin,Aleksander Sarosiek,703,zlikwidowany
+371,ST/00371,Optional non-volatile parallelism,491,2020-08-25,188898.16,20,Zakopane,Błażej Barłóg,441,zlikwidowany
+372,ST/00372,Compatible 5thgeneration info-mediaries,491,2018-08-20,111907.13,,Biłgoraj,Eliza Majczyna,1337,w naprawie
+373,,Distributed reciprocal circuit,8,2019-08-24,130339.12,20,Rzeszów,Tymon Turczyk,830,w użyciu
+374,ST/00374,Programmable upward-trending implementation,4,2022-06-12,104491.18,18,Wrocław,Daniel Jaszcz,1593,w naprawie
+375,ST/00375,Profit-focused holistic standardization,6,2025-04-21,146011.97,,Brzeg,Adam Ambrożewicz,269,w naprawie
+376,ST/00376,Operative solution-oriented core,3,2019-06-28,77142.29,30,Kłodzko,Olgierd Miękina,2041,w użyciu
+377,ST/00377,Right-sized full-range projection,3,2019-09-21,132550.87,20,Zakopane,Kajetan Kobryń,1854,zlikwidowany
+378,ST/00378,Self-enabling 5thgeneration software,4,2018-11-23,65716.58,18,Augustów,Radosław Chomiuk,795,w użyciu
+379,ST/00379,Devolved didactic functionalities,6,2020-07-23,168853.92,18,Nowy Sącz,Krystyna Soczówka,894,w użyciu
+380,ST/00380,Profound well-modulated task-force,8,2022-05-17,181532.83,30,Czechowice-Dziedzice,Antoni Deszcz,2019,w naprawie
+381,ST/00381,Cloned background ability,6,2022-05-04,169561.12,14,Knurów,Ryszard Andrys,1969,w naprawie
+382,ST/00382,User-friendly context-sensitive database,6,2023-04-05,78522.31,10,Kluczbork,Szymon Szyca,1748,w użyciu
+383,ST/00383,Vision-oriented incremental migration,8,2020-03-09,173147.81,7,Bydgoszcz,pani Agnieszka Fronia,682,zlikwidowany
+384,ST/00384,Visionary encompassing database,3,2024-11-09,86184.91,14,Wołomin,Kamil Łokietek,1126,zlikwidowany
+385,ST/00385,Exclusive context-sensitive Internet solution,491,2025-01-15,191347.26,14,Skawina,pan Nikodem Fydrych,1088,w naprawie
+386,ST/00386,Realigned zero tolerance definition,4,2024-09-01,135837.8,7,Łaziska Górne,Julianna Kłysz,1684,w naprawie
+387,ST/00387,Synergized motivating approach,8,2026-04-21,32156.16,30,Biała Podlaska,Ida Franiak,1717,w użyciu
+388,ST/00388,Innovative tangible encoding,491,2025-02-27,126452.98,20,Gdynia,pan Leon Miros,2231,w użyciu
+389,ST/00389,Multi-tiered multimedia structure,6,2019-10-15,6013.01,20,Kędzierzyn-Koźle,Ignacy Dziób,1716,w użyciu
+390,ST/00390,Decentralized next generation task-force,8,2020-10-09,45560.63,20,Lublin,Anna Maria Bystroń,2088,w użyciu
+391,ST/00391,User-friendly methodical focus group,3,2023-07-23,141766.87,10,Malbork,Tomasz Feliniak,624,zlikwidowany
+392,ST/00392,Team-oriented discrete benchmark,8,2020-01-02,54896.41,30,Wałbrzych,Ernest Błażejczak,2005,zlikwidowany
+393,ST/00393,Secured system-worthy intranet,491,2019-08-28,20972.6,10,Piekary Śląskie,Jan Szarejko,1409,w naprawie
+394,ST/00394,Centralized clear-thinking software,6,2025-06-13,167968.66,18,Gniezno,Łukasz Armatys,265,w naprawie
+395,ST/00395,Pre-emptive multi-tasking budgetary management,3,2019-05-08,24242.76,30,Mikołów,Norbert Nagórka,1810,zlikwidowany
+396,ST/00396,Triple-buffered dynamic challenge,6,2019-11-24,77075.1,7,Brzeg,pani Klara Słupik,1294,w naprawie
+397,ST/00397,Intuitive reciprocal workforce,8,2024-06-06,10565.4,18,Jastrzębie-Zdrój,Urszula Kowaluk,583,w naprawie
+398,ST/00398,Assimilated empowering budgetary management,6,2024-04-17,150323.57,7,Kołobrzeg,pani Dorota Klinkosz,383,w naprawie
+399,ST/00399,Object-based background neural-net,491,2019-04-18,113417.52,20,Mława,Mateusz Kuboń,945,w naprawie
+400,,Monitored directional attitude,3,2026-07-18,137011.72,7,Białystok,Krzysztof Brzeźniak,535,zlikwidowany
+401,ST/00401,Robust stable contingency,4,2026-01-19,102812.41,10,Polkowice,pani Adrianna Marach,1364,w naprawie
+402,ST/00402,Sharable composite collaboration,491,2024-08-21,149427.13,18,Mysłowice,Igor Wacławczyk,1156,w naprawie
+403,ST/00403,Switchable local alliance,8,2022-10-05,129290.61,7,Konin,Sylwia Fąferek,2086,zlikwidowany
+404,ST/00404,Realigned background policy,491,2021-10-24,32250.62,7,Piekary Śląskie,Igor Hanas,1227,w naprawie
+405,ST/00405,Versatile even-keeled info-mediaries,3,2025-08-10,50582.74,20,Turek,Karol Jaracz,734,w naprawie
+406,ST/00406,Triple-buffered disintermediate initiative,6,2022-12-01,185248.29,30,Katowice,pan Wojciech Doroszuk,1389,zlikwidowany
+407,ST/00407,Pre-emptive cohesive alliance,6,2022-02-06,45887.52,20,Czerwionka-Leszczyny,Dariusz Bugla,1677,zlikwidowany
+408,ST/00408,Total transitional orchestration,491,2024-05-10,15700.12,14,Zgorzelec,Justyna Miętka,871,w naprawie
+409,ST/00409,Expanded system-worthy software,8,2026-02-06,61683.34,7,Starogard Gdański,Tadeusz Szczubełek,819,w naprawie
+410,ST/00410,Multi-lateral 4thgeneration budgetary management,8,2024-01-14,41141.89,10,Piaseczno,Sandra Broś,1619,w naprawie
+411,ST/00411,Inverse asymmetric alliance,3,2019-02-21,104329.8,20,Piekary Śląskie,Albert Kostro,1226,zlikwidowany
+412,ST/00412,Pre-emptive dynamic alliance,3,2024-11-11,114326.53,7,Skarżysko-Kamienna,Natan Pietrek,598,w użyciu
+413,,Expanded directional protocol,491,2021-11-20,28524.57,18,Zielona Góra,Tola Tylman,957,zlikwidowany
+414,ST/00414,Organic dedicated approach,491,2025-01-30,22275.24,10,Bochnia,Gustaw Wandzel,382,zlikwidowany
+415,ST/00415,Polarized fault-tolerant array,6,2026-01-19,101615.07,14,Marki,Natan Dyszkiewicz,1131,w naprawie
+416,ST/00416,Self-enabling systemic instruction set,491,2020-05-22,112938.44,18,Żyrardów,pani Aniela Tórz,325,w użyciu
+417,ST/00417,Business-focused directional utilization,4,2022-01-26,0,20,Kutno,Eliza Mikita,1833,w użyciu
+418,ST/00418,Polarized even-keeled customer loyalty,4,2019-11-28,115187.53,18,Siemianowice Śląskie,Julianna Gregorowicz,647,zlikwidowany
+419,ST/00419,Profit-focused 3rdgeneration standardization,6,2022-09-27,30861.92,7,Łódź,Bianka Pilarek,517,w użyciu
+420,ST/00420,Customer-focused hybrid circuit,3,2023-02-08,31139.01,,Pszczyna,Ada Kanik,897,zlikwidowany
+421,ST/00421,Balanced background structure,6,2020-04-11,167753.39,10,Piekary Śląskie,Eliza Gębura,156,zlikwidowany
+422,ST/00422,Stand-alone bottom-line flexibility,6,2022-06-27,52448.97,18,Ciechanów,pani Julianna Boś,1723,zlikwidowany
+423,ST/00423,Face-to-face object-oriented extranet,4,2020-09-07,0,7,Płońsk,pani Eliza Sobieszczyk,1802,w użyciu
+424,ST/00424,Synergistic uniform structure,4,2019-02-18,113412.06,14,Ełk,Stefan Czuryło,1496,zlikwidowany
+425,ST/00425,Diverse analyzing attitude,3,2021-03-06,181745.14,,Jasło,Michał Wasil,529,zlikwidowany
+426,ST/00426,Extended composite ability,6,2024-10-15,51353.86,10,Rybnik,Nataniel Trybus,1880,w użyciu
+427,ST/00427,Right-sized multi-state neural-net,4,2023-11-22,129583.04,7,Łowicz,Olga Wawrzonek,1436,w naprawie
+428,ST/00428,Ameliorated radical budgetary management,6,2025-06-27,21826.33,,Wołomin,pani Dorota Kaszkowiak,1936,w naprawie
+429,ST/00429,Decentralized value-added paradigm,4,2024-03-07,112268.4,14,Jaworzno,Marcelina Wojtczuk,2069,w użyciu
+430,ST/00430,Sharable heuristic website,3,2024-09-22,118122.52,7,Gdańsk,Blanka Lesik,1759,w użyciu
+431,ST/00431,Object-based secondary complexity,8,2025-04-23,41474.34,20,Żagań,Ida Strama,1095,w użyciu
+432,ST/00432,Horizontal dedicated superstructure,491,2025-10-28,92853.55,20,Łowicz,Mieszko Ellwart,1492,zlikwidowany
+433,ST/00433,Public-key value-added productivity,4,2022-06-04,171676.32,10,Oława,pan Jan Garczarek,435,w użyciu
+434,ST/00434,Adaptive eco-centric open architecture,4,2018-10-08,52042.58,,Wołomin,Antoni Pikula,287,w naprawie
+435,ST/00435,Focused human-resource toolset,3,2019-01-22,87125.41,,Wałcz,pani Marcelina Zagożdżon,1775,w naprawie
+436,ST/00436,Multi-tiered web-enabled frame,3,2025-03-12,8170.83,7,Bielsko-Biała,Aleks Opalach,794,zlikwidowany
+437,ST/00437,Digitized uniform strategy,4,2024-08-20,0,7,Goleniów,pan Cyprian Turczyk,1240,zlikwidowany
+438,ST/00438,Organic explicit Graphical User Interface,8,2025-03-01,16916.92,10,Stargard Szczeciński,Gustaw Penkala,1884,w naprawie
+439,ST/00439,Reduced holistic help-desk,3,2020-07-03,43838.26,20,Wrocław,Franciszek Skwira,796,zlikwidowany
+440,ST/00440,Self-enabling regional adapter,6,2020-02-08,180317.29,7,Chojnice,pani Apolonia Mysiak,1127,zlikwidowany
+441,ST/00441,Intuitive interactive extranet,4,2019-08-08,194327.58,18,Tarnów,pan Gustaw Litwińczuk,74,w naprawie
+442,ST/00442,Expanded incremental product,3,2023-02-14,180833.61,30,Ruda Śląska,Szymon Pera,643,w naprawie
+443,ST/00443,Programmable cohesive firmware,8,2023-01-29,77846.97,10,Ostrołęka,Angelika Przybycień,2211,zlikwidowany
+444,ST/00444,Fundamental tertiary Internet solution,8,2019-02-22,197087.99,10,Bielsk Podlaski,Sara Saternus,1185,w użyciu
+445,ST/00445,Distributed dedicated instruction set,4,2021-05-19,143213.6,18,Kraków,pan Adam Kabala,1791,w użyciu
+446,ST/00446,Centralized zero tolerance interface,4,2020-03-18,141118.15,20,Wrocław,Tymoteusz Sip,1614,w użyciu
+447,ST/00447,Down-sized full-range Graphic Interface,491,2019-10-15,16672.2,,Lubin,Rafał Kik,828,w użyciu
+448,ST/00448,User-friendly background knowledge user,491,2022-12-10,137674.93,20,Szczecinek,Daniel Szatko,1351,w użyciu
+449,ST/00449,Assimilated object-oriented hardware,3,2025-03-05,14266.61,30,Będzin,Marika Lipowicz,1431,w naprawie
+450,ST/00450,Future-proofed systematic alliance,8,2026-02-10,85939.79,18,Rybnik,Witold Szkopek,1155,zlikwidowany
+451,ST/00451,Seamless 5thgeneration hardware,491,2024-06-05,172401.18,20,Reda,Bianka Ciereszko,580,zlikwidowany
+452,ST/00452,Reactive bifurcated knowledge user,3,2026-03-31,124121.38,7,Inowrocław,Bruno Tatarczuk,2042,w naprawie
+453,ST/00453,Seamless value-added initiative,4,2020-12-27,43063.8,7,Pruszcz Gdański,Szymon Majtczak,2014,w użyciu
+454,ST/00454,Virtual needs-based complexity,8,2020-01-07,110949.8,,Śrem,Maks Witko,922,w naprawie
+455,ST/00455,Customer-focused client-driven workforce,8,2026-06-13,140059.4,18,Toruń,Ryszard Bembenek,1310,zlikwidowany
+456,ST/00456,Grass-roots uniform installation,4,2020-11-03,176414.93,18,Sopot,Robert Spychaj,203,zlikwidowany
+457,ST/00457,Realigned heuristic implementation,3,2021-10-05,161255.48,7,Nowy Sącz,pani Liwia Piejko,2492,w naprawie
+458,ST/00458,Multi-channeled analyzing synergy,3,2024-01-05,64930.73,10,Pszczyna,Norbert Młot,750,zlikwidowany
+459,ST/00459,Re-engineered optimal open system,4,2020-10-26,84492.66,20,Grudziądz,pani Kamila Wójs,167,zlikwidowany
+460,ST/00460,Reduced optimal concept,4,2020-05-01,145097.54,14,Lębork,Ignacy Grochowina,481,zlikwidowany
+461,ST/00461,Digitized multi-state hardware,4,2018-09-13,138166.69,7,Gorlice,pani Agnieszka Kurc,1934,w naprawie
+462,ST/00462,Progressive systematic collaboration,6,2024-04-29,113210.54,18,Ostrołęka,pani Kamila Wojak,1460,w naprawie
+463,ST/00463,Enterprise-wide systematic success,8,2026-04-12,76847.71,,Czeladź,Natan Mazepa,3,zlikwidowany
+464,ST/00464,Re-contextualized bottom-line monitoring,3,2021-12-19,68696.44,20,Zambrów,Sylwia Konat,1155,w użyciu
+465,ST/00465,Progressive 5thgeneration time-frame,6,2022-09-15,46432.85,10,Starogard Gdański,Liwia Demiańczuk,1863,w użyciu
+466,ST/00466,Expanded real-time throughput,8,2023-01-03,169870.76,30,Białystok,pani Kamila Orwat,1415,w użyciu
+467,,Pre-emptive directional access,6,2020-03-18,51513.07,14,Nowa Ruda,Mikołaj Lenik,1951,w naprawie
+468,ST/00468,Realigned multi-tasking frame,4,2020-05-23,183525.69,18,Poznań,Kornelia Jajko,1289,w użyciu
+469,ST/00469,Phased maximized utilization,3,2025-11-03,177581.61,10,Piaseczno,Wiktor Ziegler,1706,w naprawie
+470,ST/00470,Stand-alone bottom-line support,8,2019-01-30,12496.13,7,Poznań,pani Ida Sztuczka,589,zlikwidowany
+471,ST/00471,Cross-platform optimal knowledgebase,491,2022-10-01,47528.49,14,Lublin,pani Marcelina Banek,210,w użyciu
+472,ST/00472,Integrated grid-enabled strategy,491,2023-12-29,182286.77,20,Tczew,Justyna Kościesza,1453,w użyciu
+473,ST/00473,Customizable fault-tolerant encryption,491,2026-06-25,122045.17,7,Kraśnik,pan Marek Magier,1783,w naprawie
+474,ST/00474,Reactive secondary function,3,2018-12-14,15783.09,18,Tomaszów Mazowiecki,Alex Stebel,1104,w naprawie
+475,ST/00475,Multi-layered incremental methodology,491,2022-12-15,166745.01,20,Świdnik,pani Inga Gierak,534,zlikwidowany
+476,ST/00476,Re-contextualized homogeneous contingency,8,2024-01-22,76359.05,10,Świebodzice,Olaf Bik,1077,zlikwidowany
+477,ST/00477,Universal methodical data-warehouse,4,2018-08-18,66520.64,20,Jastrzębie-Zdrój,Olaf Sajda,999,w użyciu
+478,ST/00478,Versatile 6thgeneration core,491,2018-10-26,59258.25,14,Jarocin,Anita Pokusa,1985,w naprawie
+479,ST/00479,Balanced fresh-thinking installation,3,2018-11-06,65855.19,30,Zduńska Wola,pani Agnieszka Siedlaczek,1344,w użyciu
+480,ST/00480,Synergized discrete function,3,2025-02-14,55004.33,7,Inowrocław,Adrianna Malon,1676,w użyciu
+481,ST/00481,Programmable solution-oriented emulation,8,2022-04-06,84255.93,10,Legnica,pan Mieszko Matyjaszek,1890,w użyciu
+482,ST/00482,Configurable secondary productivity,6,2019-05-28,4038.74,14,Goleniów,Filip Dytko,163,w użyciu
+483,ST/00483,Up-sized responsive array,491,2019-09-02,97349.0,7,Śrem,Natasza Honkisz,1489,w użyciu
+484,ST/00484,Adaptive cohesive software,6,2020-03-26,111436.21,7,Żory,Marek Barankiewicz,1890,zlikwidowany
+485,ST/00485,User-friendly disintermediate intranet,3,2018-08-17,111819.87,20,Przemyśl,Marcelina Chodak,1276,zlikwidowany
+486,ST/00486,Public-key 6thgeneration architecture,491,2023-07-06,73020.47,10,Stargard Szczeciński,Anna Maria Bobryk,2535,w naprawie
+487,ST/00487,Ergonomic executive archive,4,2022-08-16,147638.87,14,Inowrocław,pani Nicole Murach,1321,w naprawie
+488,ST/00488,Optional value-added open architecture,4,2023-04-13,0,30,Koszalin,Marcel Jarosiewicz,1000,w naprawie
+489,ST/00489,Customer-focused user-facing forecast,491,2024-06-27,26515.88,20,Malbork,Alan Orkisz,963,zlikwidowany
+490,ST/00490,Organic demand-driven extranet,6,2018-07-30,8586.19,18,Malbork,pan Dariusz Jonak,1033,w użyciu
+491,ST/00491,Integrated bottom-line focus group,491,2024-09-15,83315.36,10,Ostrołęka,pani Roksana Terka,2012,w naprawie
+492,ST/00492,Ergonomic asymmetric projection,3,2024-01-19,185575.33,20,Tychy,Ida Maraszek,1884,w użyciu
+493,ST/00493,Inverse optimizing conglomeration,8,2019-02-21,0,14,Zduńska Wola,Jerzy Winnik,1422,zlikwidowany
+494,ST/00494,Sharable uniform adapter,491,2023-02-14,165410.17,7,Wrocław,Artur Czochara,1555,zlikwidowany
+495,ST/00495,Ergonomic 6thgeneration capability,491,2021-05-21,20506.43,10,Będzin,pani Eliza Miętka,27,w użyciu
+496,ST/00496,Customer-focused impactful hub,491,2020-11-06,186401.67,10,Nowa Sól,Eliza Wośko,90,zlikwidowany
+497,ST/00497,Business-focused systematic utilization,3,2023-01-24,35992.65,18,Łomża,Apolonia Molga,1754,zlikwidowany
+498,ST/00498,Secured 5thgeneration system engine,8,2025-06-20,194548.6,10,Świecie,Ryszard Fit,1707,w użyciu
+499,ST/00499,Open-architected transitional contingency,491,2025-08-04,61393.69,7,Oława,Kornelia Szelest,119,w użyciu
+500,ST/00500,Persistent demand-driven firmware,491,2026-06-05,133589.63,10,Białogard,Filip Manista,1652,w użyciu
+501,ST/00501,Quality-focused logistical data-warehouse,491,2026-04-07,1410.77,18,Zambrów,Ksawery Kiedrowicz,1279,w naprawie
+502,ST/00502,Fundamental non-volatile core,8,2024-10-30,11380.92,7,Szczytno,Eliza Konsek,1420,w użyciu
+503,ST/00503,Ergonomic local challenge,8,2020-06-18,148808.71,14,Zambrów,Julianna Lemiesz,349,w naprawie
+504,ST/00504,Exclusive multi-state synergy,6,2023-10-01,35333.75,30,Kraków,Natan Wawszczak,756,zlikwidowany
+505,,Streamlined discrete ability,6,2024-07-07,39840.32,10,Łaziska Górne,Jacek Adamiuk,1702,w naprawie
+506,ST/00506,Customizable solution-oriented artificial intelligence,4,2019-12-28,44895.55,14,Piaseczno,Marika Makosz,902,w użyciu
+507,ST/00507,Function-based optimal contingency,3,2020-02-10,0,7,Wieluń,pan Konstanty Maciejewicz,281,w naprawie
+508,ST/00508,Open-source next generation workforce,4,2024-08-10,127917.99,,Rybnik,Jerzy Preś,1002,w użyciu
+509,ST/00509,Phased solution-oriented capacity,6,2020-12-10,105222.13,20,Sandomierz,Ada Gapys,251,w użyciu
+510,ST/00510,Total zero-defect open architecture,8,2020-06-04,17917.59,14,Dąbrowa Górnicza,Dariusz Łapaj,815,w naprawie
+511,ST/00511,Expanded stable paradigm,6,2022-06-27,188872.59,7,Siedlce,pani Blanka Smektała,247,w użyciu
+512,ST/00512,Cross-group dedicated infrastructure,4,2023-07-12,160624.06,14,Wołomin,Kalina Irzyk,1363,w użyciu
+513,ST/00513,Streamlined disintermediate encryption,4,2022-06-18,140923.15,7,Jasło,Wojciech Mizia,328,w użyciu
+514,ST/00514,Phased well-modulated model,491,2025-08-10,144888.49,7,Sanok,Bartek Rymarz,2449,w naprawie
+515,ST/00515,Profound modular function,4,2024-04-14,160798.01,30,Grodzisk Mazowiecki,Natasza Golus,506,w użyciu
+516,ST/00516,Open-source system-worthy software,4,2022-03-07,5138.34,30,Przemyśl,Jakub Gryga,1241,w użyciu
+517,ST/00517,Team-oriented 4thgeneration encryption,8,2020-05-15,145217.55,14,Bochnia,Urszula Mikiciuk,245,w użyciu
+518,ST/00518,Public-key asynchronous conglomeration,4,2020-06-05,181122.35,18,Police,Sara Sarniak,1358,w użyciu
+519,ST/00519,Sharable directional portal,491,2020-08-06,79358.24,7,Kętrzyn,pani Elżbieta Drygas,800,w naprawie
+520,ST/00520,Vision-oriented next generation collaboration,4,2025-03-01,97261.16,20,Siedlce,pan Sebastian Wójt,34,zlikwidowany
+521,ST/00521,Re-engineered grid-enabled encryption,491,2025-03-03,19392.74,20,Luboń,pani Gaja Kudłacz,986,zlikwidowany
+522,ST/00522,Operative optimizing model,4,2025-04-16,19102.73,14,Kościerzyna,Andrzej Pyc,1516,w użyciu
+523,ST/00523,Enhanced 6thgeneration intranet,3,2019-12-06,51536.23,30,Jastrzębie-Zdrój,Apolonia Kazior,2055,w użyciu
+524,ST/00524,Cross-platform systematic artificial intelligence,6,2022-02-15,150494.47,7,Puławy,Damian Janoszka,173,w naprawie
+525,ST/00525,Business-focused system-worthy info-mediaries,3,2024-10-15,45860.86,14,Olkusz,Wiktor Stachewicz,981,zlikwidowany
+526,ST/00526,Re-engineered even-keeled info-mediaries,491,2019-04-17,163400.88,18,Oleśnica,Karol Dorawa,1375,w użyciu
+527,ST/00527,Triple-buffered asynchronous collaboration,6,2020-08-19,60584.58,18,Bielawa,Juliusz Fedak,230,zlikwidowany
+528,ST/00528,Organic bi-directional complexity,8,2021-02-18,136717.22,30,Katowice,Sandra Meler,1262,zlikwidowany
+529,ST/00529,Horizontal neutral knowledge user,3,2018-09-17,161113.66,20,Zgierz,pani Justyna Połom,287,zlikwidowany
+530,ST/00530,Organized needs-based project,491,2020-09-22,71532.07,18,Oława,Krzysztof Huczek,785,w naprawie
+531,ST/00531,Face-to-face clear-thinking website,6,2021-08-03,168788.82,30,Jarosław,pan Bartek Koćwin,1512,w naprawie
+532,ST/00532,Operative well-modulated core,3,2024-03-26,0,7,Września,pani Nicole Szłapa,1521,zlikwidowany
+533,ST/00533,Open-source next generation open system,6,2023-11-21,17430.38,7,Śrem,Marianna Gamoń,1813,zlikwidowany
+534,ST/00534,Visionary methodical frame,3,2023-11-09,85531.91,18,Zabrze,Tola Czochara,540,zlikwidowany
+535,ST/00535,Function-based secondary definition,4,2019-03-19,170254.99,30,Żyrardów,Andrzej Owsiany,1598,w użyciu
+536,ST/00536,Fully-configurable methodical support,4,2021-10-03,34922.7,7,Rumia,Karol Siewert,1024,w użyciu
+537,ST/00537,Profit-focused encompassing help-desk,6,2020-11-16,184242.51,30,Siemianowice Śląskie,pani Nela Szymańczak,1430,w użyciu
+538,ST/00538,Universal modular moderator,491,2022-12-09,106021.89,20,Skarżysko-Kamienna,Jacek Kózka,269,zlikwidowany
+539,ST/00539,Profit-focused discrete installation,491,2023-10-18,107504.29,7,Rzeszów,Monika Fyda,2605,w naprawie
+540,ST/00540,Integrated needs-based open system,491,2022-11-13,178046.68,18,Jastrzębie-Zdrój,Albert Grądziel,3,w użyciu
+541,ST/00541,Horizontal clear-thinking flexibility,491,2022-02-13,49451.93,30,Żory,pani Justyna Wojtaszczyk,1911,zlikwidowany
+542,ST/00542,Networked modular productivity,3,2019-03-29,149419.14,14,Toruń,Ignacy Majos,408,zlikwidowany
+543,ST/00543,Programmable context-sensitive process improvement,3,2021-12-27,47777.03,,Zawiercie,Ewa Gemza,1074,zlikwidowany
+544,ST/00544,Customer-focused uniform ability,6,2025-04-24,34044.63,18,Pabianice,pan Paweł Szoka,715,zlikwidowany
+545,ST/00545,Diverse optimizing frame,8,2025-04-02,178818.12,7,Warszawa,Apolonia Pachowicz,441,w naprawie
+546,ST/00546,Up-sized 4thgeneration framework,8,2024-07-20,176095.35,10,Gniezno,pan Aleksander Miozga,773,zlikwidowany
+547,ST/00547,Diverse intermediate pricing structure,491,2025-10-16,61197.91,7,Żywiec,Ida Hamerla,1307,zlikwidowany
+548,ST/00548,Multi-tiered foreground functionalities,8,2024-12-29,148308.14,20,Opole,Anna Maria Trzyna,653,zlikwidowany
+549,ST/00549,Vision-oriented bi-directional pricing structure,6,2023-11-04,198725.91,18,Luboń,pan Witold Dorna,365,w użyciu
+550,ST/00550,Up-sized value-added middleware,3,2024-07-16,123681.35,30,Ostrów Wielkopolski,Maksymilian Dubel,1686,w użyciu
+551,ST/00551,De-engineered regional framework,6,2018-10-27,12159.55,10,Lublin,Natasza Koloch,428,w użyciu
+552,ST/00552,Multi-lateral optimizing frame,8,2026-02-09,125312.27,20,Piotrków Trybunalski,pani Kalina Więcławek,1823,w użyciu
+553,ST/00553,Open-architected holistic knowledge user,491,2023-11-06,131858.48,18,Radomsko,pani Apolonia Bok,679,w naprawie
+554,ST/00554,Programmable homogeneous data-warehouse,8,2019-03-20,115064.58,18,Kłodzko,Dagmara Łyczak,1934,w użyciu
+555,ST/00555,Advanced systemic secured line,3,2024-10-10,60110.44,,Brzeg,Cyprian Kandora,22,zlikwidowany
+556,ST/00556,Centralized global functionalities,8,2025-08-30,66569.65,20,Sopot,Angelika Ochał,1114,zlikwidowany
+557,ST/00557,Self-enabling well-modulated forecast,6,2026-01-13,79268.49,14,Płock,Anita Przekwas,8,zlikwidowany
+558,ST/00558,Adaptive zero-defect algorithm,491,2024-12-01,5747.9,10,Goleniów,Fryderyk Towarek,1489,w naprawie
+559,,Customizable incremental website,3,2020-04-24,172399.45,20,Wałcz,Cyprian Mendak,1865,w użyciu
+560,ST/00560,Configurable leadingedge implementation,6,2025-09-19,111960.4,7,Zduńska Wola,Leon Zapaśnik,1811,w naprawie
+561,ST/00561,Implemented system-worthy hub,4,2021-07-05,176769.42,20,Dębica,pan Juliusz Goś,110,w użyciu
+562,ST/00562,Implemented didactic emulation,3,2019-11-30,82357.01,30,Lubartów,Aniela Obst,427,zlikwidowany
+563,ST/00563,Persevering full-range utilization,6,2020-02-03,38572.75,18,Skarżysko-Kamienna,Kamila Opalach,1804,w użyciu
+564,ST/00564,Ameliorated human-resource open architecture,4,2024-12-06,169249.93,14,Inowrocław,Grzegorz Feluś,919,w użyciu
+565,ST/00565,Ameliorated holistic core,4,2019-11-10,135205.34,10,Chełm,Fabian Nędzi,1351,w użyciu
+566,ST/00566,Triple-buffered optimizing Internet solution,491,2023-05-10,56802.78,7,Bochnia,Albert Mizia,2369,w naprawie
+567,ST/00567,Business-focused needs-based strategy,3,2022-02-13,9629.45,10,Wieluń,Ida Kozica,338,w użyciu
+568,ST/00568,Versatile foreground model,6,2021-11-08,142026.54,18,Oława,Stefan Budner,493,zlikwidowany
+569,ST/00569,Implemented scalable adapter,6,2022-07-30,10829.64,18,Mysłowice,Artur Konrad,406,zlikwidowany
+570,ST/00570,Progressive leadingedge firmware,4,2018-09-05,97099.91,20,Zawiercie,Sebastian Florian,2110,w użyciu
+571,ST/00571,User-friendly human-resource capability,491,2020-03-25,87519.95,10,Swarzędz,Aniela Block,227,w użyciu
+572,ST/00572,Centralized composite complexity,8,2018-12-12,29319.49,7,Wyszków,Michał Domino,1306,w użyciu
+573,ST/00573,Stand-alone system-worthy frame,6,2020-07-03,10077.68,30,Pruszków,Krzysztof Migda,1744,w naprawie
+574,ST/00574,Diverse attitude-oriented utilization,6,2024-12-24,0,18,Piła,Kazimierz Panuś,1283,w naprawie
+575,ST/00575,Organic real-time pricing structure,6,2019-09-22,146137.6,20,Giżycko,Maciej Zbróg,1775,w naprawie
+576,ST/00576,Enterprise-wide global initiative,6,2020-02-20,73792.86,7,Nysa,pan Marcel Misztela,1787,w naprawie
+577,ST/00577,Multi-tiered secondary database,6,2021-04-21,85050.93,20,Szczecinek,pani Angelika Kaczka,1837,w naprawie
+578,ST/00578,Organic tangible archive,491,2021-06-26,118093.33,10,Kętrzyn,pani Julianna Myszk,863,w użyciu
+579,ST/00579,Horizontal bandwidth-monitored encoding,3,2019-10-10,22463.9,30,Piaseczno,pan Tadeusz Dorobisz,322,zlikwidowany
+580,ST/00580,Pre-emptive real-time hierarchy,491,2020-10-11,16126.91,10,Augustów,Hubert Szpyra,1352,zlikwidowany
+581,ST/00581,De-engineered encompassing policy,4,2025-07-01,12226.94,30,Kutno,pan Jerzy Kawala,808,w naprawie
+582,ST/00582,Reverse-engineered intangible leverage,6,2023-04-30,143979.47,18,Racibórz,pani Julita Wita,1678,zlikwidowany
+583,ST/00583,De-engineered 4thgeneration portal,491,2024-03-31,17611.57,20,Zgierz,pani Dagmara Buśko,983,zlikwidowany
+584,ST/00584,Diverse national strategy,6,2018-10-20,84480.36,30,Brodnica,Radosław Kopciuch,1846,w użyciu
+585,ST/00585,Realigned user-facing moderator,8,2022-07-18,68590.86,7,Chorzów,Julianna Durlej,1847,zlikwidowany
+586,ST/00586,Open-architected object-oriented focus group,491,2021-07-15,114950.6,20,Opole,Tobiasz Piskor,478,w naprawie
+587,ST/00587,Pre-emptive encompassing throughput,6,2024-07-25,32333.59,18,Myszków,Dorota Damian,1090,w użyciu
+588,ST/00588,Reduced hybrid portal,491,2020-10-08,54308.63,30,Łódź,pan Oliwier Sobiło,1120,zlikwidowany
+589,ST/00589,Configurable exuding capability,8,2021-08-21,12754.75,20,Czeladź,Kazimierz Stempin,1372,w naprawie
+590,ST/00590,Automated value-added success,3,2025-03-20,119075.27,7,Brodnica,Mikołaj Jaje,232,w naprawie
+591,ST/00591,Horizontal explicit firmware,6,2023-08-20,22097.15,14,Żary,Daniel Podgórny,2237,zlikwidowany
+592,ST/00592,Business-focused local challenge,8,2022-01-27,98224.38,7,Skarżysko-Kamienna,Jeremi Kaszkowiak,798,w naprawie
+593,ST/00593,Up-sized coherent matrices,491,2019-04-30,108023.87,20,Bielawa,Wiktor Surdyk,827,w użyciu
+594,ST/00594,Robust full-range extranet,4,2018-09-01,93803.91,,Knurów,Krystyna Buchalik,836,w naprawie
+595,ST/00595,Grass-roots analyzing knowledgebase,6,2022-04-01,177655.15,10,Legionowo,Andrzej Fac,1823,w użyciu
+596,ST/00596,Decentralized eco-centric implementation,4,2019-12-07,26872.0,18,Kraków,Adrianna Szatko,733,w naprawie
+597,ST/00597,Down-sized next generation algorithm,491,2023-09-16,129809.73,10,Głogów,pani Angelika Ciarka,2160,w naprawie
+598,ST/00598,Robust system-worthy budgetary management,6,2023-02-17,18472.61,,Jarocin,Melania Klemens,898,zlikwidowany
+599,ST/00599,Stand-alone holistic monitoring,491,2024-02-08,95114.08,30,Brzeg,pan Jakub Kamyk,1563,w użyciu
+600,ST/00600,Up-sized methodical help-desk,4,2021-01-17,20821.08,30,Bydgoszcz,Rafał Buszko,1753,w użyciu

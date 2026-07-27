@@ -1,0 +1,2121 @@
+kontrahent_id,nazwa,nip,nip_status,dup_nip,dup_nazwa
+1,Kluczek Sp.k. Sp. J.,1043321817,poprawny,True,True
+2,Wujek-Soroko s.c. sp.k.,6184959312,poprawny,False,False
+3,Spółdzielnia Wacławczyk Spółka z o.o.,2553419289,poprawny,False,False
+4,Bodzak Sp. z o.o. Sp. z o.o.,3056413959,poprawny,False,False
+5,Różewicz-Wołk Sp.j. sp.k.,,brak,False,False
+6,Gierak-Obuchowicz Sp.j. S.A.,916-697-84-82,poprawny,False,False
+7,Basak-Westfal Sp.k. sp. z o.o.,7048281480,poprawny,False,False
+8,FPUH Prokopiak S.A.,0154303911,poprawny,True,True
+9,PPUH Nurek Sp.j. sp. z o.o.,4896383468,poprawny,False,False
+10,Fundacja Tylka Sp. z o.o.,9839301033,poprawny,True,True
+11,Furgała-Pyziak i syn s.c. sp. z o.o.,9973763117,poprawny,False,False
+12,Murat-Basak Sp. z o.o. Sp. J.,1065133388,poprawny,False,False
+13,Grzywnowicz-Padło Sp.j. sp.k.,1080132677,poprawny,False,False
+14,Pawełkiewicz-Zimniak Sp. z o.o. S.A.,4687234304,poprawny,False,False
+15,Spółdzielnia Brojek S.A. sp.k.,2081219139,poprawny,False,False
+16,Fundacja Sobuś Sp.k. sp.k.,9854353465,poprawny,False,False
+17,SPÓŁDZIELNIA MIDURA S.A. SP. Z O.O.,,brak,False,False
+18,Szóstak-Tomys Sp.j. Sp. z o.o.,2411824494,poprawny,False,False
+19,FPUH Czenczek-Łyczek S.A. Sp. z o.o.,1640052420,poprawny,False,False
+20,Kielczyk S.A. Sp. J.,2805982625,poprawny,False,False
+21,PPUH Zinkiewicz-Klatka Sp. z o.o. Sp.k. Spółka z o.o.,2563421603,poprawny,False,False
+22,PPUH Dmoch-Chomiuk s.c. Sp. J.,3654145865,poprawny,False,False
+23,FPUH Ficner-Cieciora i syn s.c. sp.k.,6556981698,błędny,False,False
+24,Spółdzielnia Adamaszek-Ziętal s.c. Sp. z o.o.,5951484655,poprawny,False,False
+25,Araszkiewicz i syn s.c. sp. z o.o.,994-680-44-38,poprawny,False,False
+26,Cofała Sp. z o.o. Sp.k. Sp. J.,2148951345,poprawny,False,False
+27,Materek i syn s.c. Sp. J.,9367632017,poprawny,False,False
+28,Gabinety Giersz Sp. z o.o.,8687277439,poprawny,False,False
+29,Stowarzyszenie Sobkiewicz i syn s.c. Spółka z o.o.,3455812230,poprawny,False,False
+30,Stowarzyszenie Jop-Sycz Sp. z o.o. Sp.k. sp. z o.o.,6690967058,poprawny,False,False
+31,Spółdzielnia Gula-Strojna Sp.k. S.A.,8069901623,poprawny,False,False
+32,PPUH Strycharz S.A.,4641708054,poprawny,False,False
+33,Stowarzyszenie Gołofit-Koronkiewicz i syn s.c. sp. z o.o.,2719374528,poprawny,False,False
+34,Latko-Więckiewicz Sp. z o.o. Sp.k. S.A.,6319314915,poprawny,False,False
+35,Pronobis Sp.j. Spółka z o.o.,2849877699,poprawny,False,False
+36,Zmyślony Sp.j. sp.k.,9650752732,poprawny,False,False
+37,PPUH Hadaś Sp.k. sp. z o.o.,1367837778,poprawny,False,False
+38,Parda-Żach Sp. z o.o. sp.k.,5788568556,poprawny,False,False
+39,Kokosza-Sołek Sp.j. Sp. J.,8233749893,poprawny,False,False
+40,Stowarzyszenie Pyszny sp.k.,0947775208,poprawny,False,False
+41,FPUH Pastuszko i syn s.c. Sp. J.,0229413183,poprawny,False,False
+42,Szykuła Sp.j. S.A.,4964990911,poprawny,False,False
+43,Grupa Knieć-Wojtak Sp.k. sp.k.,1206797401,poprawny,False,False
+44,Lampart S.A. Sp. J.,1024994716,poprawny,False,False
+45,Fundacja Smoczyk S.A. Sp. z o.o.,6594013994,poprawny,False,False
+46,FPUH Kościołek Sp. z o.o. sp. z o.o.,9671756557,poprawny,False,False
+47,FPUH Bździuch-Wąsala i syn s.c. S.A.,8071545165,poprawny,False,False
+48,PPUH Druszcz-Bartłomiejczyk Sp. z o.o. Sp.k. Spółka z o.o.,9770348241,poprawny,False,False
+49,PPUH Maciocha Sp. z o.o.,8613171271,poprawny,False,False
+50,Sady-Bednarowicz S.A. sp.k.,2639821468,poprawny,False,False
+51,Spółdzielnia Pizoń S.A.,8755886755,poprawny,False,False
+52,Szambelan-Sadza Sp. z o.o. Sp.k. Sp. J.,6627028950,poprawny,False,False
+53,Grupa Kasznia Sp. z o.o. Sp. J.,2174596159,poprawny,False,False
+54,Grupa Wiak Sp.k. Sp. J.,4316117248,poprawny,False,False
+55,Spółdzielnia Sztuba-Damek Sp.j. sp. z o.o.,8692221967,poprawny,False,False
+56,Szczerbiak S.A. Sp. J.,0748217598,poprawny,False,False
+57,FPUH Malecha Sp. z o.o.,3695944066,poprawny,False,False
+58,Cabała-Kanarek S.A. Spółka z o.o.,3953394211,poprawny,False,False
+59,Fundacja Mila-Hyży s.c. Sp. z o.o.,4562328587,poprawny,False,False
+60,Fuławka i syn s.c. S.A.,1236851602,poprawny,False,False
+61,Stowarzyszenie Pabisiak Sp.k. Spółka z o.o.,1370985939,poprawny,False,False
+62,Grupa Wygoda Sp. z o.o.,,brak,False,False
+63,Kopciuch Sp. z o.o. Sp.k. Sp. J.,1796405370,poprawny,False,False
+64,Grupa Sankiewicz-Drela Sp. z o.o. Spółka z o.o.,3171390050,poprawny,False,False
+65,Spółdzielnia Duczek-Ciuła s.c. sp. z o.o.,5290422840,poprawny,False,False
+66,Gabinety Miksza sp. z o.o.,1177589171,poprawny,False,False
+67,Brachaczek-Jaskóła s.c. Sp. z o.o.,0766177113,poprawny,False,False
+68,Stowarzyszenie Kominiak-Pietrek i syn s.c. sp.k.,8478961189,poprawny,False,False
+69,FPUH Koczy i syn s.c. Sp. J.,1565452719,poprawny,False,False
+70,Spółdzielnia Pyś sp.k.,8516560499,poprawny,False,False
+71,Zapaśnik Sp. z o.o. Sp.k. Sp. z o.o.,5851493689,poprawny,False,False
+72,Spółdzielnia Gosek-Bazyluk Sp.k. Spółka z o.o.,5502296128,poprawny,False,False
+73,Stowarzyszenie Luberda-Mosiołek Sp.k. sp. z o.o.,5459910226,poprawny,False,False
+74,Ciechowicz Sp.k. S.A.,6438156144,poprawny,False,True
+75,Stowarzyszenie Gebauer-Rudyk Sp.k. Sp. z o.o.,0343244517,poprawny,False,False
+76,FPUH Dubis Sp. J.,5160607156,poprawny,False,False
+77,Fidura Sp. z o.o. Spółka z o.o.,9681645351,poprawny,False,False
+78,Stowarzyszenie Heczko Sp.k. Spółka z o.o.,955-271-77-46,poprawny,False,False
+79,FPUH Pacyga Sp.k. Sp. z o.o.,0541199869,poprawny,False,False
+80,FPUH Katana sp.k.,2071518202,poprawny,True,True
+81,Spółdzielnia Panicz Spółka z o.o.,6659051515,poprawny,False,False
+82,Dorna i syn s.c. Sp. J.,2546291486,poprawny,False,False
+83,Spółdzielnia Szwałek-Lesner i syn s.c. S.A.,3322141883,poprawny,False,False
+84,Dyś Sp. z o.o. sp. z o.o.,9270653797,poprawny,False,False
+85,Gabinety Mikita s.c. sp.k.,7746886235,poprawny,False,False
+86,Fundacja Oczko Sp. z o.o. sp.k.,1412478266,poprawny,False,False
+87,PPUH Lisoń-Stanuch Sp.j. sp. z o.o.,6153051528,poprawny,False,False
+88,Fundacja Bieszke Sp.k. Sp. z o.o.,,brak,False,False
+89,Grupa Tadych Sp.k. sp.k.,7117980897,poprawny,False,False
+90,Mijas s.c. sp. z o.o.,1851888888,poprawny,False,True
+91,Gabinety Żugaj i syn s.c. Spółka z o.o.,153-195-20-53,poprawny,False,False
+92,Bączkiewicz i syn s.c. sp. z o.o.,1704303059,poprawny,False,False
+93,Spółdzielnia Lipowicz Sp. z o.o.,5415667656,poprawny,False,False
+94,FPUH Saran Sp.j. Sp. z o.o.,6928451152,poprawny,False,False
+95,FPUH Indyk-Bulanda S.A. Sp. z o.o.,5964016583,poprawny,False,False
+96,Klęczar Sp.k. sp. z o.o.,5569092757,poprawny,False,False
+97,Klisz Sp. z o.o. Sp.k. Spółka z o.o.,3102786810,poprawny,False,False
+98,Gabinety Tuzimek Sp. z o.o. Sp.k. sp. z o.o.,1727155183,poprawny,False,False
+99,Gabinety Rozum sp.k.,3132370586,poprawny,False,False
+100,Plona-Furgała i syn s.c. S.A.,7866912515,poprawny,False,False
+101,Bracha Sp.j. sp. z o.o.,6801824222,poprawny,False,False
+102,Grupa Jarka sp.k.,4249818293,poprawny,False,False
+103,PPUH Dawidczyk Sp. z o.o. Sp. z o.o.,1094396908,poprawny,False,False
+104,Fundacja Semik Sp. z o.o.,0276773598,poprawny,False,True
+105,Gabinety Popielarczyk-Borkiewicz Sp. z o.o. Sp. z o.o.,5371473215,poprawny,False,False
+106,Gabinety Radko sp.k.,5327877472,poprawny,True,True
+107,Gabinety Niemira Spółka z o.o.,7974801623,poprawny,False,False
+108,Spółdzielnia Fryś-Klaus S.A. Spółka z o.o.,216-558-52-39,poprawny,True,False
+109,Gabinety Kalinka sp.k.,7298259524,poprawny,False,False
+110,PPUH ANIOŁA SP.J. SPÓŁKA Z O.O.,705-516-94-07,poprawny,True,True
+111,Szyda Sp. z o.o. sp. z o.o.,8962309130,poprawny,False,True
+112,PPUH Pyziak S.A. sp.k.,702-838-57-85,poprawny,False,False
+113,FPUH Tyniec S.A. Sp. J.,4973348433,poprawny,True,True
+114,  PPUH Szachniewicz-Nalewajko i syn s.c. Sp. J.,441-986-65-24,poprawny,False,False
+115,Grupa Siedlarz-Parkitny s.c. sp. z o.o.,384-842-19-92,poprawny,False,False
+116,Grupa Hankiewicz S.A.,5712082675,poprawny,False,False
+117,Matyszczak S.A. sp. z o.o.,8026206721,poprawny,False,False
+118,FPUH Kozon Sp.k. Spółka z o.o.,4788728746,poprawny,False,False
+119,Fundacja Dulik-Olesiejuk Sp.j. Spółka z o.o.,4932966855,poprawny,False,False
+120,FPUH Żach Sp.j. Sp. z o.o.,4637454995,poprawny,False,False
+121,Stowarzyszenie Jędrusiak sp. z o.o.,6841459332,poprawny,False,False
+122,PPUH Roszko Sp. J.,3391878517,poprawny,False,False
+123,Rohde-Pastucha i syn s.c. sp.k.,7139718706,poprawny,False,False
+124,Stowarzyszenie Hejna-Śliz Sp.k. Spółka z o.o.,0640391067,poprawny,False,False
+125,FPUH Hubert sp. z o.o.,6567661826,poprawny,False,False
+126,Turoń Sp.k. sp. z o.o.,0047868630,poprawny,False,False
+127,Ufnal-Baum Sp.j. Sp. J.,6903311905,poprawny,False,False
+128,PPUH Ryszkiewicz i syn s.c. Sp. z o.o.,2843959953,poprawny,False,False
+129,Spółdzielnia Zdobylak-Banachowicz Sp.j. sp.k.,,brak,False,False
+130,Gabinety Drozdowicz sp. z o.o.,4270866881,poprawny,False,True
+131,Siwa-Latko s.c. Spółka z o.o.,183-046-99-04,poprawny,False,False
+132,Fundacja Prygiel-Luberda Sp. z o.o. Spółka z o.o.,4033173937,poprawny,False,False
+133,Kluj-Ciochoń Sp.j. Spółka z o.o.,5560932049,poprawny,True,False
+134,Grupa Gałat Sp.j. sp. z o.o.,7854777253,poprawny,False,False
+135,PPUH Tekieli Sp.j. Sp. z o.o.,0062312032,poprawny,False,False
+136,PPUH Morawiak i syn s.c. Sp. z o.o.,088-600-84-88,poprawny,False,False
+137,Stowarzyszenie Denkiewicz Sp.j. Sp. z o.o.,823-398-45-42,poprawny,False,False
+138,Grupa Błądek-Rzucidło Sp.j. sp. z o.o.,4101666872,poprawny,False,False
+139,Gabinety Kuk Sp. z o.o.,8033974013,poprawny,False,False
+140,Gabinety Karmelita-Dunal Sp.j. sp. z o.o.,9261429391,poprawny,False,False
+141,Stowarzyszenie Gołas i syn s.c. Sp. J.,9996504773,poprawny,False,False
+142,Domżał-Dorobek Sp.k. sp.k.,4311426269,poprawny,False,False
+143,Fundacja Jeżyna-Bystroń Sp.k. Sp. z o.o.,212-678-88-66,poprawny,False,False
+144,PPUH Świstek Sp. z o.o.,6224447217,poprawny,False,False
+145,FPUH Działo sp. z o.o.,7993712406,poprawny,False,False
+146,Gabinety Ślipek Sp. J.,9245937520,poprawny,False,False
+147,FPUH Glazer-Pusz Sp. z o.o. Spółka z o.o.,6519398288,poprawny,False,False
+148,Grupa Dzikiewicz i syn s.c. sp. z o.o.,4342661793,poprawny,False,False
+149,Klemens s.c. Spółka z o.o.,8911352908,poprawny,False,False
+150,Grupa Zysk sp.k.,8899375678,poprawny,False,False
+151,Spółdzielnia Lepka Sp. z o.o.,1254573875,poprawny,False,False
+152,NIKEL-FAC I SYN S.C. SP. J.,1051238284,poprawny,False,False
+153,Fundacja Tylec Sp. J.,6609379662,poprawny,False,False
+154,Osial Sp. z o.o. Sp.k. sp. z o.o.,7147859692,poprawny,False,False
+155,Spółdzielnia Freitag Sp.k. sp.k.,1251341259,poprawny,False,False
+156,Hamera i syn s.c. S.A.,8282742253,poprawny,False,False
+157,Ostręga s.c. sp.k.,7676772198,poprawny,False,False
+158,Pasieczna S.A. S.A.,5807836131,poprawny,True,True
+159,Szajner-Toma Sp.k. sp. z o.o.,3959629230,poprawny,False,False
+160,PPUH Jonczyk Sp.k. Sp. J.,4494812602,poprawny,False,False
+161,Spółdzielnia Giec sp.k.,4667116843,poprawny,False,False
+162,  PPUH Kudra Sp.k. S.A.,5186363741,poprawny,False,False
+163,Spółdzielnia Wolańczyk Sp. J.,0017012775,poprawny,True,True
+164,Ogonek s.c. Spółka z o.o.,1541520645,poprawny,True,False
+165,Fundacja Zacharek sp. z o.o.,9387005163,poprawny,False,False
+166,Spółdzielnia Wódka-Pelka Sp. z o.o. Sp.k. Spółka z o.o.,4262218908,poprawny,False,False
+167,PPUH Kotlarek-Czerniakiewicz Sp. z o.o. sp.k.,7311219655,poprawny,False,False
+168,Prażuch i syn s.c. sp.k.,9404389836,poprawny,False,False
+169,FPUH Koterba-Indyk Sp. z o.o. Sp.k. S.A.,9180552696,poprawny,False,False
+170,SZCZEPAN-DWORCZAK SP. Z O.O. SP. Z O.O.,4300684861,poprawny,False,False
+171,Chorążewicz-Cieniuch Sp.k. Spółka z o.o.,1832856918,poprawny,False,False
+172,Stark-Bilik Sp.k. sp.k.,0421020276,poprawny,False,False
+173,Fundacja Dydak-Nieroda s.c. Sp. z o.o.,5648149173,poprawny,False,False
+174,FPUH Miszkiel-Młotek Sp. z o.o. Sp.k. Sp. z o.o.,9138000304,poprawny,False,False
+175,PPUH Deryło-Dulik Sp. z o.o. Sp.k. sp. z o.o.,6541951804,poprawny,False,False
+176,Fundacja Pleban Sp.j. Spółka z o.o.,5187053497,poprawny,True,False
+177,Mzyk-Drej Sp.k. sp. z o.o.,8320603856,poprawny,False,False
+178,Dzienniak-Grześków Sp.k. sp.k.,3670241032,poprawny,False,False
+179,Grupa Rodzeń S.A.,1990623449,poprawny,False,False
+180,Fundacja Mich Sp.k. sp. z o.o.,9121277567,poprawny,True,True
+181,Stowarzyszenie Cis Sp. z o.o. Sp. J.,4903521352,poprawny,False,False
+182,PPUH Wilkos-Drela Sp. z o.o. sp.k.,8317121001,poprawny,False,False
+183,Bystrek s.c. Spółka z o.o.,1013721512,poprawny,False,False
+184,Komuda Sp.j. S.A.,6253244729,poprawny,False,False
+185,Wlaźlak-Wawszczak Sp.j. Spółka z o.o.,626-383-80-63,poprawny,False,False
+186,Gryta-Lorens Sp. z o.o. Sp.k. Spółka z o.o.,2059304071,błędny,False,False
+187,PPUH Skotarczak-Delikat i syn s.c. Sp. J.,0396522396,poprawny,False,False
+188,Spółdzielnia Dylak Sp. z o.o. Sp.k. sp. z o.o.,7842701037,poprawny,True,True
+189,PPUH Pyda i syn s.c. Spółka z o.o.,2500292188,poprawny,False,False
+190,Gabinety Trzpil i syn s.c. Spółka z o.o.,,brak,False,False
+191,Fundacja Buksa Sp.k. Sp. z o.o.,7251355218,poprawny,False,False
+192,Żynda-Otremba Sp. z o.o. Sp.k. Sp. z o.o.,0067626769,poprawny,False,False
+193,Drozda i syn s.c. Sp. z o.o.,0405411527,poprawny,False,False
+194,Fundacja Płócienniczak i syn s.c. S.A.,2962015336,poprawny,False,False
+195,Zarzeczna-Widłak i syn s.c. sp.k.,7205061493,błędny,False,False
+196,PPUH Wota S.A.,1467741865,poprawny,True,True
+197,Kamieniarz Sp. z o.o. Sp.k. Spółka z o.o.,3490211585,błędny,False,False
+198,FPUH Zaczyk Sp.k. sp. z o.o.,7416089895,poprawny,False,False
+199,Spółdzielnia Borysiewicz i syn s.c. sp. z o.o.,0616329455,poprawny,False,False
+200,Czulak i syn s.c. sp.k.,7099861626,poprawny,False,False
+201,Gabinety Olesiejuk Spółka z o.o.,6799702467,poprawny,False,False
+202,Mirończuk Sp. z o.o. Sp.k. Spółka z o.o.,5054447139,poprawny,False,False
+203,Dąbroś-Szczubełek i syn s.c. Sp. z o.o.,3736785080,poprawny,False,False
+204,Rduch i syn s.c. Sp. z o.o.,,brak,False,False
+205,Fundacja Garczarek s.c. sp. z o.o.,5797279857,poprawny,False,False
+206,Stowarzyszenie Uroda Sp. z o.o. sp. z o.o.,9333346801,poprawny,False,False
+207,Kuza-Wałek Sp. z o.o. Sp.k. sp.k.,4466574378,poprawny,False,False
+208,Złotek S.A. sp.k.,9441715454,poprawny,False,False
+209,Wesoły-Pioch Sp.k. sp. z o.o.,0965207443,poprawny,False,False
+210,Siebert-Pakos s.c. Sp. J.,3875842829,poprawny,False,False
+211,Tokarek Sp. z o.o. Sp.k. sp. z o.o.,5346554942,poprawny,False,False
+212,FPUH Matusewicz sp. z o.o.,816-846-02-28,poprawny,False,False
+213,Stowarzyszenie Ofiara Sp. z o.o. Sp.k. S.A.,5250074321,poprawny,False,False
+214,PPUH Karmelita-Kolarz Sp.k. S.A.,6760083503,poprawny,True,True
+215,Sadlik Sp. z o.o. Sp.k. Spółka z o.o.,4216894219,poprawny,False,False
+216,Brach-Nieroda i syn s.c. Sp. J.,3230982155,poprawny,False,False
+217,Grupa Knapek Sp. z o.o.,1001676183,poprawny,False,False
+218,Grupa Fal s.c. Sp. J.,9141173931,poprawny,False,False
+219,PPUH Pawlos-Malka Sp.k. S.A.,3753001193,poprawny,False,False
+220,Szabla Sp.k. Sp. J.,3744701206,poprawny,False,False
+221,Gabinety Cebo sp. z o.o.,2557941551,poprawny,False,False
+222,Fundacja Wojaczek Sp. J.,2120216979,poprawny,False,False
+223,Grupa Szmaj Sp. J.,2771670142,poprawny,False,False
+224,Fundacja Lorenz-Żero S.A. Sp. J.,6289002877,poprawny,False,False
+225,Grupa Starzak s.c. Sp. z o.o.,8386631774,poprawny,False,False
+226,Getka-Kabala Sp. z o.o. Sp. J.,0166088016,poprawny,False,False
+227,Grupa Huber s.c. Spółka z o.o.,037-589-97-53,poprawny,False,False
+228,Szeszko S.A. Sp. J.,4885102721,poprawny,False,False
+229,Gabinety Drygała S.A.,3735160917,poprawny,True,True
+230,Spółdzielnia Łodyga Sp. J.,0869782920,poprawny,False,False
+231,PPUH Kozok s.c. S.A.,6934654724,poprawny,False,False
+232,Stowarzyszenie Migda Sp.k. sp.k.,3339452286,poprawny,False,False
+233,MAINKA-JACHIMCZAK I SYN S.C. SP.K.,4608106205,poprawny,False,False
+234,Spółdzielnia Wolff Sp. z o.o.,4380571980,poprawny,False,False
+235,Malcher Sp. z o.o. Sp.k. S.A.,6580043979,poprawny,False,False
+236,Fundacja Szlufik sp. z o.o.,4721228161,poprawny,False,False
+237,Moczko-Gębura Sp. z o.o. Sp.k. S.A.,2025909475,poprawny,False,False
+238,PPUH Torbus sp.k.,2688615332,poprawny,False,False
+239,Spółdzielnia Danilczuk-Daraż Sp.j. sp.k.,0157399308,poprawny,False,False
+240,FPUH Kosz-Dziwak Sp. z o.o. sp.k.,5887704353,poprawny,False,False
+241,Gabinety Kęsek Sp.j. Sp. J.,3613861205,poprawny,False,False
+242,Famuła s.c. sp.k.,6180919014,poprawny,False,False
+243,FPUH Brańka S.A.,6607283260,poprawny,False,False
+244,Gorol Sp. z o.o. Sp.k. Sp. z o.o.,8821009963,poprawny,False,False
+245,Grupa Pawlonka Sp.j. sp. z o.o.,3943129080,poprawny,False,False
+246,Bródka Sp. z o.o. Sp.k. S.A.,5523149131,poprawny,False,False
+247,Bejma-Nickel Sp.j. Spółka z o.o.,5620533644,poprawny,False,False
+248,Zieja Sp.j. Spółka z o.o.,7812914283,poprawny,False,False
+249,Siara S.A. sp.k.,6930848874,poprawny,False,False
+250,Fundacja Bareja-Berus Sp.j. sp.k.,8165803923,poprawny,False,False
+251,Szczudło Sp.k. S.A.   ,5037314536,poprawny,False,False
+252,PPUH Sowała S.A. Sp. z o.o.,5184498922,poprawny,False,False
+253,Leszkiewicz-Pietrewicz S.A. sp. z o.o.,8655779089,poprawny,False,False
+254,FUNDACJA SKAŁKA-GRYGOROWICZ I SYN S.C. SP. Z O.O.,2591365176,poprawny,False,False
+255,Martyn Sp. z o.o. Sp.k. Sp. z o.o.,0242869902,poprawny,False,False
+256,Spółdzielnia Pawela s.c. S.A.,9292984254,poprawny,False,False
+257,Stowarzyszenie Bak sp.k.,629-127-99-02,poprawny,False,False
+258,Spółdzielnia Smolorz Sp.j. Sp. J.   ,6865086374,poprawny,False,False
+259,Fundacja Rduch-Tarach i syn s.c. S.A.,3149864301,poprawny,False,False
+260,FPUH Sajewicz Sp. J.,5651269444,poprawny,True,True
+261,Stowarzyszenie Potęga-Gierak i syn s.c. S.A.,8872588741,poprawny,False,False
+262,Berdzik-Cieloch Sp.k. Sp. J.   ,2601279611,poprawny,False,False
+263,Szyja Sp. z o.o. Sp.k. S.A.,9849027705,poprawny,False,False
+264,Gabinety Krzyżostaniak-Malon s.c. Sp. J.,0530214654,poprawny,False,False
+265,Stowarzyszenie Działa sp.k.,4895543935,poprawny,False,False
+266,FPUH Gągała Sp. z o.o.,8451848943,poprawny,False,False
+267,Migda-Gomoła Sp.k. sp.k.,0714163352,poprawny,False,False
+268,Bejger-Bekus Sp.k. S.A.,5182755390,poprawny,False,False
+269,Stowarzyszenie Porwoł sp. z o.o.,3339521113,poprawny,False,False
+270,PPUH Pilarek Sp.j. S.A.,9472846393,poprawny,False,False
+271,Madzia-Wasyluk Sp. z o.o. S.A.,2718750030,poprawny,False,False
+272,Fundacja Połetek Sp.j. S.A.   ,9552763657,poprawny,False,False
+273,Ciepluch Sp.k. Sp. J.,0267288573,poprawny,False,False
+274,Zacharczuk Sp. z o.o. Sp.k. Sp. z o.o.,3471754556,poprawny,False,False
+275,Grupa Szajna S.A. Sp. J.,8245587717,poprawny,False,False
+276,PPUH Wejman-Moneta Sp. z o.o. sp.k.,9611253551,poprawny,False,False
+277,Fronczek-Kryszczuk Sp.k. Spółka z o.o.,,brak,False,False
+278,Grupa Podpora-Brzykcy i syn s.c. S.A.,800-681-14-94,poprawny,False,False
+279,  Hołota Sp.j. sp. z o.o.,2820055774,poprawny,False,False
+280,Spółdzielnia Kasperczak i syn s.c. S.A.,9688457836,poprawny,False,False
+281,Żymełka-Kotlarek i syn s.c. Sp. z o.o.,8254780773,poprawny,False,False
+282,Fundacja Dyczko sp. z o.o.   ,6866326633,poprawny,True,True
+283,Gabinety Niećko Sp.k. Sp. J.,8463122413,poprawny,False,False
+284,Gabinety Andruszko s.c. Sp. z o.o.,2080214424,poprawny,False,False
+285,Grupa Stochel S.A.,4757051202,poprawny,False,False
+286,Sommer-Jaśko Sp.k. Sp. z o.o.,1367303717,poprawny,False,False
+287,Stowarzyszenie Karłowicz Sp. z o.o. Sp.k. Sp. z o.o.,8814743509,poprawny,False,False
+288,Fundacja Kobryń Sp. z o.o. Spółka z o.o.,916-300-97-94,poprawny,False,False
+289,PPUH Czajor-Wlaźlak s.c. Sp. J.,0052812738,poprawny,False,False
+290,FPUH Pikor sp. z o.o.,928-557-49-86,poprawny,False,False
+291,Zamora-Wasil i syn s.c. Sp. J.,8620959356,poprawny,False,False
+292,Sobieszczyk-Reszke Sp. z o.o. sp. z o.o.,9456511812,poprawny,False,False
+293,FPUH Bugla-Jędrys Sp.j. Sp. z o.o.,967-899-40-53,poprawny,False,False
+294,Kapciak-Joszko Sp. z o.o. Sp.k. Sp. z o.o.,5865094806,poprawny,False,False
+295,FPUH Łuksza-Klebba Sp. z o.o. Sp.k. sp.k.,6338392885,poprawny,False,False
+296,Stowarzyszenie Niedojadło-Jachimczak Sp.j. sp. z o.o.,2868528971,poprawny,False,False
+297,Spółdzielnia Nastaj Spółka z o.o.,9398368455,poprawny,False,False
+298,Pitura-Doroba i syn s.c. Spółka z o.o.,8992107520,poprawny,False,False
+299,Spółdzielnia Arendarczyk S.A.,9315727912,poprawny,False,False
+300,Lenda S.A. Spółka z o.o.,5661390609,poprawny,False,False
+301,Grupa Panuś sp. z o.o.,0679981361,poprawny,False,False
+302,PPUH Gabara-Kupidura i syn s.c. Spółka z o.o.,1686227832,poprawny,False,False
+303,Grupa Łyś S.A. Sp. z o.o.,4659116656,poprawny,False,False
+304,Fundacja Seidel Spółka z o.o.,9792703354,błędny,True,False
+305,Grupa Kacperczyk Spółka z o.o.,,brak,False,False
+306,PPUH Piszcz-Chojna Sp. z o.o. sp. z o.o.,0698042049,poprawny,False,False
+307,Buśko-Dziuda Sp.k. Sp. J.,5104636814,poprawny,False,False
+308,Fundacja Rosada Sp.j. sp.k.,003-845-76-20,poprawny,False,False
+309,Grupa Stelmasiak-Wołodźko Sp.k. sp.k.,4046084325,poprawny,False,False
+310,Gabinety Sierpień i syn s.c. sp.k.,2649578236,poprawny,False,False
+311,Dorobek s.c. sp.k.,2629251880,poprawny,False,False
+312,Gałaj-Chołody Sp. z o.o. Sp.k. Spółka z o.o.,7423122091,poprawny,False,False
+313,Pitek-Kudełka Sp.j. Sp. z o.o.,5172897527,poprawny,False,False
+314,FPUH Konrad-Kuczaj s.c. Sp. z o.o.,4633312790,poprawny,False,False
+315,Stowarzyszenie Machniak Sp. z o.o. Sp.k. S.A.,9998808170,poprawny,False,False
+316,Grupa Skocz-Stoch i syn s.c. sp.k.,0347644722,poprawny,False,False
+317,Gabinety Szmalec S.A. S.A.,1812982666,poprawny,False,False
+318,Spółdzielnia Cholewka Sp. z o.o.,4521117511,poprawny,False,False
+319,Spółdzielnia Komsta s.c. sp. z o.o.,592-222-06-46,poprawny,False,False
+320,Spółdzielnia Kalota Spółka z o.o.,3977671998,poprawny,False,False
+321,Gabinety Pędrak sp. z o.o.,0502099454,poprawny,False,False
+322,Fundacja Bulak-Krzyk i syn s.c. Sp. J.,9982795017,błędny,False,False
+323,SPÓŁDZIELNIA POPIELARCZYK SP. Z O.O.,1458683393,poprawny,False,False
+324,Fundacja Janczarek s.c. sp.k.,4695489958,poprawny,False,False
+325,Grupa Kamyk-Kaczmarkiewicz S.A. sp. z o.o.,4301071391,poprawny,False,False
+326,Borzych-Ryszkiewicz s.c. sp. z o.o.,4414488508,poprawny,False,False
+327,Spółdzielnia Siekierka Sp. z o.o. Spółka z o.o.,7702727858,poprawny,False,False
+328,Grupa Nazarko-Gosik s.c. Sp. z o.o.,3955124059,poprawny,False,False
+329,Wieja s.c. Spółka z o.o.,5046173578,poprawny,False,False
+330,Palica-Tlałka Sp. z o.o. Sp.k. sp. z o.o.,1780782354,poprawny,False,False
+331,Wesoła-Bochnia Sp. z o.o. Sp.k. Sp. z o.o.,7681040919,poprawny,False,False
+332,Trzyna-Skałka i syn s.c. Spółka z o.o.,3533448578,poprawny,False,False
+333,Fras-Pawlos Sp.k. sp.k.,8138585422,poprawny,False,False
+334,Bochnia Sp. z o.o. Sp. z o.o.,2070160164,poprawny,False,False
+335,Fundacja Szkaradek Sp.k. Spółka z o.o.,5381792175,poprawny,False,False
+336,Stowarzyszenie Kwarciak-Kielan i syn s.c. sp. z o.o.,0171577249,poprawny,False,False
+337,Wajdzik i syn s.c. Sp. z o.o.,3938276157,poprawny,False,False
+338,Stowarzyszenie Dorynek Sp. J.,1971997580,poprawny,False,False
+339,STOWARZYSZENIE BARŁÓG-STRZĘPEK I SYN S.C. SP.K.,6570132902,poprawny,False,False
+340,FPUH Kubasiewicz s.c. S.A.,9098624055,poprawny,True,True
+341,Spółdzielnia Steinke sp. z o.o.,6965666680,poprawny,False,False
+342,Hak-Olszowa S.A. sp. z o.o.,4220102762,poprawny,False,False
+343,Engler Sp. z o.o. S.A.,8687653262,poprawny,True,True
+344,Fundacja Janiuk sp.k.,1284781897,poprawny,False,False
+345,Gabinety Migda i syn s.c. Spółka z o.o.,8077879565,poprawny,False,False
+346,Gabinety Kuliberda-Wolff s.c. sp.k.,4079290490,poprawny,False,False
+347,Stowarzyszenie Warzybok sp.k.,4440192922,poprawny,False,False
+348,Potok-Jargieło S.A. sp.k.,,brak,False,False
+349,Grupa Gryta-Berg Sp.k. Spółka z o.o.,1027674780,poprawny,True,False
+350,Stowarzyszenie Danilczuk S.A.,047-658-01-83,poprawny,False,False
+351,Grupa Kasak s.c. Sp. z o.o.,4967393855,błędny,False,False
+352,  Kaszkowiak-Bobel Sp. z o.o. Sp.k. Sp. z o.o.,0910939116,poprawny,False,False
+353,Szymanik Sp.k. Spółka z o.o.,4717465423,poprawny,False,False
+354,PPUH Serwa Sp. z o.o. Spółka z o.o.,4271739624,poprawny,False,False
+355,Fundacja Ciepluch Sp. J.,4101194700,poprawny,False,False
+356,Wieja-Brojek S.A. Sp. J.,5690877663,błędny,False,False
+357,Stowarzyszenie Procek sp.k.,5546015859,poprawny,False,False
+358,Stowarzyszenie Zysk i syn s.c. Sp. J.,3461571736,poprawny,True,True
+359,Smoczyk-Wojtarowicz Sp.k. sp.k.,4787005052,poprawny,False,False
+360,Fundacja Łągiewka Sp. J.,8293102706,poprawny,True,True
+361,Zieja-Szott Sp. z o.o. Spółka z o.o.,1792911171,poprawny,False,False
+362,Kalka-Dudko Sp. z o.o. Sp.k. Sp. J.,1142625822,poprawny,False,False
+363,Fundacja Bączkiewicz-Mędrala i syn s.c. Sp. z o.o.,7100219463,poprawny,False,False
+364,Zastawny Sp.k. S.A.,3290927912,poprawny,False,False
+365,Spółdzielnia Kanik sp.k.   ,0312772209,poprawny,False,False
+366,Kus-Truchan s.c. Sp. J.,0822078117,poprawny,False,False
+367,Gabinety Miozga Sp. z o.o.,5313636310,poprawny,False,False
+368,FPUH Twardzik Sp. z o.o. Spółka z o.o.,2735435207,poprawny,False,False
+369,Spółdzielnia Krüger S.A. Spółka z o.o.,3492929831,poprawny,False,False
+370,PPUH Banyś Sp. J.,9060078068,poprawny,False,False
+371,Parus s.c. sp.k.,0632543108,poprawny,False,False
+372,Sapała Sp.k. S.A.,2625701659,poprawny,False,False
+373,FPUH Osipiuk-Wota Sp.k. Sp. z o.o.,7905528182,poprawny,False,False
+374,Gabinety Kwinta Sp.j. sp.k.,335-548-64-00,poprawny,True,True
+375,Grupa Lesner sp.k.,8479513719,poprawny,True,True
+376,Dułak-Buk s.c. sp. z o.o.,7567043106,poprawny,False,False
+377,Stowarzyszenie Szok-Tylka s.c. Spółka z o.o.,4243754020,poprawny,False,False
+378,Strug-Szajner s.c. sp. z o.o.,2231059276,poprawny,False,False
+379,Grupa Mendyka sp. z o.o.,,brak,False,False
+380,Stowarzyszenie Herbut S.A. Sp. J.,7028140693,poprawny,False,False
+381,Korniak Sp. z o.o. Sp.k. sp. z o.o.,,brak,False,False
+382,Stowarzyszenie Chuchla Sp. J.   ,,brak,False,False
+383,Spółdzielnia Słyk-Ornat Sp.k. Sp. J.,6629912349,poprawny,False,False
+384,Spółdzielnia Tyka Sp. z o.o. Sp.k. Spółka z o.o.,6287923260,poprawny,False,False
+385,Mikiciuk-Ubysz S.A. S.A.,3002447149,poprawny,False,False
+386,Grupa Tomaszkiewicz-Pachnik Sp.j. S.A.,195-979-64-70,poprawny,False,False
+387,Bzymek-Trawka Sp. z o.o. Sp.k. sp. z o.o.,5725204560,poprawny,False,False
+388,Ścibisz Sp.j. Sp. J.,2192855447,poprawny,False,False
+389,FPUH Czura-Zdziech Sp. z o.o. Sp.k. Spółka z o.o.,5765213281,poprawny,False,False
+390,Patalas Sp. z o.o. Sp.k. Sp. z o.o.,1207545274,poprawny,False,False
+391,PPUH Kamieniak Sp. z o.o. Sp. J.,2342321613,poprawny,False,False
+392,Spółdzielnia Dawiec Sp. J.,8907140146,poprawny,False,False
+393,FPUH Pusz Sp. z o.o. Spółka z o.o.,0124955282,poprawny,False,False
+394,Fundacja Bilik Sp. J.,342-801-38-78,poprawny,False,False
+395,Bacia-Sobiło S.A. sp.k.,3615171829,poprawny,False,False
+396,FPUH Swacha Sp.k. Spółka z o.o.,7947386462,poprawny,False,False
+397,Wlazły-Gosek S.A. S.A.,7811266913,poprawny,True,True
+398,Ferdyn-Śmieja S.A. S.A.,,brak,False,False
+399,Fundacja Wesoła-Wudarczyk i syn s.c. S.A.,3201017026,poprawny,False,False
+400,Fundacja Michalkiewicz Sp. z o.o. sp.k.,7734778480,poprawny,False,False
+401,Gabinety Broniarek S.A.,7002842764,poprawny,True,True
+402,Komisarek-Olas Sp.k. Sp. J.,8977828066,poprawny,False,False
+403,Stowarzyszenie Bednarowicz Sp. z o.o.,9025590563,poprawny,True,True
+404,  FPUH Miąsko s.c. Sp. J.,8507698643,poprawny,False,False
+405,Soliwoda-Mandrysz Sp.k. Sp. z o.o.,7135785290,poprawny,False,False
+406,Fundacja Nesterowicz Sp.j. Sp. z o.o.,4963919199,poprawny,False,False
+407,Stowarzyszenie Boryczko-Kociemba s.c. Sp. z o.o.,4987820822,poprawny,False,False
+408,Kandzia Sp.j. S.A.,9083572323,poprawny,False,False
+409,Gabinety Miszkiewicz i syn s.c. Spółka z o.o.,4249363125,poprawny,False,False
+410,Chaberek-Łaciak Sp. z o.o. Sp. z o.o.,324-204-48-24,poprawny,False,False
+411,Stowarzyszenie Fijoł-Pasich s.c. Sp. z o.o.,6516231984,poprawny,False,False
+412,Słomian Sp.j. sp.k.,6363212340,poprawny,False,False
+413,Pawlaczek-Bujko Sp. z o.o. Sp.k. Sp. z o.o.,5867342579,poprawny,False,False
+414,Grupa Olbrych-Chlebek S.A. Sp. J.,3486451833,poprawny,False,False
+415,Stowarzyszenie Gryska-Gierasimiuk i syn s.c. sp. z o.o.,7560417762,poprawny,False,False
+416,Gabinety Staręga S.A.,9857002721,błędny,False,False
+417,Spółdzielnia Kastelik Sp. z o.o. sp. z o.o.,8296577249,poprawny,False,False
+418,STOWARZYSZENIE SMEKTAŁA-CECOT SP. Z O.O. SP.K. S.A.,9300893171,poprawny,False,False
+419,FPUH Bork s.c. Spółka z o.o.,2910867719,poprawny,False,False
+420,Grabas i syn s.c. S.A.,3934362629,poprawny,False,False
+421,Kasper-Kleina s.c. Sp. J.,7107256361,poprawny,False,False
+422,PPUH Kazek-Tereszkiewicz s.c. sp. z o.o.,7599004894,poprawny,False,False
+423,PPUH Leśny Spółka z o.o.,2875721580,poprawny,False,False
+424,PPUH Broszkiewicz-Pasztaleniec Sp.k. Spółka z o.o.,5644948569,poprawny,False,False
+425,Grupa Symonowicz Sp. z o.o. Sp.k. sp. z o.o.,0320742766,poprawny,False,False
+426,Kidawa-Bartman Sp. z o.o. Sp.k. Sp. J.,2151342283,poprawny,False,False
+427,PPUH Lizurej sp.k.,2613715041,poprawny,False,False
+428,Namysł-Krefta s.c. S.A.,7749050974,poprawny,False,False
+429,Ceynowa Sp.k. Sp. J.,1896164233,poprawny,False,False
+430,Trawka i syn s.c. Sp. J.,2147649259,poprawny,False,False
+431,Hadam-Madura Sp. z o.o. Sp.k. sp.k.,9616592660,poprawny,False,False
+432,Grupa Dębniak-Białczyk Sp.j. sp.k.,814-761-74-23,poprawny,False,False
+433,Fundacja Miozga-Groth Sp.k. Sp. z o.o.,,brak,False,False
+434,Spółdzielnia Majorczyk i syn s.c. sp. z o.o.,6016459773,poprawny,False,False
+435,Gabinety Strzoda i syn s.c. sp.k.,4168006102,poprawny,False,False
+436,Grupa Mijas-Krakowczyk i syn s.c. sp.k.,5641220318,poprawny,False,False
+437,FPUH Kwinta S.A. S.A.,8314727602,poprawny,False,False
+438,Maron Sp.k. S.A.,9334960503,poprawny,False,False
+439,Stowarzyszenie Falba S.A.,7899730802,poprawny,False,False
+440,Gabinety Wojniak sp.k.,5760243751,poprawny,False,False
+441,Grupa Szczepan Spółka z o.o.,665-729-34-15,poprawny,False,False
+442,Gabinety Muc-Pytko Sp. z o.o. S.A.,7433800546,poprawny,False,False
+443,Grupa Majtyka sp.k.,3183745501,poprawny,False,False
+444,Fundacja Kutera S.A. S.A.,7119918081,poprawny,False,False
+445,Stowarzyszenie Szlufik sp.k.,7125521371,poprawny,False,False
+446,Heczko Sp. z o.o. Spółka z o.o.,5653286323,poprawny,True,False
+447,Grupa Oszust-Ziajka Sp.k. S.A.,2081155623,poprawny,False,False
+448,Fundacja Andryszczyk Sp. z o.o.,8466845508,poprawny,False,False
+449,Stowarzyszenie Saj Sp. z o.o. Sp.k. sp.k.,9975634105,poprawny,False,False
+450,Spółdzielnia Szkaradek Sp.k. sp.k.,8485200899,poprawny,False,False
+451,Spółdzielnia Bisaga Sp.k. Spółka z o.o.,8510174909,poprawny,False,False
+452,Dziduch S.A. sp. z o.o.,5449268314,poprawny,False,False
+453,Tasarz s.c. Sp. z o.o.   ,1062737157,poprawny,False,False
+454,Grupa Kornak Sp.k. S.A.,7622827724,poprawny,False,False
+455,Spółdzielnia Sajda-Prażmo Sp. z o.o. Spółka z o.o.,196-115-94-00,poprawny,False,False
+456,Zemanek-Kala Sp.k. sp. z o.o.,2960443275,poprawny,False,False
+457,Pelka Sp.k. sp.k.,7567922871,poprawny,False,False
+458,Początek Sp.j. S.A.,5807412098,poprawny,False,False
+459,Melcer-Bulanda s.c. sp.k.,1820433974,poprawny,False,False
+460,Grupa Leks-Dmoch i syn s.c. S.A.,0856411186,błędny,False,False
+461,Stowarzyszenie Żołnierczyk-Kuczaj i syn s.c. Sp. J.,2095200463,poprawny,False,False
+462,Wlazły S.A. sp. z o.o.,9937886141,poprawny,False,False
+463,Graban Sp. z o.o. Sp.k. sp. z o.o.,0489138242,poprawny,False,False
+464,Fundacja Ambrozik S.A. sp. z o.o.,3868700790,poprawny,False,False
+465,Zaczyk S.A. S.A.,5398402894,poprawny,False,False
+466,Spółdzielnia Ficoń sp. z o.o.,5379502092,poprawny,False,False
+467,Grupa Kieca Sp.j. sp.k.,1180715697,poprawny,False,False
+468,Filak-Jonczyk Sp. z o.o. sp. z o.o.,7030453193,poprawny,False,False
+469,Graboń-Kolka Sp.k. Sp. J.,9303614987,poprawny,False,False
+470,FPUH Kasznia S.A. sp. z o.o.,1249384309,poprawny,False,False
+471,FPUH Sporysz s.c. Spółka z o.o.,6641877585,poprawny,False,False
+472,Andruszko-Golan S.A. S.A.,3519036135,poprawny,False,False
+473,Spółdzielnia Dolega i syn s.c. S.A.   ,0954317352,poprawny,False,False
+474,FPUH Block Sp. J.,7911006519,poprawny,False,False
+475,Fundacja Graban Sp. J.,080-466-19-64,poprawny,False,False
+476,GABINETY KUŁACH-SZELA I SYN S.C. SP. J.,0785931108,poprawny,False,False
+477,PPUH Grymuza-Fraś Sp.j. S.A.,,brak,False,False
+478,Majorczyk-Tomalak Sp. z o.o. Spółka z o.o.,9545089208,poprawny,False,False
+479,Spółdzielnia Kubanek-Wysota Sp.j. Spółka z o.o.,3779599591,poprawny,False,False
+480,Fundacja Wandas Sp. z o.o.,337-933-75-68,poprawny,False,False
+481,Stowarzyszenie Nowotny i syn s.c. sp.k.,1247395007,poprawny,False,False
+482,Forysiak-Saternus Sp. z o.o. Sp.k. sp.k.,3230241022,poprawny,False,False
+483,PPUH ŚWIGOŃ S.C. SP. J.,2896112231,poprawny,False,False
+484,PPUH Bogaczyk-Chachaj Sp.k. sp.k.,,brak,False,False
+485,Grupa Labudda-Langa Sp.j. S.A.,8578725583,poprawny,False,False
+486,Damps s.c. sp. z o.o.,7363466928,poprawny,False,False
+487,Gral-Choina Sp.j. sp. z o.o.,9078956771,poprawny,True,True
+488,FPUH Ciochoń i syn s.c. S.A.,3415148889,poprawny,False,False
+489,Fundacja Heba sp. z o.o.,535-444-39-21,poprawny,False,False
+490,FPUH Sykała i syn s.c. sp.k.,0782633379,poprawny,True,True
+491,Spółdzielnia Hejduk i syn s.c. Sp. J.,6377805297,poprawny,False,False
+492,Fundacja Świątkiewicz Sp. J.,6845909022,poprawny,False,False
+493,Grupa Tofil-Wochnik Sp.j. sp. z o.o.,6186371592,poprawny,False,False
+494,Jagiełka S.A. Sp. J.,9702316435,poprawny,False,False
+495,Gabinety Szymajda sp. z o.o.,5662128670,poprawny,False,False
+496,Spółdzielnia Stwora-Kulisz i syn s.c. Sp. J.,7299493877,poprawny,False,False
+497,FPUH Godzik sp.k.,7779014753,poprawny,False,False
+498,Gospodarek-Stochmal S.A. Sp. J.,6762916031,poprawny,False,False
+499,Ratka Sp.k. S.A.,8151185674,poprawny,False,False
+500,Stuglik S.A. Sp. J.,7656360044,poprawny,False,False
+501,  Gabinety Klus-Prawdzik S.A. Sp. J.,3727422099,poprawny,False,False
+502,Połom s.c. Sp. z o.o.,4275230834,poprawny,False,False
+503,Wielgos-Staniaszek i syn s.c. Spółka z o.o.,1312206812,poprawny,False,False
+504,Siwczak Sp. z o.o. Sp.k. S.A.,6133155207,poprawny,False,False
+505,Spółdzielnia Fikus Spółka z o.o.,9501364976,poprawny,False,False
+506,Bobak-Pachuta S.A. Sp. J.,2525715099,poprawny,False,False
+507,FPUH Minkina Sp.j. sp.k.,1436391022,poprawny,False,False
+508,Słabosz Sp.k. Sp. J.,9752450869,błędny,False,False
+509,Węgrzyk i syn s.c. Sp. J.,,brak,False,False
+510,Grupa Duczek Sp.j. sp. z o.o.,9833816747,poprawny,False,False
+511,Kordus-Kajak Sp.j. S.A.,7689627067,poprawny,False,False
+512,Stowarzyszenie Kuza s.c. S.A.,4746897154,poprawny,False,False
+513,Stowarzyszenie Jośko Spółka z o.o.,7666567491,poprawny,False,False
+514,Powązka-Kiljan Sp.k. Spółka z o.o.,5875066332,poprawny,False,False
+515,Kubasiewicz Sp.k. S.A.,2439920119,poprawny,False,False
+516,PPUH Rodzeń sp. z o.o.,644-886-94-66,poprawny,False,False
+517,Pędzik-Kasiak i syn s.c. Sp. J.,6402701162,poprawny,False,False
+518,Stowarzyszenie Leszczuk-Rohde s.c. sp. z o.o.,3728179324,poprawny,False,False
+519,Stowarzyszenie Pagacz-Kazior Sp.j. sp.k.,121-416-14-16,poprawny,False,False
+520,GABINETY PASICH-RUMAN I SYN S.C. SPÓŁKA Z O.O.,0901380690,poprawny,False,False
+521,Gabinety Mrotek Spółka z o.o.,5356690552,poprawny,False,False
+522,Wojaczek S.A. Sp. z o.o.,8435797866,poprawny,False,False
+523,Jędrzejek i syn s.c. Sp. J.,5739769154,poprawny,True,True
+524,Stowarzyszenie Pachnik Sp.k. sp. z o.o.,8727178331,poprawny,False,False
+525,Gabinety Deszcz-Wiszowata Sp.j. Spółka z o.o.,6434712878,poprawny,False,False
+526,Parda-Kluj Sp.j. Sp. J.,6863341419,poprawny,False,False
+527,Sip-Buchalik Sp.k. sp. z o.o.,5690409837,poprawny,False,False
+528,Gabinety Woronko sp.k.,,brak,False,False
+529,Macioł-Kuświk i syn s.c. Sp. J.,0954814978,poprawny,False,False
+530,FPUH Gregorek sp. z o.o.,3027642084,błędny,False,False
+531,Rosada-Panicz i syn s.c. Sp. J.,443-861-25-98,poprawny,True,True
+532,Kopiczko-Ziajka Sp.k. S.A.,423-330-59-12,poprawny,False,False
+533,Stowarzyszenie Tutka Sp.j. S.A.,2018596265,poprawny,True,True
+534,Zieja-Linda s.c. S.A.,176-475-01-12,poprawny,False,False
+535,Gabinety Piekacz Sp.j. sp.k.,7419267647,poprawny,False,False
+536,Kożuszek-Ochnik i syn s.c. Sp. z o.o.,6888718984,poprawny,False,False
+537,Spółdzielnia Milcarz s.c. S.A.,5102932187,poprawny,False,False
+538,FPUH Fryś Sp. z o.o. Sp.k. Sp. J.,034-084-87-23,poprawny,False,False
+539,PPUH Kasak-Ficner Sp.j. Sp. z o.o.,0303243291,poprawny,False,False
+540,Sularz Sp.k. Spółka z o.o.,2625660937,poprawny,False,False
+541,Stowarzyszenie Prawdzik Sp. J.,1554234019,poprawny,False,False
+542,Morcinek S.A. S.A.,185-948-49-14,poprawny,False,False
+543,Fundacja Pupek Sp. z o.o. S.A.,792-408-22-21,poprawny,False,False
+544,Spółdzielnia Han-Bosek s.c. S.A.,7275784468,poprawny,False,False
+545,PPUH Baszak Sp. J.,1131290140,poprawny,False,False
+546,Stowarzyszenie Domińczak Sp.k. sp.k.,8160930687,błędny,False,False
+547,Spółdzielnia Szłapa sp. z o.o.,8321528507,poprawny,False,False
+548,FPUH Hutyra Sp. z o.o. Sp.k. Sp. z o.o.,4474430961,poprawny,False,False
+549,PPUH Twardy-Woszczyna i syn s.c. Sp. z o.o.,9754510528,poprawny,False,False
+550,Judek-Bugiel Sp.k. sp. z o.o.,6170243762,poprawny,True,True
+551,Gabinety Pyszka Sp. J.,7225605311,poprawny,True,True
+552,Grupa Cholewka Sp.k. sp. z o.o.,3741678725,poprawny,False,False
+553,Grupa Igras Sp.j. sp. z o.o.,2580305696,poprawny,False,False
+554,Prażuch s.c. sp. z o.o.,928-234-14-31,poprawny,False,False
+555,FPUH Łyczek-Świerkosz s.c. sp. z o.o.,9231260438,poprawny,False,False
+556,Boduch S.A. Spółka z o.o.,3356708601,poprawny,False,False
+557,Spółdzielnia Kubanek Sp.j. Sp. z o.o.,2000534748,poprawny,False,False
+558,Gabinety Goska-Kruzel Sp. z o.o. Sp. z o.o.,0825559892,poprawny,False,False
+559,Fundacja Korab s.c. sp. z o.o.,9109337113,poprawny,False,False
+560,Fundacja Forysiak Sp.j. sp. z o.o.,,brak,False,False
+561,Spółdzielnia Koczara-Woszczak Sp. z o.o. Sp.k. sp. z o.o.,409-036-78-86,poprawny,False,False
+562,Małż Sp.j. Spółka z o.o.,3202939087,poprawny,False,False
+563,Pałyga Sp. z o.o. Sp.k. sp. z o.o.,,brak,False,False
+564,Spółdzielnia Młodzik-Ryczko Sp. z o.o. Sp.k. Sp. J.,9551842691,poprawny,False,False
+565,Kilar s.c. Sp. z o.o.,891-649-83-73,poprawny,False,False
+566,FPUH Kiełbik Sp. J.,2693121638,poprawny,False,False
+567,  Bryzek i syn s.c. S.A.,601-002-31-41,poprawny,False,False
+568,Fundacja Wac-Bobel S.A. Sp. z o.o.   ,3279724573,poprawny,False,False
+569,Kurpisz Sp. z o.o. Sp.k. Sp. z o.o.,1841862031,poprawny,False,False
+570,Fundacja Gaś Sp.k. Sp. J.,,brak,False,False
+571,Wielgo-Witan s.c. sp.k.,5926249457,poprawny,False,False
+572,FPUH Botor Sp.k. sp. z o.o.,642-152-26-50,poprawny,False,False
+573,PPUH Bekus-Frączkiewicz i syn s.c. Sp. J.,3668788780,poprawny,False,False
+574,Śliż Sp. z o.o. Sp.k. sp. z o.o.,5030587219,poprawny,False,False
+575,FPUH Wrochna sp.k.,633-302-12-62,poprawny,False,False
+576,Pachla Sp.k. sp.k.,2025213101,poprawny,False,False
+577,Fundacja Szczypiór-Waloch s.c. Sp. J.,4765704127,poprawny,False,False
+578,Jaszcz-Niedbał Sp.j. S.A.,7849843622,poprawny,False,False
+579,Grupa Stuglik sp. z o.o.,8917756624,poprawny,False,False
+580,Miąsko S.A. sp.k.,5034281138,poprawny,False,False
+581,Grupa Budzich Sp. z o.o.,,brak,False,False
+582,Gabinety Mirończuk Sp.k. sp.k.,1820967903,błędny,False,False
+583,Bernard Sp.j. sp. z o.o.,3228898576,poprawny,False,False
+584,PPUH Ropiak-Moryc s.c. Sp. J.,6339912973,poprawny,False,False
+585,Fundacja Goś-Zemanek s.c. Spółka z o.o.,2421495514,poprawny,False,False
+586,Stowarzyszenie Nogieć-Fidler Sp. z o.o. sp.k.,7054669272,poprawny,False,False
+587,Żok-Pasich Sp. z o.o. Sp.k. Sp. J.,0903802149,poprawny,False,False
+588,Gabinety Kopik Sp. z o.o. Spółka z o.o.,7787112163,poprawny,False,False
+589,Fundacja Szelest-Poczta Sp. z o.o. S.A.,3714708273,poprawny,True,True
+590,Grupa Piekara Sp.k. Spółka z o.o.,6730306447,poprawny,False,False
+591,Szlaga i syn s.c. Sp. J.,7683420164,poprawny,False,False
+592,Polakiewicz-Fogiel s.c. sp. z o.o.,6596089317,poprawny,False,False
+593,Spółdzielnia Kuder s.c. S.A.,5164807277,poprawny,False,False
+594,Grupa Bednarowicz sp. z o.o.,5339055043,poprawny,False,False
+595,  Głuszko Sp. z o.o. sp.k.,6851276522,błędny,False,False
+596,Gleba-Sroga S.A. Sp. J.,9111109615,poprawny,False,False
+597,Grupa Stoch sp. z o.o.,3786137153,poprawny,False,False
+598,Spółdzielnia Zaborek S.A. sp.k.,4444630603,poprawny,False,True
+599,Spółdzielnia Dytrych sp.k.,,brak,False,False
+600,Malcharek s.c. sp. z o.o.,1281964829,poprawny,False,False
+601,Grupa Kołaczyk Sp. J.,8196027526,poprawny,False,False
+602,Stowarzyszenie Siedlaczek Sp. J.,0412091176,poprawny,False,False
+603,Spółdzielnia Ignatiuk i syn s.c. Spółka z o.o.,,brak,False,False
+604,Wyderka Sp. z o.o. Sp.k. sp. z o.o.,9901557992,poprawny,False,False
+605,Ubysz Sp. z o.o. sp.k.,8235130525,poprawny,False,False
+606,Boba Sp.k. Spółka z o.o.,8477686344,poprawny,False,False
+607,Cacko i syn s.c. sp. z o.o.,7676945919,poprawny,True,True
+608,Nieroda S.A. Sp. z o.o.,8496498566,poprawny,True,True
+609,Grupa Wereda sp. z o.o.,,brak,False,False
+610,Opalach-Mućka Sp. z o.o. Sp.k. Sp. J.,6655330773,poprawny,False,False
+611,Wyrobek-Uziębło i syn s.c. sp. z o.o.,9040907426,poprawny,False,False
+612,Wojtunik-Wiencek i syn s.c. Sp. z o.o.,6445561851,poprawny,False,False
+613,Grupa Madejczyk sp.k.,,brak,False,False
+614,Jakóbiak-Owczarczak Sp. z o.o. Sp. z o.o.,1041459641,poprawny,True,True
+615,FPUH Siwa sp.k.,6718839772,poprawny,False,False
+616,  Stowarzyszenie Pierzak sp. z o.o.,3117030372,poprawny,False,False
+617,Kielczyk-Dymarczyk s.c. Spółka z o.o.,4728123560,poprawny,False,False
+618,Przewoźniak-Kamieniak Sp. z o.o. Sp.k. sp.k.,1271130726,poprawny,False,False
+619,Terka-Ciuruś S.A. sp.k.,5074510668,poprawny,False,False
+620,PPUH Szyguła S.A. sp.k.,6103131001,poprawny,False,False
+621,Grupa Wierzchoń Sp.j. Sp. J.,6661347324,poprawny,False,False
+622,Szynkiewicz Sp. z o.o. sp.k.,9743251224,poprawny,False,False
+623,Stowarzyszenie Wicha-Borejko Sp. z o.o. Sp.k. Spółka z o.o.,1209579076,poprawny,False,False
+624,Dudziec-Duszkiewicz s.c. sp.k.,8221145770,poprawny,False,False
+625,Fundacja Piotrkowicz s.c. Spółka z o.o.,458-971-48-07,poprawny,False,False
+626,Gabinety Komisarek Sp.k. Sp. J.,6531361484,poprawny,False,False
+627,Grupa Gomoła Sp.j. Spółka z o.o.,4309859167,poprawny,False,False
+628,Fundacja Hejduk-Matela S.A. Sp. J.,2728498247,poprawny,False,False
+629,Fundacja Szczerbiak Sp. z o.o. sp.k.,,brak,False,False
+630,Spółdzielnia Halik s.c. Sp. J.,4236914304,poprawny,False,False
+631,Matacz-Ciak s.c. Sp. z o.o.,4494296595,poprawny,False,False
+632,Gordon-Lubera S.A. Spółka z o.o.,9782661280,poprawny,False,False
+633,Stowarzyszenie Węgier-Świątkiewicz Sp.k. S.A.,7080612943,poprawny,True,True
+634,Spółdzielnia Małocha S.A.,2607870104,poprawny,False,False
+635,Tabisz S.A. Sp. z o.o.,1980382872,poprawny,False,False
+636,Gabinety Kosidło i syn s.c. Sp. z o.o.,7931102918,poprawny,False,False
+637,Nytko Sp. z o.o. Sp.k. Sp. z o.o.,1467238497,poprawny,False,False
+638,FPUH Kinal-Ulfik Sp.k. Sp. J.,3288377444,poprawny,False,False
+639,Walo-Oleszko Sp.j. Sp. z o.o.,7662047197,poprawny,False,False
+640,Dorynek Sp. z o.o. Sp.k. Spółka z o.o.,3586812259,poprawny,False,False
+641,Spółdzielnia Kurzak Sp. z o.o.,7679298840,poprawny,False,False
+642,Podsiedlik-Posłuszny i syn s.c. Sp. z o.o.,2311775336,poprawny,True,True
+643,Kasiak-Wawrzeńczyk Sp.k. Sp. J.,1759025176,poprawny,False,False
+644,Wujek Sp. z o.o. Sp. J.,4332683190,poprawny,False,False
+645,Stowarzyszenie Bazydło S.A. Sp. z o.o.,559-821-76-64,poprawny,False,False
+646,FPUH Jamrożek Sp. z o.o. Sp.k. Sp. z o.o.,9850344653,poprawny,False,False
+647,Nędzi-Kasznia Sp.j. sp.k.,4690819747,poprawny,True,True
+648,  Romaniak s.c. Sp. z o.o.,2385037191,błędny,False,False
+649,Spółdzielnia Krzywoń-Suchoń s.c. S.A.,2401078351,poprawny,False,False
+650,FPUH Laskus-Parkitna S.A. sp. z o.o.,8960870661,poprawny,False,False
+651,Stowarzyszenie Fal Sp. z o.o. Sp.k. sp.k.,5535603311,poprawny,False,False
+652,Kuśmider s.c. sp. z o.o.,0102724055,poprawny,False,False
+653,Grupa Kołton Sp.j. Sp. z o.o.,4837537450,poprawny,False,False
+654,Grupa Dywan Sp. z o.o. Sp.k. Spółka z o.o.,6974132831,poprawny,False,False
+655,Kukier Sp.k. S.A.,1070449646,błędny,False,False
+656,PPUH Słupik S.A.,7033626808,poprawny,False,False
+657,Kozok-Hejna Sp.k. Spółka z o.o.,9305966012,poprawny,True,False
+658,Spółdzielnia Ambrozik Sp. z o.o. Sp.k. S.A.,7320441382,poprawny,False,False
+659,Kowalówka-Dering S.A. Spółka z o.o.,7070705784,poprawny,False,False
+660,Dziczek Sp. z o.o. S.A.,2444723226,poprawny,False,False
+661,Gabinety Pych-Łasak s.c. sp.k.,5083044059,poprawny,False,False
+662,Fundacja Korzeniak Sp. z o.o. sp.k.,1335956161,poprawny,False,False
+663,Frost-Terka s.c. Spółka z o.o.,7490250422,poprawny,False,False
+664,FPUH Kuska Sp. J.,5369026112,poprawny,False,False
+665,Kominiak-Proć s.c. sp.k.,7543943532,błędny,False,False
+666,FPUH Czerner S.A. S.A.,5158815793,błędny,False,False
+667,  FPUH Teodorowicz S.A.,9294455117,poprawny,False,False
+668,FPUH Majtyka i syn s.c. S.A.,0216487127,poprawny,False,False
+669,Spółdzielnia Tadych-Fulara s.c. S.A.,6526834158,poprawny,False,False
+670,Gabinety Brejnak Spółka z o.o.,7676472295,poprawny,False,False
+671,Wietecha-Malcharek Sp.j. S.A.,2894134754,poprawny,False,False
+672,Karaśkiewicz-Góraj Sp.k. Sp. J.,4214477322,poprawny,False,False
+673,Przerwa-Koronkiewicz Sp.j. sp. z o.o.,8820908837,poprawny,False,False
+674,Fundacja Kręcisz-Strzała Sp. z o.o. Sp.k. sp.k.,1241513150,poprawny,False,False
+675,  Bochnia-Kowala S.A. Spółka z o.o.,3296334722,poprawny,False,False
+676,Fundacja Wierzchoń Sp. J.,3061789325,poprawny,False,False
+677,Fundacja Ficner Sp.k. S.A.,8243477692,poprawny,False,False
+678,Bohdanowicz Sp. z o.o. Spółka z o.o.,3612751561,poprawny,False,False
+679,FUNDACJA JARKA SP.K. SPÓŁKA Z O.O.,6766404730,poprawny,False,False
+680,Gabinety Heinrich-Kurbiel i syn s.c. Sp. J.,1995298008,poprawny,False,False
+681,Gabinety Śliz Sp. z o.o. sp.k.,2556383008,poprawny,False,False
+682,Twardy-Pieczarka Sp. z o.o. sp. z o.o.,1186008920,poprawny,False,False
+683,Spółdzielnia Wesoła-Berg Sp.k. Sp. z o.o.,4473149765,poprawny,False,False
+684,Spółdzielnia Sadoch Sp. J.,8836076581,poprawny,False,False
+685,FPUH Widuch s.c. S.A.,9145211829,poprawny,False,False
+686,Klatka-Szlachcic Sp.j. sp.k.,3074645203,poprawny,True,True
+687,Sip Sp. z o.o. Sp.k. Spółka z o.o.,3577881166,poprawny,False,False
+688,Chlebek s.c. S.A.   ,1067287285,poprawny,False,False
+689,Ciesiółka Sp. z o.o. Sp.k. sp.k.,8705622712,poprawny,False,True
+690,PPUH Mycek Sp. z o.o. Sp.k. Sp. z o.o.,9792158358,poprawny,False,False
+691,Fundacja Koniecko S.A.,4883192134,poprawny,True,True
+692,Dylik-Misztela Sp. z o.o. sp.k.,9497320339,poprawny,False,False
+693,Spółdzielnia Trepczyk-Karkocha Sp. z o.o. Sp. z o.o.,2876754819,poprawny,False,False
+694,Spółdzielnia Smektała-Drabczyk Sp. z o.o. Sp.k. Spółka z o.o.,8193242684,poprawny,True,False
+695,Portka Sp. z o.o. Sp.k. sp. z o.o.,057-563-98-38,poprawny,False,False
+696,Gabinety Kenig-Misztela Sp. z o.o. Sp.k. Sp. z o.o.,9451548093,poprawny,False,False
+697,Kroll Sp.j. Sp. J.,4409079776,poprawny,False,False
+698,Fundacja Maszczyk Sp. z o.o. Sp.k. Sp. J.,222-161-07-04,błędny,False,False
+699,Kurnik-Darul Sp. z o.o. Sp.k. Sp. J.,5295806606,błędny,False,False
+700,PPUH Jędryczka i syn s.c. sp.k.,386-204-48-53,poprawny,False,False
+701,PPUH Mateusiak Sp. z o.o.,2125902030,poprawny,False,False
+702,Spółdzielnia Szpyt S.A. Sp. J.,2406424295,poprawny,False,False
+703,Sornat Sp.k. Spółka z o.o.,7417595583,poprawny,False,False
+704,Rejmer-Boś s.c. S.A.,343-740-18-29,poprawny,False,False
+705,Fundacja Piersa-Gomuła Sp. z o.o. Sp.k. Sp. z o.o.,5150267553,błędny,False,False
+706,Andryszczyk Sp.k. S.A.,9799667347,poprawny,False,False
+707,Łachut Sp. z o.o. sp. z o.o.,8166496908,poprawny,False,False
+708,Stawczyk-Biernacik Sp. z o.o. Spółka z o.o.,0142576276,poprawny,False,False
+709,Stowarzyszenie Ragus sp. z o.o.,6132850721,poprawny,False,False
+710,Fundacja Zontek Sp. J.,6731625261,poprawny,False,False
+711,Wojciech-Bulanda s.c. Spółka z o.o.,5809961320,poprawny,False,False
+712,Fundacja Bejma Sp. z o.o. Sp.k. sp. z o.o.,6244670467,poprawny,False,False
+713,Szambelan-Ciastek Sp. z o.o. Sp.k. Sp. J.,1602529860,poprawny,True,True
+714,Gabinety Bancerz Spółka z o.o.,6419785756,błędny,False,False
+715,Ziarnik-Prejs s.c. Sp. z o.o.,2059438971,poprawny,False,False
+716,Grupa Piechna-Pasieczna Sp.k. sp.k.,5465408425,poprawny,False,False
+717,Spółdzielnia Hubert S.A. Spółka z o.o.,0863218124,poprawny,False,False
+718,Fundacja Osipowicz-Trzmiel Sp.k. sp. z o.o.,8970155026,poprawny,False,False
+719,Freitag-Dyjas Sp.j. Sp. z o.o.,241-613-94-49,poprawny,True,True
+720,Bryda i syn s.c. S.A.,4248096248,poprawny,False,False
+721,Gabinety Leoniak S.A.,9513305318,poprawny,False,False
+722,FPUH Jaszczur S.A.,8055557274,poprawny,False,False
+723,Burzawa Sp.j. Sp. z o.o.,2959660481,poprawny,False,False
+724,Stowarzyszenie Jarczyk sp. z o.o.,3194226868,poprawny,False,False
+725,Odrzywołek-Kononowicz Sp.k. Sp. J.,5888636777,poprawny,False,False
+726,Gabryszak-Długozima S.A. Spółka z o.o.,7216966630,poprawny,True,False
+727,Spółdzielnia Ulewicz sp.k.,9605932974,poprawny,False,False
+728,PPUH Klinger s.c. sp. z o.o.,7532735243,poprawny,True,True
+729,Grupa Łukowiak sp. z o.o.,7819523717,poprawny,False,False
+730,Prokurat-Henke s.c. S.A.,4819807703,poprawny,False,False
+731,Stowarzyszenie Piórek Sp.k. Sp. z o.o.,1249125654,poprawny,False,False
+732,Kotala s.c. Sp. J.,9490228406,poprawny,False,False
+733,Gabinety Glazik Sp.k. Spółka z o.o.,7742229463,poprawny,False,False
+734,FPUH Brachman Sp.j. Spółka z o.o.,5886792527,poprawny,False,False
+735,Spółdzielnia Katana S.A. S.A.,2760153437,poprawny,False,False
+736,Gabinety Zapadka S.A. sp.k.,8148881079,poprawny,False,False
+737,Spółdzielnia Dusik Sp. J.,7209484137,poprawny,False,False
+738,Behrendt s.c. sp.k.,7718051375,poprawny,False,False
+739,Sura-Gregorczuk Sp.j. Spółka z o.o.,9096173996,poprawny,False,False
+740,Fundacja Szwałek i syn s.c. Spółka z o.o.,8784448354,poprawny,False,False
+741,FPUH Sapała-Sporysz Sp. z o.o. Sp.k. sp.k.,5823133482,poprawny,False,False
+742,FPUH Klęczar-Kręcisz i syn s.c. sp. z o.o.,5236229253,poprawny,False,False
+743,Beśka s.c. Spółka z o.o.,5245557465,poprawny,False,False
+744,Grupa Penkala i syn s.c. sp. z o.o.,7403344500,poprawny,False,False
+745,Fundacja Bobryk-Sabak Sp.k. sp.k.,8741132578,poprawny,False,False
+746,Fundacja Choina-Kupidura S.A. sp.k.,9601054850,poprawny,False,False
+747,Marach i syn s.c. sp. z o.o.,9493817356,poprawny,False,False
+748,Roter S.A. Sp. z o.o.,5573257377,poprawny,False,False
+749,Fundacja Kluczyk Sp. z o.o. Sp. J.,6667080856,poprawny,False,False
+750,Zacharczuk i syn s.c. Sp. J.,1191818283,poprawny,False,False
+751,Spółdzielnia Augustynek S.A.,725-129-57-81,poprawny,False,False
+752,PPUH Dzierżak-Kłoczko Sp.k. sp. z o.o.,5624395877,poprawny,False,False
+753,Stowarzyszenie Koniecko Sp.k. sp. z o.o.,1089028510,poprawny,False,False
+754,Czuj-Maleszka S.A. Spółka z o.o.,3350271600,poprawny,False,False
+755,  Fundacja Siudek Sp. z o.o. Sp.k. S.A.,9112898123,poprawny,False,False
+756,Sporek-Dziarmaga Sp.j. sp. z o.o.,066-615-54-19,poprawny,False,False
+757,Małas Sp.j. Sp. z o.o.,4502329028,poprawny,False,False
+758,Kyc-Gawliczek s.c. Sp. J.,4596262281,poprawny,False,False
+759,FPUH Dykas Sp. J.,0260869829,poprawny,False,False
+760,Gabinety Szczepan-Kożuszek Sp. z o.o. Sp.k. S.A.,7687290474,poprawny,False,False
+761,Smorąg-Szwiec Sp.k. Sp. J.,9323822312,poprawny,True,True
+762,Gabinety Roda Sp.k. Sp. J.,4579889422,poprawny,False,False
+763,Prygiel Sp.k. S.A.,0320203265,poprawny,False,False
+764,Gabinety Bryzek-Łaskawiec i syn s.c. sp. z o.o.,7948714856,poprawny,False,False
+765,  Grupa Łuczkiewicz-Kosz Sp. z o.o. Sp.k. Spółka z o.o.,8415608218,poprawny,False,False
+766,  FPUH Jarczyk S.A. S.A.,8182683232,poprawny,False,False
+767,FPUH Fronczyk-Pyzel Sp. z o.o. sp.k.,8085838256,poprawny,False,False
+768,PPUH Majtczak-Kolanek S.A. Sp. J.,2896340647,poprawny,False,False
+769,Spółdzielnia Mainka Sp. z o.o. Sp.k. Spółka z o.o.,8439910621,poprawny,False,False
+770,Grabas-Preuss Sp.k. sp. z o.o.,2372450189,poprawny,False,False
+771,Gabinety Siejak Sp. z o.o.,8972154060,poprawny,False,False
+772,PPUH Dąbrówka Sp. J.,7438119959,poprawny,False,False
+773,Spółdzielnia Młyńczak Sp. J.,1739739642,poprawny,False,False
+774,PPUH Faltyn Sp. z o.o. Sp.k. Sp. J.,6091919113,poprawny,False,False
+775,FPUH Gołota Sp.j. Sp. z o.o.,5779806602,poprawny,False,False
+776,Spółdzielnia Wocial Sp. z o.o. Sp.k. Sp. J.,7455534709,poprawny,False,False
+777,Grupa Szumna s.c. Spółka z o.o.,4116597261,poprawny,False,False
+778,Fundacja Mazanek Spółka z o.o.,8269131199,poprawny,False,False
+779,Żuberek Sp. z o.o. S.A.,1499153700,poprawny,False,False
+780,Kuliberda i syn s.c. sp. z o.o.,7320430970,poprawny,False,False
+781,Grupa Byra Sp. z o.o. Sp.k. sp.k.,969-645-46-57,poprawny,False,False
+782,Spółdzielnia Mainka Sp. z o.o. Sp.k. Sp. J.,3892187853,poprawny,False,False
+783,Sus-Bernard S.A. sp.k.,0878057213,poprawny,False,False
+784,Dytrych-Jonik Sp. z o.o. S.A.,398-628-95-02,poprawny,False,False
+785,Oczko-Ośko i syn s.c. Sp. J.,2339220718,poprawny,True,True
+786,FPUH Osman Sp.j. S.A.,7252145262,poprawny,False,False
+787,Krzyszczak Sp. z o.o. Sp.k. Sp. J.,1571840900,poprawny,False,False
+788,PPUH Bartela Spółka z o.o.,6409951235,poprawny,False,False
+789,Spółdzielnia Stanisławek sp.k.,2728270900,poprawny,False,False
+790,Milczarczyk-Pochroń Sp. z o.o. Sp.k. sp. z o.o.,173-929-57-83,poprawny,False,False
+791,Puto-Duży Sp. z o.o. sp. z o.o.,3736050792,poprawny,False,False
+792,Ciesiółka Sp.k. sp.k.,6617071588,poprawny,False,True
+793,Basak Sp.k. Sp. z o.o.,3149982503,poprawny,False,False
+794,FPUH Ciężka s.c. Sp. J.,6882850317,poprawny,False,False
+795,FPUH Foit-Legutko S.A. sp.k.,9394694347,poprawny,False,False
+796,Mendak Sp.j. S.A.,4906072311,poprawny,False,False
+797,Stowarzyszenie Ciuła Sp. J.,464-844-94-14,poprawny,False,False
+798,FPUH Kusztal Sp.j. sp.k.,0771130628,poprawny,False,False
+799,Maćków-Żuberek s.c. Sp. z o.o.,8335090251,poprawny,False,False
+800,Gabinety Palica Spółka z o.o.,8132357074,poprawny,False,False
+801,Wojtczuk Sp. z o.o. Sp.k. Spółka z o.o.,0116880925,poprawny,False,False
+802,FPUH Brachman Sp. z o.o. Sp.k. Sp. z o.o.,9069130988,poprawny,False,False
+803,FPUH Bazyluk-Cydzik S.A. sp.k.,6737945771,poprawny,False,False
+804,Fundacja Jop s.c. S.A.,425-064-20-78,poprawny,False,False
+805,Stowarzyszenie Kiełbowicz-Tatarczuk i syn s.c. S.A.,7776755561,poprawny,False,False
+806,Grupa Prokopczuk-Łuksza s.c. sp.k.,6543627189,poprawny,False,False
+807,Kij-Piksa Sp. z o.o. Sp.k. sp.k.,2686270366,poprawny,False,False
+808,Walencik-Hanc Sp.j. sp. z o.o.,2657327595,poprawny,False,False
+809,FPUH Świerkot-Matula Sp.k. Sp. z o.o.,5155323410,poprawny,False,False
+810,Stowarzyszenie Hawrylak Sp. z o.o.,8222618963,poprawny,False,False
+811,Fundacja Tułacz Sp. z o.o.,0267672099,poprawny,False,False
+812,Stowarzyszenie Zysk S.A. Sp. J.,9551512290,poprawny,False,False
+813,Stowarzyszenie Brzeźniak-Klorek i syn s.c. Sp. z o.o.,5970996250,poprawny,True,True
+814,Gabinety Latko-Okła Sp. z o.o. Sp.k. Sp. z o.o.,344-765-04-74,poprawny,False,False
+815,Chorążewicz Sp.k. Sp. z o.o.,5586652540,błędny,False,False
+816,Grupa Grądziel Spółka z o.o.,8102131253,poprawny,True,False
+817,Mysiak-Szałaj Sp.j. Sp. J.,591-297-51-94,poprawny,True,True
+818,Gromala Sp.k. Sp. J.,330-165-83-74,poprawny,False,False
+819,Fundacja Kunysz-Ogrodowicz S.A. sp.k.,0123428936,poprawny,False,False
+820,Pacocha i syn s.c. sp.k.,4968436459,poprawny,False,False
+821,Gabinety Gubernat Sp. z o.o.,017-509-61-79,poprawny,False,False
+822,Stowarzyszenie Nóżka-Łakota Sp. z o.o. Sp. J.,5757574751,poprawny,False,False
+823,Sławik S.A. S.A.,5677722660,błędny,False,False
+824,PPUH Ceynowa s.c. Sp. J.,229-231-06-70,poprawny,False,False
+825,Fundacja Kojder i syn s.c. sp.k.,4337976620,poprawny,False,False
+826,FPUH Szymanik Sp.j. sp. z o.o.   ,5496919285,poprawny,True,True
+827,Lemke S.A. S.A.,5633535740,poprawny,False,False
+828,Jaźwiec-Jagieło Sp. z o.o. Sp.k. Sp. J.,,brak,False,False
+829,Supeł s.c. S.A.,,brak,False,True
+830,Stowarzyszenie Rećko-Waloszek s.c. sp.k.,782-457-59-87,poprawny,False,False
+831,FPUH Martin sp. z o.o.,8843660447,poprawny,False,False
+832,Szlufik Sp. z o.o. Sp.k. S.A.,4743974291,poprawny,True,True
+833,Zarzeczna-Toś S.A. Spółka z o.o.,0459908020,poprawny,False,False
+834,Gogola Sp.k. sp. z o.o.,1555165177,poprawny,False,False
+835,Gabinety Madziar-Szykuła S.A. Sp. z o.o.,0037003325,poprawny,False,False
+836,Grupa Wnuczek Sp. z o.o. Sp.k. Spółka z o.o.,7068103907,poprawny,False,False
+837,Żach Sp. z o.o. Spółka z o.o.,8263280946,poprawny,False,False
+838,PPUH Bartel-Korbel Sp.j. Spółka z o.o.,4614707984,poprawny,False,False
+839,Żyto Sp. z o.o. sp. z o.o.,3943945709,poprawny,False,False
+840,Kapałka S.A. sp. z o.o.,2537657692,poprawny,False,False
+841,Stowarzyszenie Widuch Sp. z o.o. Sp. z o.o.,009-004-04-79,poprawny,True,True
+842,Kulma S.A. Sp. J.,5146040144,poprawny,False,False
+843,Grupa Langier-Łaskawiec S.A. S.A.,2011379843,poprawny,False,False
+844,Błażejak Sp.j. Sp. J.,6007676206,poprawny,False,False
+845,Spółdzielnia Strzoda Spółka z o.o.,,brak,False,False
+846,PPUH Ragan Sp.j. S.A.,,brak,False,False
+847,Grupa Jaroszuk Sp. J.,2923616184,poprawny,False,False
+848,Stowarzyszenie Truchel s.c. Sp. J.,5715586867,poprawny,False,False
+849,Fundacja Maciejko-Świstek S.A. Sp. J.,3081721431,poprawny,False,False
+850,Fundacja Semik sp. z o.o.,000-413-21-12,poprawny,False,True
+851,Siebert s.c. Spółka z o.o.,9907075509,poprawny,False,False
+852,Fundacja Drobek Sp. J.,7060717484,poprawny,False,False
+853,Jambor-Kazana Sp. z o.o. Sp.k. sp. z o.o.,9705487396,poprawny,False,False
+854,Kozieja-Dziewit Sp. z o.o. Sp.k. S.A.,1827496802,poprawny,False,False
+855,Kamyk s.c. sp.k.,5612137738,poprawny,False,False
+856,Zaguła-Chalimoniuk Sp. z o.o. Sp.k. Sp. J.,9737112222,poprawny,False,False
+857,Taranek i syn s.c. Sp. J.,5816704682,poprawny,False,False
+858,Laskus Sp. z o.o. sp.k.,3210219232,poprawny,False,False
+859,Bobrowicz-Kapcia S.A. Sp. z o.o.,8033242601,błędny,False,False
+860,Eckert s.c. Sp. z o.o.,4253733775,poprawny,False,False
+861,FPUH Cader-Nazarko Sp. z o.o. Sp.k. sp. z o.o.,8217819239,poprawny,False,False
+862,Fundacja Pielach Sp. z o.o.,5603567936,poprawny,False,False
+863,Gabinety Sieczko i syn s.c. sp.k.,1205464755,poprawny,False,False
+864,Stowarzyszenie Stępka Sp. J.,9899927517,poprawny,False,False
+865,Indyk Sp.j. Spółka z o.o.,4498355396,błędny,False,False
+866,Dryka Sp.j. sp.k.,6392435887,poprawny,False,False
+867,Fundacja Magryta-Iciek S.A. sp. z o.o.,9527536743,poprawny,False,False
+868,Wiekiera s.c. S.A.   ,8601347787,poprawny,False,False
+869,Dywan i syn s.c. Sp. J.,7917665128,poprawny,False,False
+870,PPUH Miodek-Armata Sp.k. sp.k.,4216309008,poprawny,False,False
+871,Dziechciarz-Ledzion Sp.k. sp.k.,9948532085,poprawny,False,False
+872,PPUH Szyca-Pietraś Sp. z o.o. Sp. z o.o.,9947113630,poprawny,False,False
+873,Fundacja Wojtoń Sp. J.,4699673311,poprawny,False,True
+874,Tlałka-Walentynowicz Sp.j. Spółka z o.o.,376-855-07-82,poprawny,False,False
+875,PPUH Świadek-Sierżant Sp. z o.o. Sp. J.,6263355643,poprawny,False,False
+876,Trybus Sp.j. Sp. z o.o.,7069556077,poprawny,True,True
+877,Fundacja Ciesiółka Sp.k. Spółka z o.o.,7223989833,poprawny,False,False
+878,PPUH Konstanty Sp. J.,8041847246,poprawny,False,False
+879,Skierka-Pyś Sp.k. Sp. z o.o.,3190924877,poprawny,False,False
+880,Glanc-Tadla Sp. z o.o. Sp. z o.o.,428-178-52-29,poprawny,False,False
+881,Handzel Sp. z o.o. Sp.k. Sp. z o.o.,880-622-07-25,poprawny,False,False
+882,Cebo-Józefczak S.A. sp. z o.o.,1329016200,poprawny,False,False
+883,Pietrasiak-Ochwat S.A. S.A.,8599648623,poprawny,False,False
+884,Gabinety Kluj-Barszczak Sp.k. Sp. z o.o.   ,9666450577,poprawny,False,False
+885,Grupa Hajder-Świerad i syn s.c. Spółka z o.o.,6320374768,poprawny,True,False
+886,FPUH Tułacz sp. z o.o.,,brak,False,False
+887,Pietraś-Pleśniak S.A. S.A.,1553482011,poprawny,False,False
+888,Stowarzyszenie Dudczak S.A.,6597595459,poprawny,True,True
+889,Ciuruś Sp.k. sp.k.,9812657427,poprawny,False,False
+890,Buchholz-Lipok S.A. Spółka z o.o.,023-693-62-61,poprawny,False,False
+891,FPUH Ruszczak-Gzyl i syn s.c. Sp. z o.o.,,brak,False,False
+892,Haremza-Koniec s.c. Spółka z o.o.,8298493309,poprawny,False,False
+893,Kasiak-Prażuch i syn s.c. sp.k.,4412833378,poprawny,False,False
+894,Lelonek-Palus S.A. Spółka z o.o.,4132971501,poprawny,False,False
+895,Piestrzeniewicz-Nieścioruk Sp.k. Sp. z o.o.,4377693667,poprawny,False,False
+896,Wakuła-Burdach S.A. Sp. z o.o.,1110286713,poprawny,False,False
+897,Fundacja Grymuza-Goworek Sp.k. Spółka z o.o.,5910245103,poprawny,False,False
+898,PPUH Ciechowicz-Katana i syn s.c. S.A.,1494981941,poprawny,False,False
+899,PPUH Jędrasiak Sp. z o.o. Sp.k. sp.k.,3406527759,poprawny,False,False
+900,FPUH ŚLEZIAK SP. Z O.O.,3722010914,poprawny,False,False
+901,Gabinety Pabis Sp. z o.o. Sp.k. sp.k.,3766189431,poprawny,False,False
+902,PPUH Masłoń Spółka z o.o.,6277657259,poprawny,False,False
+903,Wiech Sp. z o.o. Sp.k. sp. z o.o.   ,5595501784,poprawny,False,False
+904,Bok-Gospodarek Sp. z o.o. S.A.,899-936-07-94,poprawny,False,False
+905,Grupa Gilewicz sp.k.,1767993594,poprawny,False,False
+906,Fierek-Nijak Sp. z o.o. Sp.k. Sp. z o.o.,8303736069,poprawny,False,False
+907,Spółdzielnia Wojtiuk-Brodowicz Sp. z o.o. Sp.k. Sp. J.,4907938847,poprawny,False,False
+908,Grupa Elsner Sp.j. S.A.,1537012428,poprawny,False,False
+909,FPUH Wydmuch i syn s.c. Spółka z o.o.,1448811211,poprawny,False,False
+910,FPUH Gawliczek Sp. z o.o. sp.k.,8781794156,poprawny,False,False
+911,PPUH Kempka i syn s.c. sp.k.,1122528837,poprawny,False,False
+912,Stróż Sp.k. S.A.,3239791379,poprawny,False,False
+913,Fundacja Banyś Sp. z o.o. sp. z o.o.,0950556054,poprawny,False,False
+914,Grupa Fras Sp. z o.o. Sp.k. S.A.,7885190537,poprawny,False,False
+915,Chruszcz Sp.k. S.A.,2456185177,poprawny,False,False
+916,Grupa Lenarcik sp. z o.o.,5129391303,poprawny,False,False
+917,FPUH Bisaga Sp. J.,,brak,False,False
+918,Fundacja Wacławczyk-Pacholik Sp.j. Sp. z o.o.,7568142980,poprawny,False,False
+919,Spółdzielnia Wiatrak i syn s.c. Sp. z o.o.,963-845-26-99,poprawny,False,False
+920,Dębniak Sp. z o.o. Sp.k. sp.k.,7016934298,poprawny,False,False
+921,Spółdzielnia Szaruga i syn s.c. Sp. J.,1623419036,poprawny,False,False
+922,Grupa Drygała Sp. J.,,brak,False,False
+923,Stowarzyszenie Sobiło-Janc Sp.j. Spółka z o.o.,7843614240,poprawny,False,False
+924,Mzyk-Kurnik s.c. Spółka z o.o.,4373476424,poprawny,False,False
+925,FPUH Pindor sp.k.,8214584149,poprawny,False,False
+926,SPÓŁDZIELNIA FIUTAK S.A. SPÓŁKA Z O.O.,389-982-78-02,błędny,False,False
+927,Smorąg-Kozaczuk s.c. sp. z o.o.,2146449363,poprawny,False,False
+928,FPUH Miara Sp. z o.o. Sp.k. Spółka z o.o.,,brak,False,False
+929,Kolber-Grys Sp. z o.o. Sp.k. sp. z o.o.,3351040966,poprawny,False,False
+930,FPUH Nalewajko-Haponiuk s.c. sp.k.,1149830749,poprawny,False,False
+931,Stowarzyszenie Garczyk Sp.k. Spółka z o.o.,1189394065,poprawny,False,False
+932,FPUH Gramza-Wawrzyńczyk Sp.j. Sp. z o.o.,3332470737,poprawny,False,False
+933,Spółdzielnia Dykas Sp. z o.o. S.A.,2127602505,błędny,False,False
+934,FPUH Ryczko s.c. sp. z o.o.,6163248882,poprawny,False,False
+935,Adamiuk-Wojtaszak Sp. z o.o. Sp.k. S.A.,3646871918,poprawny,False,False
+936,Faryna-Kruś S.A. Sp. J.,9208283231,poprawny,False,False
+937,Miksza-Ruman s.c. Spółka z o.o.,8157245006,poprawny,False,False
+938,Strycharz-Trzepizur S.A. sp. z o.o.,9113717856,poprawny,False,False
+939,Spółdzielnia Szczepan-Albin Sp. z o.o. Sp.k. sp.k.,4442182997,poprawny,False,False
+940,  PPUH Młot-Pronobis Sp. z o.o. Sp.k. Spółka z o.o.,8905670868,poprawny,False,False
+941,Katana S.A. S.A.,5515848268,poprawny,False,False
+942,Rećko i syn s.c. Spółka z o.o.,0542960802,poprawny,True,False
+943,CIARKA-FURA SP. Z O.O. SP.K. SP. Z O.O.,6481880443,błędny,False,False
+944,PPUH Pogorzelec Sp.j. sp. z o.o.,8164321263,poprawny,False,False
+945,PPUH Franik-Karwan Sp.j. sp. z o.o.,036-258-63-19,poprawny,False,False
+946,FPUH Wlaźlak Sp. z o.o. Spółka z o.o.,4026355822,błędny,False,False
+947,Gabinety Pyszczek Spółka z o.o.,4898803153,poprawny,False,False
+948,Kuzior-Kinal S.A. Spółka z o.o.,0404333357,poprawny,True,False
+949,Stowarzyszenie Hajdasz Sp. z o.o.,,brak,False,False
+950,Krzykała-Łabaj Sp. z o.o. Sp.k. sp. z o.o.,6530601199,poprawny,False,False
+951,FPUH Glanc-Sierpień S.A. Sp. J.,8002300911,poprawny,False,False
+952,FPUH Stochaj Sp.j. S.A.,5774491603,błędny,False,False
+953,Stowarzyszenie Bereda Sp.j. sp.k.,3687509261,poprawny,False,False
+954,Grupa Korpal-Bryzek Sp. z o.o. Sp.k. S.A.,4556114048,poprawny,False,False
+955,Wiencek-Pabisiak Sp.j. S.A.,6608112603,poprawny,False,False
+956,Fundacja Pioch i syn s.c. Sp. z o.o.,0627153126,poprawny,False,False
+957,Gabinety Głuszko S.A.,9177682934,poprawny,False,False
+958,Gabinety Kielczyk-Malcher s.c. Sp. z o.o.,8735437882,poprawny,False,False
+959,Słomiany-Dylik Sp. z o.o. Sp.k. Sp. J.,570-908-59-94,poprawny,False,False
+960,Konstanty-Klekot S.A. sp.k.,2699969967,poprawny,False,False
+961,Wałęsa-Indyk S.A. sp.k.,4285969328,poprawny,False,False
+962,Spółdzielnia Pieczarka sp. z o.o.,1234266986,poprawny,False,False
+963,Grupa Fraszczyk Sp.j. Sp. z o.o.,7607234836,poprawny,False,False
+964,PPUH Marko Sp. z o.o. sp.k.,2804056129,poprawny,False,False
+965,Stefanik-Skiepko s.c. sp. z o.o.,6418696564,poprawny,False,False
+966,Szafarz Sp. z o.o. Sp.k. Sp. J.,2385951433,poprawny,False,False
+967,Hirsch-Niedźwiadek S.A. Spółka z o.o.,0027300866,poprawny,False,False
+968,Fundacja Wizner-Budniak Sp.j. Sp. z o.o.,3950016804,poprawny,False,False
+969,Fundacja Mętel S.A.,2839762055,poprawny,False,False
+970,Wielgos-Kobza s.c. Sp. z o.o.,7266292501,poprawny,False,False
+971,Tomaszkiewicz Sp.j. sp.k.,3337312552,poprawny,False,False
+972,Stowarzyszenie Szpyrka-Dacko Sp.k. sp. z o.o.,211-920-61-36,poprawny,False,False
+973,Bronka Sp. z o.o. sp.k.,4449029508,poprawny,False,False
+974,FPUH Sołtysek s.c. Sp. z o.o.,3734167811,poprawny,False,False
+975,Koloch S.A. sp. z o.o.,1798213485,poprawny,False,True
+976,Gabinety Jonak S.A. S.A.,3831828565,poprawny,False,False
+977,Spółdzielnia Micał Sp. z o.o.,7706736825,poprawny,True,True
+978,Fundacja Majtyka sp. z o.o.   ,5871469211,poprawny,False,False
+979,Stowarzyszenie Pikor sp.k.,0898436994,poprawny,False,False
+980,Gabinety Miodek-Zbroszczyk i syn s.c. Sp. z o.o.,9386948425,poprawny,False,False
+981,Krzysztoszek-Wasyluk i syn s.c. S.A.,887-071-52-30,poprawny,False,False
+982,Fundacja Kozubal-Szkoła Sp.j. sp.k.,7461917792,poprawny,False,False
+983,Spółdzielnia Szymajda Sp.j. Sp. J.,2258937085,poprawny,False,False
+984,  Grupa Pakos Sp. J.,4056695792,poprawny,False,False
+985,Koniecko Sp. z o.o. Sp.k. Spółka z o.o.,,brak,False,False
+986,Stowarzyszenie Drop sp. z o.o.,8946338912,poprawny,False,False
+987,PPUH Kaluga-Godzik S.A. Spółka z o.o.,7256292698,poprawny,False,False
+988,  Stowarzyszenie Giedrojć-Pokusa i syn s.c. sp.k.,1865507844,poprawny,False,False
+989,Grupa Reichel sp. z o.o.   ,0349189110,poprawny,False,False
+990,Szoka S.A. Spółka z o.o.,0153641540,poprawny,False,False
+991,FPUH Siara S.A. Spółka z o.o.,9367813670,poprawny,False,False
+992,Stowarzyszenie Pyszka Sp. z o.o.,0527698197,poprawny,False,True
+993,Usarek-Wietecha i syn s.c. sp. z o.o.,3888562256,poprawny,False,False
+994,Spółdzielnia Zygmuntowicz i syn s.c. S.A.,8744227581,poprawny,False,False
+995,Stowarzyszenie Majsterek-Gierat Sp.k. Spółka z o.o.,9428249118,poprawny,False,False
+996,PPUH Kurczak Spółka z o.o.,539-313-21-54,poprawny,False,False
+997,Hawrylak-Gul Sp. z o.o. Sp. J.,682-144-48-82,poprawny,False,False
+998,Kobos-Złotek s.c. Sp. J.,3677462026,poprawny,False,False
+999,FPUH Piejko Sp.k. sp. z o.o.,8123123922,poprawny,False,True
+1000,Dyjach-Lempart s.c. Sp. z o.o.,8364723871,poprawny,False,False
+1001,Gabinety Lizoń-Nalewajek s.c. sp. z o.o.,2577545841,poprawny,False,False
+1002,Morys-Chojak Sp. z o.o. Sp.k. sp.k.,7683160823,poprawny,False,False
+1003,Muzyk-Terka Sp. z o.o. Sp.k. sp. z o.o.,7399205228,poprawny,False,False
+1004,PPUH Hinca sp. z o.o.,8823255399,poprawny,False,False
+1005,FPUH Kostro Sp. z o.o. Sp.k. Sp. J.,7732643095,poprawny,False,False
+1006,  Spółdzielnia Misior S.A.,9970292717,poprawny,False,False
+1007,Osada Sp. z o.o. Sp.k. Sp. J.,1375298830,poprawny,True,True
+1008,Stowarzyszenie Jop i syn s.c. Sp. J.,0832004876,poprawny,False,False
+1009,Kryk-Pleśniak s.c. Sp. J.,5852386004,poprawny,False,False
+1010,Moskalik Sp.k. sp.k.,5171523919,poprawny,False,False
+1011,Gabinety Frelek Sp. z o.o. Sp. z o.o.,4374830930,błędny,False,False
+1012,Grupa Szymaniuk Sp. z o.o.,2602213212,poprawny,False,False
+1013,Podpora-Filek S.A. Sp. J.,1116612208,poprawny,False,False
+1014,PPUH ROGACZ SP. Z O.O.,3930493665,poprawny,False,False
+1015,Kopytko Sp. z o.o. Sp. z o.o.,2421140863,poprawny,False,True
+1016,Neska Sp. z o.o. sp. z o.o.,9462093555,poprawny,False,False
+1017,Gładka-Błażejewicz Sp. z o.o. Sp. J.,9701371248,poprawny,False,False
+1018,Spółdzielnia Dyczko-Sprycha Sp. z o.o. Sp.k. sp. z o.o.,3041202707,poprawny,False,False
+1019,Łaś-Citko Sp.j. sp. z o.o.,9907166904,poprawny,False,False
+1020,Grupa Frycz s.c. Spółka z o.o.,203-403-01-04,poprawny,False,False
+1021,Krenc Sp. z o.o. Spółka z o.o.,9157955464,poprawny,False,False
+1022,Pytlarz-Lazarek Sp.j. Sp. z o.o.,0801810300,poprawny,False,False
+1023,Waraksa s.c. Sp. z o.o.,5712901506,poprawny,False,False
+1024,Megger-Parzyszek Sp.j. S.A.,3510458478,poprawny,False,False
+1025,Stuglik-Kliszcz Sp. z o.o. Sp.k. sp. z o.o.,5885766947,poprawny,False,False
+1026,Stowarzyszenie Dziewa sp. z o.o.,9627466628,poprawny,False,False
+1027,Roda-Piksa Sp. z o.o. Sp. z o.o.,4666145908,poprawny,False,False
+1028,Stowarzyszenie Satora Spółka z o.o.,0049388199,poprawny,False,False
+1029,Łabno-Janic Sp. z o.o. sp. z o.o.,0499809494,poprawny,False,False
+1030,Fundacja Kopyść Sp.j. sp. z o.o.,7971669844,poprawny,False,False
+1031,Pawełko-Kwarciak i syn s.c. S.A.,7943325624,poprawny,False,False
+1032,Sporek Sp.k. Spółka z o.o.,2620370873,poprawny,False,False
+1033,Spółdzielnia Ryfa Sp. z o.o. Sp. J.   ,4181359987,poprawny,False,False
+1034,Fundacja Słobodzian Spółka z o.o.,8018644820,poprawny,False,False
+1035,Basa i syn s.c. S.A.,857-082-00-46,poprawny,False,False
+1036,PPUH Sugier sp. z o.o.,3691496116,poprawny,False,False
+1037,Dunal s.c. sp.k.,2769704092,poprawny,False,True
+1038,Bobik-Kasak Sp.j. Sp. z o.o.,7832748830,poprawny,False,False
+1039,Grupa Wojtalik Sp. J.,0964966833,poprawny,False,False
+1040,Gabinety Kuza-Oleszko s.c. Sp. z o.o.,7028516224,poprawny,False,False
+1041,Gawłowicz-Frydel Sp. z o.o. Sp.k. sp.k.,3486883900,poprawny,False,False
+1042,Grupa Ficner-Kłosowicz S.A. Sp. z o.o.,6091141317,poprawny,False,False
+1043,FPUH Piejko Sp. z o.o.,4588165020,poprawny,True,True
+1044,Hutyra-Roda Sp. z o.o. Sp. J.,034-409-66-16,poprawny,False,False
+1045,Grupa Herbut-Sypuła Sp.k. sp.k.,1417468137,poprawny,False,False
+1046,GASEK SP. Z O.O. SP.K.,6941559458,poprawny,False,False
+1047,Cięciwa-Judek s.c. Sp. J.,753-605-11-74,poprawny,False,False
+1048,Spółdzielnia Majzner Spółka z o.o.,3621894550,poprawny,False,False
+1049,Stowarzyszenie Wocial-Procek s.c. Spółka z o.o.,8942046644,poprawny,False,False
+1050,Siedlaczek Sp.j. Sp. z o.o.,,brak,False,False
+1051,Fundacja Gabara Sp. z o.o.,6235466224,poprawny,False,False
+1052,Fundacja Bobko sp.k.,2242767746,poprawny,False,False
+1053,Oczkowicz-Grubba Sp.j. Spółka z o.o.,1158488606,poprawny,False,False
+1054,Fundacja Grzela Sp. z o.o. Sp.k. sp.k.,2312995704,błędny,False,False
+1055,Fundacja Nazarewicz i syn s.c. Sp. J.,1203843750,poprawny,False,False
+1056,  Fundacja Haponiuk-Kieszek Sp.j. Spółka z o.o.,385-454-00-69,poprawny,False,False
+1057,Stowarzyszenie Bystrek sp. z o.o.,1123274899,poprawny,False,False
+1058,FPUH Molak sp. z o.o.,4272038869,poprawny,False,False
+1059,Spółdzielnia Cięciwa-Cacko s.c. Sp. z o.o.,9630453067,poprawny,False,False
+1060,Fundacja Bociek-Piwowarek Sp.k. sp. z o.o.,5340018160,poprawny,False,False
+1061,Job Sp. z o.o. Sp.k. Spółka z o.o.,4454460835,poprawny,False,False
+1062,Grupa Kapera-Kopyść Sp. z o.o. sp.k.,1053912879,poprawny,False,False
+1063,Grupa Kozaczuk sp.k.,,brak,False,False
+1064,Grupa Kapciak Sp. z o.o.,1986424235,poprawny,True,True
+1065,PPUH Hajdas Sp. z o.o.,,brak,False,False
+1066,Gabinety Pacholik-Klucznik Sp.k. Sp. z o.o.,0232001869,poprawny,False,False
+1067,Noszczyk-Zinkiewicz S.A. Sp. z o.o.,0814356145,poprawny,False,False
+1068,Grupa Klyszcz-Sobstyl Sp.k. Sp. z o.o.,7468235469,poprawny,False,False
+1069,Parzyszek-Jarka Sp.k. Sp. z o.o.,762-054-59-67,poprawny,False,False
+1070,Gustaw-Cegła Sp. z o.o. Sp.k. Sp. J.,6641106540,poprawny,False,False
+1071,Grupa Radke-Olchawa s.c. sp.k.,836-683-48-24,poprawny,False,False
+1072,Stein Sp.k. S.A.,8889178798,poprawny,True,True
+1073,Stowarzyszenie Jeszke Sp. z o.o.,9760932010,poprawny,False,False
+1074,Kawulok i syn s.c. Spółka z o.o.,1809521754,poprawny,False,False
+1075,Krüger-Kolman i syn s.c. sp. z o.o.,2419962646,poprawny,False,False
+1076,FPUH Job Sp.j. Sp. J.,4542185452,poprawny,False,False
+1077,Fogt Sp. z o.o. Spółka z o.o.,7090016355,poprawny,False,False
+1078,Szachniewicz-Pędrak Sp. z o.o. Sp.k. S.A.,2828954006,poprawny,False,False
+1079,Tułacz-Satora Sp.k. sp. z o.o.,1261685078,poprawny,False,False
+1080,Fundacja Burchardt-Gęgotek Sp.k. Spółka z o.o.,0927115265,poprawny,False,False
+1081,Grupa Styn-Pakosz i syn s.c. Sp. z o.o.,7169500745,poprawny,False,False
+1082,Cierpka Sp. z o.o. sp. z o.o.,,brak,False,False
+1083,Gabinety Hus s.c. sp.k.,1310450258,poprawny,False,False
+1084,Gabinety Flisiak Sp. J.,5748352689,poprawny,False,False
+1085,Fundacja Narożny s.c. sp.k.,8344883844,poprawny,False,False
+1086,Madajczyk-Kurz Sp.j. Spółka z o.o.,5077406575,poprawny,False,False
+1087,Trochim-Burzawa Sp.k. Sp. J.,0908551077,poprawny,False,False
+1088,Walenciak Sp.k. Sp. z o.o.,786-190-25-41,poprawny,False,False
+1089,Spółdzielnia Nieścioruk Sp. z o.o.,6953541205,poprawny,False,False
+1090,Mich-Żabka i syn s.c. S.A.,0151532597,poprawny,False,False
+1091,Spółdzielnia Godzisz S.A.,,brak,False,False
+1092,Gabinety Rzeźniczek Sp.j. S.A.,4934039107,poprawny,False,False
+1093,Grupa Bartocha-Ambrożewicz Sp.k. Spółka z o.o.,1184913595,poprawny,False,False
+1094,Gabinety Dyda-Seweryniak Sp.j. Spółka z o.o.,0696801864,poprawny,False,False
+1095,Fundacja Hołysz-Młotek Sp.k. Sp. J.,2339449533,poprawny,False,False
+1096,Stowarzyszenie Prostak-Chwała Sp.k. sp. z o.o.,2501736546,poprawny,False,False
+1097,Trąbka-Barłóg i syn s.c. Sp. z o.o.,2923345118,poprawny,False,False
+1098,Fundacja Rubaj i syn s.c. Sp. z o.o.,8868430212,poprawny,False,False
+1099,Grupa Samson Sp. z o.o. Sp. J.,575-988-75-95,poprawny,False,False
+1100,Spółdzielnia Kopała-Polaszek Sp.j. sp. z o.o.,3620275589,poprawny,False,False
+1101,Gosek S.A. S.A.,1152380233,poprawny,False,False
+1102,PPUH Potaczek sp.k.,1897059165,poprawny,False,False
+1103,Drewniok-Lewek Sp.k. Sp. z o.o.,9597721687,poprawny,False,False
+1104,Chojna-Sado Sp.j. S.A.,9289728452,poprawny,False,False
+1105,Fundacja Mirończuk Sp. z o.o.,2839482321,poprawny,False,False
+1106,Poreda s.c. Sp. J.,3281165993,błędny,False,False
+1107,FPUH Białka Sp. z o.o. Sp.k. Sp. J.,3042322773,poprawny,False,False
+1108,Domurad Sp.j. S.A.,506-463-00-52,poprawny,False,False
+1109,Matwiejczyk-Przeniosło Sp. z o.o. Sp.k. sp. z o.o.,2102916175,poprawny,False,False
+1110,FPUH Sporek Sp. z o.o.,4384196622,poprawny,False,False
+1111,Stowarzyszenie Słobodzian Sp.j. S.A.,856-670-63-67,poprawny,False,False
+1112,Gabinety Cieniuch Sp.j. Spółka z o.o.,4407663494,poprawny,False,False
+1113,Ciepła Sp.k. S.A.,,brak,False,False
+1114,Saternus i syn s.c. Sp. J.,,brak,False,False
+1115,Duczmal Sp. z o.o. Sp.k. sp. z o.o.,4199643382,poprawny,False,True
+1116,Miodek-Matulewicz s.c. Spółka z o.o.,8333430317,poprawny,False,False
+1117,FPUH Starek-Kostek i syn s.c. Spółka z o.o.,9453536591,poprawny,False,False
+1118,Grupa Hojka Spółka z o.o.,2125450800,poprawny,False,False
+1119,Fundacja Popielarczyk Sp.k. sp.k.,1307423599,poprawny,False,False
+1120,PPUH Drewniok-Srokosz Sp.j. sp.k.,3326145435,poprawny,False,False
+1121,Stowarzyszenie Pyszka Sp.k. Sp. J.,0081785228,poprawny,False,True
+1122,Stowarzyszenie Kasak sp. z o.o.,5426874471,poprawny,False,False
+1123,Fundacja Tylka S.A.,6563370144,poprawny,True,True
+1124,Trybuś-Zapora Sp.k. Spółka z o.o.,5800027227,poprawny,False,False
+1125,Guźniczak-Marat Sp. z o.o. Sp.k. sp.k.   ,4391368172,błędny,False,False
+1126,Spółdzielnia Księżak Sp. z o.o. sp. z o.o.,8620929734,poprawny,False,False
+1127,Oleksak-Lenda S.A. sp. z o.o.,2273938999,poprawny,False,False
+1128,Bugla-Gradek S.A. sp. z o.o.,2366185073,poprawny,False,False
+1129,Fiedoruk-Fita s.c. S.A.,1823601076,poprawny,True,True
+1130,PPUH Gwara Sp.k. sp.k.,2589222569,poprawny,False,False
+1131,Kryk Sp. z o.o. Sp.k. S.A.,3731180461,poprawny,False,False
+1132,Mrotek-Berek Sp.k. sp.k.,4185201361,poprawny,False,False
+1133,Fundacja Nóżka Sp. J.,7561547053,poprawny,False,False
+1134,Kapera Sp. z o.o. Sp.k. S.A.,4119556400,poprawny,False,False
+1135,Stowarzyszenie Solarczyk S.A.,5207020421,poprawny,False,False
+1136,Borysiak Sp.j. Sp. J.,1241393697,poprawny,False,False
+1137,Fundacja Bryda s.c. sp.k.,7312677319,poprawny,False,False
+1138,Gruszczyk-Gałaj Sp.j. Spółka z o.o.,9889786535,poprawny,False,False
+1139,Gabinety Windak S.A. sp.k.,1654308958,poprawny,False,False
+1140,Rup Sp.j. Sp. z o.o.,5764497477,poprawny,False,False
+1141,Gabinety Niedośpiał-Pabiś Sp.k. sp.k.,6764979745,poprawny,False,False
+1142,Fundacja Gadzina Spółka z o.o.,0063553737,poprawny,False,False
+1143,Franas-Faruga Sp. z o.o. Sp. z o.o.,9529635308,poprawny,False,False
+1144,Markiel-Grodek Sp.k. sp.k.   ,2763643159,poprawny,False,False
+1145,Labudda S.A. Spółka z o.o.,,brak,False,False
+1146,Stowarzyszenie Wandas-Klaus i syn s.c. sp.k.,9393449746,poprawny,False,False
+1147,Witas-Leks Sp. z o.o. Sp.k. Sp. z o.o.,,brak,False,False
+1148,Kotlarek s.c. Sp. J.,,brak,False,False
+1149,Stowarzyszenie Kuśka-Samson Sp.j. sp. z o.o.,2030044960,poprawny,False,False
+1150,Stowarzyszenie Peszko Sp. z o.o. Sp.k. sp. z o.o.,5121375658,poprawny,False,False
+1151,Kawala Sp. z o.o. sp.k.,434-566-31-14,poprawny,False,False
+1152,Fundacja Dąbrówka Sp. z o.o. Sp. J.,2033474247,poprawny,False,False
+1153,GRUPA JAROCH S.A.,8680085292,poprawny,False,False
+1154,Gabinety Jaremek-Zacharek Sp. z o.o. Spółka z o.o.,1743043504,poprawny,False,False
+1155,Stowarzyszenie Garncarek Sp.k. sp.k.,4665275230,poprawny,False,False
+1156,FPUH Machul Spółka z o.o.,6913303037,poprawny,False,False
+1157,PPUH Portka-Głuszko i syn s.c. S.A.,7507627996,poprawny,False,False
+1158,Spółdzielnia Raźny-Zygmuntowicz Sp. z o.o. Sp.k. Sp. z o.o.,2398472309,poprawny,False,False
+1159,Spółdzielnia Malon Sp. z o.o. sp.k.,0172224056,poprawny,False,False
+1160,Kręgiel-Stąpor s.c. Sp. z o.o.,7754619922,poprawny,False,False
+1161,FPUH Ambrożewicz Sp. J.,7258122598,poprawny,False,False
+1162,Paprotny-Karyś i syn s.c. Sp. J.,2373379128,poprawny,False,False
+1163,Spółdzielnia Kuryłowicz Sp. z o.o.   ,3586901709,poprawny,False,False
+1164,Wojtasiewicz S.A. sp.k.,9945295176,poprawny,False,False
+1165,Gabinety Tuzimek-Droździel S.A. sp.k.,7220542215,poprawny,False,False
+1166,Namysł-Czajor Sp.j. sp. z o.o.,3083344470,poprawny,False,False
+1167,Spółdzielnia Karczmarek S.A.,0205968515,poprawny,False,False
+1168,Grupa Dąbrowicz i syn s.c. sp. z o.o.,6632956345,poprawny,False,False
+1169,Ceran i syn s.c. Sp. z o.o.   ,6165812921,poprawny,False,False
+1170,Gabinety Kubasiak Spółka z o.o.,6302955963,poprawny,False,False
+1171,Szyda Sp. z o.o. Sp.k. sp.k.,4206615494,poprawny,False,True
+1172,Spółdzielnia Turczyk-Nitkiewicz Sp. z o.o. Sp. z o.o.,3800498322,poprawny,False,False
+1173,Gabinety Masny Sp. z o.o. Sp.k. Spółka z o.o.,8158268682,poprawny,False,False
+1174,Gasz Sp.j. sp.k.,8064420066,poprawny,False,False
+1175,Pawlukiewicz-Mularz s.c. Sp. J.,6646419629,błędny,False,False
+1176,Stowarzyszenie Wiertelak-Kolka Sp.k. sp. z o.o.,1320410421,poprawny,False,False
+1177,Spółdzielnia Sady sp.k.,1179726991,poprawny,False,False
+1178,Fundacja Krzysiek-Koral Sp.j. sp. z o.o.,1800366602,poprawny,False,False
+1179,Mitek S.A. sp. z o.o.,8631050520,poprawny,False,False
+1180,Ciechowicz Sp.k. sp.k.,2990076864,poprawny,False,True
+1181,FPUH Latek-Panicz Sp.k. sp.k.,9633761852,poprawny,False,False
+1182,Grupa Matyjas S.A.,8410132828,poprawny,False,False
+1183,Spółdzielnia Sereda sp. z o.o.,5279187509,poprawny,False,False
+1184,Gabinety Kapuścik Sp. J.,5920881438,poprawny,False,False
+1185,FPUH Dzierżak-Chwała Sp. z o.o. Sp.k. sp.k.,1596983843,poprawny,False,False
+1186,  Frączkiewicz Sp. z o.o. Sp.k. S.A.,5686295913,poprawny,False,False
+1187,Fundacja Sykała-Drobek Sp. z o.o. sp. z o.o.,946-074-29-95,poprawny,False,False
+1188,Grupa Cukier Spółka z o.o.,1799670807,poprawny,False,False
+1189,Grupa Petrus-Jarczyk Sp. z o.o. sp.k.,1673478532,poprawny,False,False
+1190,Opas-Meissner S.A. Sp. z o.o.,9286052103,poprawny,False,False
+1191,Cieciora-Piesik Sp. z o.o. Sp. z o.o.,0824845816,poprawny,False,False
+1192,Czulak-Giersz Sp. z o.o. Sp.k. Sp. z o.o.,574-883-99-77,poprawny,False,False
+1193,Łuszczak-Jamroz Sp. z o.o. S.A.,1995305642,poprawny,False,False
+1194,Kliber-Grys Sp. z o.o. Sp.k. sp.k.,0870187264,poprawny,False,False
+1195,Wesoła-Burchardt i syn s.c. Sp. z o.o.,0344442998,poprawny,False,False
+1196,Leszkiewicz-Kijas S.A. Spółka z o.o.,2406221557,poprawny,False,False
+1197,PPUH Andryszczyk-Basak S.A. sp. z o.o.,190-533-47-01,poprawny,False,False
+1198,Fundacja Wygoda Spółka z o.o.,5939652132,poprawny,False,False
+1199,FPUH Kudełka Sp.k. Spółka z o.o.,2117327723,poprawny,False,False
+1200,PPUH Stanclik-Bródka S.A. Sp. J.,585-229-42-59,poprawny,False,False
+1201,Gabinety Wosiak S.A. Sp. z o.o.,7105080544,poprawny,False,False
+1202,Grupa Piechura-Trojanowicz Sp. z o.o. Sp.k. Spółka z o.o.,3524784176,poprawny,False,False
+1203,Spółdzielnia Siciarz sp.k.,3053788038,poprawny,False,False
+1204,Grupa Wikło-Grzela Sp. z o.o. Sp.k. Sp. J.,,brak,False,False
+1205,Stowarzyszenie Waszczyk s.c. Spółka z o.o.,8625152173,poprawny,False,False
+1206,Grupa Sych s.c. sp.k.,0189156738,poprawny,False,False
+1207,Fundacja Wojtoń Sp. z o.o. sp.k.   ,6914336292,poprawny,False,True
+1208,Pleban Sp.k. sp.k.,900-108-98-57,poprawny,False,False
+1209,Gabinety Smorąg-Kalista s.c. Sp. J.,1896844241,poprawny,False,False
+1210,Piejko Sp.k. S.A.,2857595828,poprawny,False,False
+1211,Kliszcz-Słomiany Sp. z o.o. S.A.   ,8912488396,błędny,False,False
+1212,Legutko-Pelka Sp.j. Spółka z o.o.,5143672866,poprawny,False,False
+1213,Michnowicz Sp.j. Spółka z o.o.,6811939783,poprawny,False,False
+1214,Stowarzyszenie Jaszczur S.A.,7905528667,poprawny,False,False
+1215,Gabinety Łuksza sp.k.,0705326010,poprawny,False,False
+1216,PPUH Domian-Borzych Sp. z o.o. Sp.k. S.A.,4255136091,błędny,False,False
+1217,Kuncewicz-Radke i syn s.c. Spółka z o.o.,0243736155,poprawny,True,False
+1218,Mytnik s.c. Spółka z o.o.,8969335395,poprawny,False,False
+1219,Tabiś-Betlej S.A. Spółka z o.o.,7315663973,poprawny,True,False
+1220,PPUH Szarzec Sp.j. Sp. J.,9028377278,poprawny,False,False
+1221,Gabinety Sołek sp. z o.o.,4281644167,poprawny,False,False
+1222,Grupa Bystrek-Dubis Sp. z o.o. Sp. J.,8027304271,poprawny,False,False
+1223,Bąbol s.c. S.A.,1893953099,poprawny,False,True
+1224,Golisz-Ernst S.A. sp. z o.o.,8849874557,poprawny,False,False
+1225,Micał Sp. z o.o. sp. z o.o.,0688116409,poprawny,False,False
+1226,Fundacja Sadłocha Sp.j. sp.k.   ,7758333648,poprawny,False,False
+1227,Sadlik-Szwiec Sp.j. sp.k.,1538602824,poprawny,False,False
+1228,Piguła-Wons Sp. z o.o. Sp.k. sp. z o.o.,3190577200,poprawny,False,False
+1229,Stowarzyszenie Bodych sp. z o.o.,2453810976,poprawny,False,False
+1230,FPUH Kozubal-Hadała S.A. Sp. J.,2517422402,poprawny,False,False
+1231,Kierat Sp. z o.o. Sp.k. Spółka z o.o.,686-163-07-05,poprawny,False,False
+1232,FPUH Burchard-Krzyżostaniak Sp.k. Sp. z o.o.,9536621951,poprawny,False,False
+1233,Szkup-Kurbiel Sp. z o.o. Sp.k. Spółka z o.o.,0017325907,poprawny,False,False
+1234,PPUH Jama sp. z o.o.,2113869083,poprawny,True,True
+1235,Grupa Martynowicz-Czerniec Sp.k. Spółka z o.o.,5461719281,poprawny,False,False
+1236,Ostapczuk-Mordal Sp.k. Sp. z o.o.,2344225210,poprawny,False,False
+1237,Pasztaleniec i syn s.c. sp. z o.o.,0944772698,poprawny,False,False
+1238,Gabinety Szmagaj-Gierasimiuk S.A. sp. z o.o.,2761794807,poprawny,False,False
+1239,Kut S.A. Sp. z o.o.,2119158911,poprawny,False,False
+1240,Klemczak-Łyjak Sp.j. sp.k.,6862376002,poprawny,False,False
+1241,Fundacja Kapałka-Suszka Sp.j. Sp. J.,8191907493,poprawny,False,False
+1242,PPUH Wołczyk s.c. Sp. J.,8369235343,poprawny,False,False
+1243,Fundacja Monkiewicz-Małys Sp.k. sp. z o.o.,9865462206,poprawny,False,False
+1244,Spółdzielnia Łaciak Sp.k. Spółka z o.o.,5033000083,poprawny,False,False
+1245,Fundacja Witaszek S.A. sp.k.,008-899-11-49,poprawny,False,False
+1246,Szeszko-Karnas S.A. sp. z o.o.,7379897909,poprawny,False,False
+1247,Grupa Franas-Pesta S.A. sp.k.,674-630-00-97,poprawny,False,False
+1248,Spółdzielnia Celuch sp. z o.o.,3401535346,poprawny,False,False
+1249,Stowarzyszenie Dyja Sp. J.,4667201081,poprawny,False,False
+1250,Stowarzyszenie Moryc sp. z o.o.,2387940267,poprawny,False,False
+1251,FPUH Korab S.A. sp. z o.o.,7353642358,poprawny,False,False
+1252,Dorobek-Szatko Sp. z o.o. Sp.k. sp.k.,2851816122,poprawny,False,False
+1253,FPUH Sobisz-Ziarnik Sp. z o.o. Sp. z o.o.,0792304660,poprawny,False,False
+1254,Kościk i syn s.c. Sp. z o.o.,1232961512,poprawny,False,False
+1255,Jagieło-Młynarz Sp.k. S.A.,5344604222,poprawny,False,False
+1256,PPUH Popielarczyk Sp.k. Sp. z o.o.,4358617688,poprawny,False,False
+1257,Grupa Kozdrój-Sołtysek s.c. sp. z o.o.,670-866-65-60,poprawny,False,False
+1258,Kruś Sp. z o.o. Sp.k. Spółka z o.o.,9477129035,poprawny,False,False
+1259,Stowarzyszenie Preuss-Mycek s.c. Spółka z o.o.,2235434044,poprawny,False,False
+1260,Grupa Maksimowicz S.A. Sp. J.,,brak,False,False
+1261,Gabinety Rajchel s.c. Sp. z o.o.,9738818272,poprawny,False,False
+1262,Fundacja Budzeń-Ptok S.A. Spółka z o.o.,8821884961,poprawny,False,False
+1263,Zyga-Miozga i syn s.c. Sp. z o.o.,2125434126,poprawny,False,False
+1264,Beck Sp. z o.o. sp. z o.o.,7218600324,poprawny,False,False
+1265,PPUH Nieszporek S.A. Spółka z o.o.,0034713173,poprawny,False,False
+1266,Szyma-Wrześniak s.c. Sp. J.,1625908414,poprawny,False,False
+1267,Spółdzielnia Cal S.A. Sp. z o.o.,3753582103,poprawny,False,False
+1268,Stowarzyszenie Zaraś Sp. z o.o. S.A.,9037161604,błędny,False,False
+1269,Kiryluk Sp. z o.o. Sp.k. S.A.,1837530765,poprawny,False,False
+1270,Gabinety Osojca-Araszkiewicz s.c. S.A.,8002443237,poprawny,False,False
+1271,Grupa Słyk i syn s.c. S.A.,9685746706,poprawny,False,False
+1272,Fundacja Kielczyk Sp. z o.o. Sp.k. Spółka z o.o.,1070335083,poprawny,False,False
+1273,Spółdzielnia Rajtar sp. z o.o.,0416910530,poprawny,False,False
+1274,Dubel-Usarek s.c. Sp. J.,8646339534,poprawny,False,False
+1275,Gabinety Tomzik S.A.,4278961573,poprawny,False,False
+1276,PPUH Rorat S.A.,5123959783,poprawny,False,False
+1277,Bartocha i syn s.c. sp.k.,7236024463,poprawny,False,False
+1278,Szwałek-Chachaj S.A. S.A.,1073087154,poprawny,False,False
+1279,Grupa Margas S.A. Sp. z o.o.,3175438027,błędny,False,False
+1280,Fundacja Durys-Smagała s.c. S.A.,0292546868,poprawny,False,False
+1281,Gabinety Parkitny Spółka z o.o.,2076327139,poprawny,False,False
+1282,Cuch S.A. sp. z o.o.,3868790600,poprawny,False,False
+1283,Kozieja Sp. z o.o. Sp. J.,5534050896,poprawny,False,False
+1284,Fundacja Nojek Sp.k. Spółka z o.o.,976-405-35-64,poprawny,False,False
+1285,Spółdzielnia Gotfryd s.c. sp. z o.o.,6190384224,poprawny,False,False
+1286,Gabinety Ulewicz-Czenczek Sp.j. Sp. J.,2227111757,poprawny,False,False
+1287,Felisiak-Czupryna s.c. Spółka z o.o.,9830521690,poprawny,False,False
+1288,PPUH Stanaszek-Gumieniak S.A. sp.k.,8014264718,poprawny,False,False
+1289,Sajda Sp.k. Sp. z o.o.,6370500494,poprawny,False,False
+1290,Stowarzyszenie Jaracz sp. z o.o.,1729476388,poprawny,False,False
+1291,Wawrzyńczyk-Miśko S.A. Spółka z o.o.,9985193938,poprawny,False,False
+1292,Spółdzielnia Świerszcz-Litwiniuk Sp. z o.o. sp.k.,2667652724,poprawny,False,False
+1293,Bobrowicz i syn s.c. Sp. J.,0886406757,poprawny,False,False
+1294,Stowarzyszenie Kurach-Ufnal Sp.k. sp. z o.o.,9022154399,poprawny,False,False
+1295,Marko s.c. sp. z o.o.,5333202359,poprawny,False,False
+1296,Czuryło-Roś S.A. Sp. z o.o.,1935450369,poprawny,False,False
+1297,Spółdzielnia Oszust-Bogusiewicz i syn s.c. sp. z o.o.,4362962084,poprawny,False,False
+1298,Grupa Gmurczyk S.A. Spółka z o.o.,4129075961,poprawny,False,False
+1299,Lindner Sp. z o.o. S.A.,7495421064,poprawny,False,False
+1300,Gabinety Myszor-Pyszka S.A. Sp. z o.o.,9226713170,błędny,False,False
+1301,Wacław-Polnik Sp.k. sp.k.,6461209617,poprawny,False,False
+1302,FPUH Klyszcz S.A. Spółka z o.o.,2403211535,poprawny,False,False
+1303,Spółdzielnia Gawłowicz-Kurzaj Sp. z o.o. Sp.k. Sp. J.,1430877976,poprawny,False,False
+1304,Chalimoniuk-Szynkiewicz S.A. sp. z o.o.,,brak,False,False
+1305,Staręga Sp.k. Sp. J.,6933329985,poprawny,False,False
+1306,Fundacja Cywka-Nieroda S.A. sp.k.,8382567269,poprawny,False,False
+1307,PPUH Fijałek sp.k.,2543551969,poprawny,False,False
+1308,Pompa Sp. z o.o. Sp.k. Sp. J.,6247286396,poprawny,False,False
+1309,Stowarzyszenie Szyda Spółka z o.o.,1499290093,poprawny,False,False
+1310,Hawro Sp. z o.o. Sp. z o.o.,4509563218,poprawny,False,False
+1311,Stowarzyszenie Bryda Sp. z o.o. Sp. z o.o.,9335389223,poprawny,False,False
+1312,Grupa Adamów-Słonka Sp. z o.o. Sp. J.,0608277058,błędny,False,False
+1313,Kloska-Mazanek Sp. z o.o. sp. z o.o.,3723461760,poprawny,False,False
+1314,Sapa Sp.j. Sp. J.,9441642318,poprawny,False,False
+1315,Grupa Miotke-Straszak Sp.k. S.A.,7685760630,błędny,False,False
+1316,Grupa Kłosiewicz-Kopyt i syn s.c. Sp. z o.o.,7551887014,poprawny,False,False
+1317,Stowarzyszenie Chojna Sp. z o.o.,2483744416,poprawny,False,False
+1318,Galuba Sp.k. sp.k.,6947902549,poprawny,False,False
+1319,Grubba i syn s.c. S.A.,2386410099,poprawny,False,False
+1320,SZRAMKA-SZCZAP SP.J. SPÓŁKA Z O.O.,2164359908,poprawny,False,False
+1321,  Stowarzyszenie Janiszek Sp.j. S.A.,0476143784,poprawny,False,False
+1322,FPUH Mosur-Kastelik Sp. z o.o. Sp.k. S.A.,8154185893,poprawny,False,False
+1323,Pancerz-Machoń s.c. Sp. z o.o.,0845078606,poprawny,False,False
+1324,Gabinety Damps-Brodowicz Sp. z o.o. Sp.k. sp. z o.o.,7469833066,poprawny,False,False
+1325,Stowarzyszenie Pinda-Dymarczyk Sp. z o.o. sp. z o.o.,2266794192,poprawny,False,False
+1326,Stowarzyszenie Myszor-Jakubaszek s.c. Spółka z o.o.,9067396340,poprawny,False,False
+1327,Penar-Walus Sp.j. Spółka z o.o.,5049221705,poprawny,False,False
+1328,  PPUH Andrejczuk S.A. S.A.,,brak,False,False
+1329,Broncel s.c. sp.k.,2653371702,poprawny,True,True
+1330,Stowarzyszenie Łuczkiewicz i syn s.c. sp. z o.o.,9831354900,poprawny,False,False
+1331,Spółdzielnia Majczyna-Zygmuntowicz s.c. S.A.,9219587302,poprawny,False,False
+1332,Durys S.A. Spółka z o.o.,3021781671,poprawny,True,False
+1333,PPUH Pitala s.c. Spółka z o.o.,8901649280,poprawny,False,False
+1334,  Gabinety Burchardt-Strzyż Sp. z o.o. Sp.k. sp.k.,2640703088,poprawny,False,False
+1335,FPUH Wielgos Sp. z o.o. sp. z o.o.,9682448500,poprawny,False,True
+1336,Gabinety Pacyga sp. z o.o.,7411680690,poprawny,False,False
+1337,Fundacja Rezmer-Szylar Sp. z o.o. Sp. z o.o.,808-203-91-70,poprawny,False,False
+1338,Szyma Sp.j. sp.k.,6245870122,poprawny,False,False
+1339,PPUH Kurach sp.k.,0912375304,poprawny,False,False
+1340,PPUH Czubaszek S.A.,0243652406,poprawny,False,True
+1341,FPUH Jagieło-Franczuk i syn s.c. S.A.,5403648825,poprawny,False,False
+1342,FPUH Preś Sp. z o.o. Sp. J.,,brak,False,False
+1343,Stowarzyszenie Dworniczak-Pazdan s.c. sp. z o.o.,5949722041,poprawny,False,False
+1344,Fundacja Strug S.A.,6179962352,poprawny,False,False
+1345,Kornet i syn s.c. sp.k.,560-413-48-20,poprawny,False,False
+1346,Mędrala-Kucewicz s.c. Sp. J.,3912260005,poprawny,False,False
+1347,Stowarzyszenie Gawłowicz Sp. z o.o. Sp.k. sp. z o.o.,9143049135,poprawny,False,False
+1348,Szynkiewicz-Smektała S.A. Sp. J.,8720998657,poprawny,False,False
+1349,Drozdowicz S.A. Spółka z o.o.,9208235309,poprawny,False,False
+1350,Grupa Ostasz-Dudziec s.c. sp.k.,6298056826,poprawny,True,True
+1351,Fundacja Mućko S.A.,6186957240,poprawny,False,False
+1352,Węgrzynowicz s.c. Spółka z o.o.,3137956109,poprawny,False,False
+1353,GABINETY WYRWICH SPÓŁKA Z O.O.,0361920259,poprawny,True,True
+1354,Stowarzyszenie Solis sp. z o.o.,0476078621,poprawny,False,False
+1355,Duczmal S.A. sp.k.,1708517320,poprawny,False,True
+1356,Pelka-Krauz Sp. z o.o. Sp.k. Sp. z o.o.,8580558118,poprawny,False,False
+1357,Władyka Sp.j. Sp. J.,1607700407,poprawny,False,False
+1358,FPUH Kasiak Sp. z o.o.,3982218037,poprawny,False,False
+1359,Tyma-Raczkiewicz Sp. z o.o. sp.k.,864-078-80-24,poprawny,False,False
+1360,Stowarzyszenie Jarczak Sp. z o.o. Sp.k. S.A.,9333562309,poprawny,False,False
+1361,FPUH PERKA S.A.,7089870925,poprawny,False,False
+1362,PPUH Rut Sp.k. Sp. z o.o.,1326611586,poprawny,False,False
+1363,Żal-Majos Sp. z o.o. Sp. z o.o.,196-047-22-01,poprawny,False,False
+1364,Spółdzielnia Jakoniuk Spółka z o.o.,,brak,False,False
+1365,Fundacja Dziadkowiec-Kołaczyk i syn s.c. sp.k.,4676626236,poprawny,False,False
+1366,Kurzak S.A. sp.k.,4025787033,poprawny,False,False
+1367,Handke i syn s.c. sp. z o.o.,6050281642,poprawny,False,False
+1368,Fundacja Stranc sp.k.,1203025201,poprawny,False,False
+1369,Gabinety Mojsa i syn s.c. Sp. J.,9531926002,poprawny,False,False
+1370,Holc i syn s.c. Spółka z o.o.,4920548945,poprawny,False,False
+1371,Dziarmaga Sp.j. Sp. z o.o.   ,,brak,False,False
+1372,Dyda i syn s.c. S.A.,9705660363,poprawny,False,False
+1373,Balawender i syn s.c. S.A.,2660235153,poprawny,True,True
+1374,PPUH Dankiewicz-Polasik S.A. sp. z o.o.,1671560583,poprawny,False,False
+1375,Gabinety Pasich Sp. z o.o. sp.k.,5479406459,poprawny,False,False
+1376,Spółdzielnia Friedrich-Dulewicz Sp. z o.o. S.A.,1918986647,poprawny,False,False
+1377,Jędrys i syn s.c. sp. z o.o.,5974876809,poprawny,False,False
+1378,Fundacja Kulma Sp.k. Sp. J.,1843019221,poprawny,False,False
+1379,Spółdzielnia Bak-Mainka s.c. sp.k.,732-396-44-07,poprawny,False,False
+1380,Raźny Sp. z o.o. sp.k.,2427739236,poprawny,False,False
+1381,Rećko Sp.j. Sp. z o.o.,4016933280,poprawny,False,False
+1382,Spółdzielnia Zander Sp. z o.o. Sp.k. sp.k.,2907551544,poprawny,False,False
+1383,PPUH Skubis-Więcławek Sp.k. sp.k.,9138310068,poprawny,False,False
+1384,  Grupa Rubacha s.c. Sp. J.,2277773319,poprawny,False,False
+1385,Kuder S.A. sp.k.,5036059527,poprawny,False,False
+1386,Grupa Dub s.c. Sp. J.,4027406756,poprawny,False,False
+1387,Sabak s.c. S.A.,2003638566,poprawny,False,False
+1388,Spółdzielnia Kaluga-Złotek Sp.j. sp.k.,793-183-99-78,poprawny,False,False
+1389,Gabinety Lamch sp.k.,9550493260,poprawny,False,False
+1390,Misiaszek-Fidura Sp. z o.o. Sp.k. Spółka z o.o.,6121289819,błędny,False,False
+1391,Gabinety Rogula s.c. Sp. z o.o.,127-622-39-87,poprawny,False,False
+1392,Jędruszczak-Olewniczak S.A. S.A.,8718882237,poprawny,False,False
+1393,Dubik Sp. z o.o. Sp.k. Sp. z o.o.,6134956470,poprawny,False,False
+1394,Sommerfeld Sp. z o.o. Sp.k. sp.k.,4963830973,poprawny,False,False
+1395,Gabinety Kierat Sp.j. sp. z o.o.,6166201652,błędny,False,False
+1396,Gołofit Sp.k. sp.k.,6555751245,poprawny,False,False
+1397,Stowarzyszenie Protasiuk i syn s.c. sp.k.,6824051663,poprawny,False,False
+1398,Ludwin-Dela i syn s.c. sp.k.,9974023380,poprawny,False,False
+1399,Grupa Duc Sp.j. S.A.,0363094423,poprawny,False,False
+1400,Jacak Sp. z o.o. Sp. J.,8309413491,poprawny,False,False
+1401,Mirocha-Majzner S.A. sp.k.,5694804507,poprawny,False,False
+1402,PPUH Janka Sp. z o.o.,,brak,False,False
+1403,Wielgos Sp.j. Sp. J.,0315892581,poprawny,False,False
+1404,Grupa Cisoń Sp. J.,7774867592,poprawny,False,False
+1405,GABINETY TACIAK SP. J.,8230882953,poprawny,False,False
+1406,Gabinety Godyń Sp. J.,3260586949,poprawny,False,False
+1407,Stowarzyszenie Drzał-Turczyk Sp. z o.o. S.A.,3066293155,poprawny,False,False
+1408,Szałata Sp. z o.o. Spółka z o.o.,5946989068,poprawny,False,False
+1409,Romańczyk-Warych Sp. z o.o. sp.k.,8902237906,poprawny,False,False
+1410,Gabinety Kałwa-Malcher S.A. sp.k.,4779541764,poprawny,False,False
+1411,Piekart Sp.k. Sp. J.,3781591574,poprawny,False,True
+1412,Miara i syn s.c. sp.k.,384-887-63-85,poprawny,False,False
+1413,PPUH Martyn S.A.   ,1219051885,poprawny,True,True
+1414,Stowarzyszenie Głownia Sp. z o.o.,820-706-69-04,poprawny,False,False
+1415,Białach Sp. z o.o. sp. z o.o.,9703506758,poprawny,False,False
+1416,Fundacja Ludwik-Felisiak i syn s.c. Sp. z o.o.,7731231551,poprawny,False,False
+1417,Piórek S.A. Sp. J.,1879938443,błędny,True,True
+1418,Stowarzyszenie Fura Spółka z o.o.,3687156897,poprawny,False,False
+1419,MIĘTKA-STRAMA SP.K. SP. Z O.O.,344-568-44-63,poprawny,False,False
+1420,Gabinety Pacocha Sp. z o.o.,1632957371,poprawny,False,False
+1421,Kubrak Sp. z o.o. Sp.k. sp. z o.o.,9273186830,poprawny,False,False
+1422,Domowicz s.c. Sp. J.,423-324-16-55,poprawny,True,True
+1423,Grupa Siewert-Miśkowiec s.c. Sp. z o.o.,7344674620,poprawny,False,False
+1424,Dawidczyk-Ankiewicz Sp. z o.o. Sp. J.,0221816987,poprawny,False,False
+1425,Kukieła S.A. Sp. z o.o.,928-643-30-29,poprawny,False,False
+1426,Stowarzyszenie Bacia sp. z o.o.,6677196661,poprawny,False,False
+1427,FPUH Adrian Sp. z o.o.,2223499807,poprawny,False,False
+1428,Spółdzielnia Kurzyna Sp. J.,4614409235,poprawny,False,True
+1429,PPUH Grabas s.c. sp. z o.o.,6018637262,poprawny,False,False
+1430,Małycha-Stempniak i syn s.c. sp. z o.o.,2776414900,poprawny,False,False
+1431,Spółdzielnia Dulik Sp. J.,3444867227,poprawny,False,False
+1432,Gabinety Wilma Sp.j. Spółka z o.o.,4615749329,poprawny,False,False
+1433,Stowarzyszenie Superson Sp.j. sp.k.,,brak,False,False
+1434,Misiarz-Sobel Sp. z o.o. Sp.k. Sp. z o.o.,8580018735,poprawny,False,False
+1435,PPUH Czubaszek S.A.,7862107811,poprawny,False,True
+1436,Gabinety Leżoń Spółka z o.o.,2570680263,poprawny,False,False
+1437,Dubis-Łudzik Sp. z o.o. sp. z o.o.,0600230286,poprawny,False,False
+1438,Spółdzielnia Piłka Sp.k. sp. z o.o.,2411420667,poprawny,False,False
+1439,Fundacja Trybuś-Makar Sp. z o.o. Sp.k. S.A.,6338222249,poprawny,False,False
+1440,Grupa Tomaszkiewicz Sp.j. S.A.,2019011344,poprawny,False,False
+1441,Fundacja Wojtunik-Chojak Sp. z o.o. Sp.k. Spółka z o.o.,2861323941,poprawny,False,False
+1442,Rybus Sp. z o.o. Sp.k. S.A.,449-760-24-95,poprawny,False,False
+1443,Spółdzielnia Wochnik sp.k.,5367734980,poprawny,False,False
+1444,Mandrysz S.A. Sp. z o.o.,7625380962,poprawny,False,False
+1445,Stowarzyszenie Żyrek-Tabisz S.A. sp.k.,524-746-65-31,poprawny,False,False
+1446,Stowarzyszenie Fularczyk-Odrzywołek i syn s.c. Sp. J.,9853243674,poprawny,False,False
+1447,Spółdzielnia Krzysiek-Steinke Sp. z o.o. Sp.k. Sp. J.,6383543465,poprawny,False,False
+1448,Grupa Mulawa Sp. z o.o.,6824979394,poprawny,False,False
+1449,Dąbkiewicz-Czosnyka S.A. S.A.,8371030732,poprawny,False,False
+1450,FPUH Janiuk-Wiewiórka Sp. z o.o. Spółka z o.o.,8967808263,poprawny,False,False
+1451,Spółdzielnia Skwira sp. z o.o.,9476254293,poprawny,False,False
+1452,PPUH Mydlak sp. z o.o.,9172994037,poprawny,False,False
+1453,FPUH Janiszek S.A.,6497196702,poprawny,False,False
+1454,Stowarzyszenie Błaszyk i syn s.c. S.A.,1259016398,poprawny,False,False
+1455,Kucharzyk i syn s.c. Spółka z o.o.,0984101674,poprawny,False,False
+1456,FPUH Kleina Spółka z o.o.,9910042023,poprawny,False,False
+1457,Grupa Choroś sp.k.,0342134851,błędny,False,False
+1458,PPUH Kostera s.c. Sp. J.,7917913862,poprawny,False,False
+1459,Sadownik-Kwak Sp.k. Sp. z o.o.,3219402475,poprawny,False,False
+1460,Spółdzielnia Gregorczuk-Ulfik Sp.j. sp. z o.o.,8745271934,poprawny,False,False
+1461,Fundacja Odrzywołek Sp.j. Sp. z o.o.,381-074-91-68,poprawny,False,False
+1462,Stowarzyszenie Słoń i syn s.c. Sp. z o.o.,1315350691,poprawny,True,True
+1463,Malewicz-Rut Sp.k. Spółka z o.o.,2527410257,poprawny,False,False
+1464,Szalast i syn s.c. Spółka z o.o.,669-489-93-07,poprawny,False,False
+1465,PPUH Franas Sp.j. Spółka z o.o.,6355842279,poprawny,False,False
+1466,Karkut-Kieca Sp. z o.o. Sp.k. Sp. z o.o.,4607001444,poprawny,True,True
+1467,Spółdzielnia Wdowczyk s.c. Spółka z o.o.,0871006684,poprawny,False,False
+1468,FPUH Gabara-Pusz s.c. S.A.,2381152238,poprawny,False,False
+1469,Jarema s.c. S.A.,5283599945,poprawny,False,False
+1470,Gabinety Nieradko-Bryda Sp. z o.o. Sp.k. Sp. z o.o.,3511350530,poprawny,False,False
+1471,Gospodarek-Tabisz Sp. z o.o. Sp.k. Sp. z o.o.,6415780979,poprawny,False,False
+1472,Fundacja Gorgol Sp. z o.o.,9453419520,poprawny,False,False
+1473,FPUH Kowaluk s.c. Spółka z o.o.,2802188938,poprawny,False,False
+1474,Paliga-Duszczak S.A. sp. z o.o.,7891213970,poprawny,False,False
+1475,Fundacja Nitkiewicz Spółka z o.o.,7599408427,poprawny,False,False
+1476,Fundacja Korbel Spółka z o.o.,2898606109,poprawny,False,False
+1477,Węgrzynowicz Sp.k. Sp. z o.o.,1652761369,poprawny,False,False
+1478,GABINETY DROZDOWICZ S.C. SP. Z O.O.,8437699293,błędny,False,True
+1479,Szmajda S.A. Sp. z o.o.,8423242341,poprawny,False,False
+1480,Gasik-Lament Sp.j. Sp. J.,5536915857,poprawny,False,False
+1481,Gabinety Swacha s.c. sp.k.,6024257038,poprawny,False,False
+1482,Koperek Sp.k. sp. z o.o.,1582863046,poprawny,False,False
+1483,Szajna-Heinrich i syn s.c. Sp. z o.o.   ,7429220417,poprawny,True,True
+1484,Mazek-Faruga s.c. S.A.,6937063254,poprawny,False,False
+1485,NEUBAUER S.A. SP.K.,9719000027,poprawny,False,False
+1486,PPUH Ligas Sp. z o.o. Sp.k. Sp. J.,7992304533,poprawny,False,False
+1487,PPUH Duras-Jędrzejek i syn s.c. sp.k.,1456474372,poprawny,False,False
+1488,Gabinety Szczepan-Skomra i syn s.c. Sp. J.,7766650524,poprawny,False,False
+1489,Gabinety Bek Sp.k. sp. z o.o.,8157806195,poprawny,False,False
+1490,Stowarzyszenie Foit s.c. sp.k.,7067635329,poprawny,False,False
+1491,Grupa Sysło-Pospiech i syn s.c. sp. z o.o.,,brak,False,False
+1492,Koloch S.A. Sp. J.,3753989230,poprawny,False,True
+1493,Grupa Brygoła-Kamyk Sp. z o.o. S.A.,9327841789,poprawny,False,False
+1494,Stowarzyszenie Milka-Litwa S.A. sp. z o.o.,0114065262,poprawny,False,False
+1495,Zimniak-Kozdrój Sp.j. S.A.,2455337567,poprawny,False,False
+1496,FPUH Surdel sp.k.,4625069292,poprawny,False,False
+1497,Stowarzyszenie Samulak sp. z o.o.,7934421297,poprawny,False,False
+1498,PPUH Olszowa sp. z o.o.,4778045796,poprawny,False,False
+1499,FPUH Suchenek S.A. sp. z o.o.,3982147828,poprawny,False,False
+1500,PPUH Kusek Sp. J.,4516767064,błędny,False,False
+1501,PPUH Wabik Sp. z o.o.,1220084844,poprawny,False,False
+1502,Gabinety Byzdra S.A.,9608289674,poprawny,False,False
+1503,Fundacja Karpiel Sp. z o.o. Sp.k. Spółka z o.o.,6920856493,poprawny,False,False
+1504,Gabinety Kielczyk-Szyc Sp. z o.o. Sp. z o.o.,9350011546,poprawny,False,False
+1505,PPUH Dobosiewicz Sp. z o.o.,3889044109,poprawny,False,False
+1506,Uliasz i syn s.c. Spółka z o.o.,1353814833,poprawny,False,False
+1507,Spółdzielnia Nieradko s.c. Sp. J.,016-856-47-16,poprawny,False,False
+1508,FPUH Biegała i syn s.c. S.A.,1698837163,poprawny,False,False
+1509,Komsta-Drabczyk S.A. sp.k.,9767598330,poprawny,False,False
+1510,PPUH Boguś s.c. sp.k.,3534581954,poprawny,False,False
+1511,Grupa Ładniak-Patrzałek s.c. sp. z o.o.,2177580153,poprawny,False,False
+1512,WIEWIÓRKA-BORCZYK SP. Z O.O. SP. Z O.O.,0285327272,poprawny,True,True
+1513,FPUH Kobza Sp. J.,5025285467,poprawny,False,False
+1514,Gabinety Dębniak-Witos Sp. z o.o. sp.k.,,brak,False,False
+1515,Omiotek-Mądrzyk s.c. Sp. z o.o.,2102423449,poprawny,False,False
+1516,Spółdzielnia Kaliciak Sp.j. Sp. z o.o.,9619971659,poprawny,False,False
+1517,Gabinety Ciuk-Skoneczna S.A. sp.k.,9683344004,poprawny,False,False
+1518,FPUH Melcer Spółka z o.o.,3793221914,poprawny,False,False
+1519,PPUH Pietrek-Demiańczuk Sp.k. S.A.,360-157-91-18,poprawny,False,False
+1520,PPUH Oziębło s.c. Sp. z o.o.,8026589343,poprawny,False,False
+1521,PPUH Wydrych i syn s.c. sp.k.,3571921491,poprawny,False,False
+1522,Plona-Wakuła Sp.k. Sp. J.,,brak,False,False
+1523,Spółdzielnia Dulemba s.c. Spółka z o.o.,4927240009,poprawny,False,False
+1524,Gabinety Gwizdek-Gronostaj Sp. z o.o. Sp.k. Sp. J.,6051908540,poprawny,False,False
+1525,Gabinety Krępa-Kopiczko Sp. z o.o. Sp.k. Sp. J.,3356369300,poprawny,False,False
+1526,Grupa Kłosowicz-Bryndza i syn s.c. sp.k.,3187810483,poprawny,False,False
+1527,Wita-Płodzień Sp. z o.o. sp.k.,929-093-04-32,poprawny,False,False
+1528,SPÓŁDZIELNIA POGORZELEC-GOMOŁA I SYN S.C. SP. J.,0812268158,poprawny,False,False
+1529,FPUH Ładziak sp. z o.o.,1105833093,poprawny,True,True
+1530,Gabinety Kościołek Sp. z o.o. Sp. z o.o.,8914269378,poprawny,False,True
+1531,Stowarzyszenie Rawa s.c. Sp. z o.o.,8776288367,poprawny,False,False
+1532,FPUH Kwoka Sp.k. Sp. J.,,brak,False,False
+1533,Aleksiejuk S.A. S.A.,1652289895,poprawny,False,False
+1534,Spółdzielnia Kij Spółka z o.o.,9777265972,poprawny,False,False
+1535,Wiencek-Niewola S.A. Sp. z o.o.,9391295658,poprawny,False,False
+1536,Stowarzyszenie Migoń Sp. z o.o. Sp.k. Spółka z o.o.,8600500927,poprawny,False,False
+1537,Grupa Sajda S.A.,1125018605,poprawny,False,False
+1538,Kandora-Radko Sp.k. sp. z o.o.,2336931809,poprawny,False,False
+1539,FPUH Szklarek-Szpyt Sp. z o.o. Sp.k. Spółka z o.o.,2662497532,poprawny,True,False
+1540,Spółdzielnia Jachimczyk Spółka z o.o.,4695674064,poprawny,False,False
+1541,Bytner i syn s.c. Spółka z o.o.,3483483583,poprawny,False,False
+1542,Dyszy-Buksa S.A. sp.k.,,brak,False,False
+1543,Kolanko-Bartoś i syn s.c. Sp. z o.o.,5045050922,poprawny,False,False
+1544,Grupa Bork i syn s.c. sp. z o.o.,9545038010,poprawny,False,False
+1545,Gabinety Juras Sp. J.,0450281430,poprawny,False,False
+1546,Fundacja Słyk S.A.,9531112357,poprawny,False,False
+1547,Spółdzielnia Cherek Sp. z o.o. Sp.k. Spółka z o.o.,2866251086,poprawny,False,False
+1548,Dąbroś-Pituła S.A. Spółka z o.o.,1174555378,poprawny,False,False
+1549,Dunal s.c. sp. z o.o.,,brak,False,True
+1550,Fundacja Nastały-Koźlak Sp. z o.o. Sp.k. Sp. z o.o.,8481876200,poprawny,False,False
+1551,Stowarzyszenie Smolorz-Berek Sp.j. sp. z o.o.,0599822672,poprawny,False,False
+1552,Rutowicz Sp.k. sp.k.,0485142028,poprawny,False,False
+1553,Szaruga Sp. z o.o. Sp. J.   ,3134275573,poprawny,False,False
+1554,Sznura-Ziemann s.c. Sp. z o.o.,4431834367,poprawny,False,False
+1555,Mijas S.A. sp.k.,7711506298,poprawny,False,True
+1556,PPUH Kałek Sp. z o.o. Sp.k. sp. z o.o.,8162910877,poprawny,False,False
+1557,FPUH Bałazy i syn s.c. Sp. z o.o.,2987707450,poprawny,False,False
+1558,Spółdzielnia Piotrkowicz-Sasak Sp.j. Sp. z o.o.,2026838783,poprawny,False,False
+1559,Gabinety Wołk-Liss s.c. Spółka z o.o.,9346754181,poprawny,False,False
+1560,FPUH Jezior sp. z o.o.,8272105131,poprawny,False,False
+1561,Wojtasiewicz-Drobny i syn s.c. Sp. z o.o.,3882532082,poprawny,False,False
+1562,Poniedziałek-Drwięga Sp. z o.o. Sp.k. Sp. J.,6360389173,poprawny,False,False
+1563,Spółdzielnia Gros S.A.,7200052146,poprawny,False,False
+1564,Fundacja Szajner-Cierpka Sp.j. sp.k.,5089512372,poprawny,False,False
+1565,Odrzywołek Sp. z o.o. Spółka z o.o.,5456972965,poprawny,False,False
+1566,PPUH Krzysiek-Samiec Sp.j. Sp. z o.o.,3771886262,poprawny,False,False
+1567,FPUH Pogorzelec Sp. z o.o.,,brak,False,False
+1568,Szram Sp.j. Sp. z o.o.,4466276333,poprawny,False,False
+1569,Gabinety Kuryś sp. z o.o.,,brak,False,False
+1570,Szkoda-Soczewka Sp.j. S.A.,,brak,False,False
+1571,Elert-Moniuszko Sp.j. Sp. J.,3631592299,poprawny,False,False
+1572,Grymuza Sp. z o.o. Sp.k. Sp. z o.o.,406-291-18-75,poprawny,False,False
+1573,Tylman-Marcińczyk Sp. z o.o. Sp.k. Sp. z o.o.,8984974998,poprawny,False,False
+1574,Spółdzielnia Pych Sp. z o.o. Sp.k. sp.k.,6565818985,poprawny,False,False
+1575,Gabinety Szłapa sp. z o.o.,1631297553,poprawny,False,False
+1576,Lampa Sp.k. sp.k.,8119389996,poprawny,False,False
+1577,Gabinety Klama Sp. z o.o.,7167532161,poprawny,False,True
+1578,Fundacja Matacz sp.k.,0049037293,poprawny,False,False
+1579,Wołczyk-Warych i syn s.c. sp. z o.o.,9981274396,poprawny,True,True
+1580,Grupa Patora-Matraszek Sp.j. sp.k.,2581476218,poprawny,False,False
+1581,Spółdzielnia Zapora Sp.j. sp.k.,4541384534,poprawny,False,False
+1582,PPUH Saternus Sp.k. S.A.,9685909640,poprawny,False,False
+1583,FPUH Wielgos S.A.,,brak,False,True
+1584,Grupa Dzierżak i syn s.c. sp. z o.o.,1734024223,poprawny,True,True
+1585,Kozłowicz-Koczara Sp. z o.o. Sp.k. Sp. z o.o.,6323654014,poprawny,False,False
+1586,Majorek Sp.k. sp.k.,4202435097,poprawny,False,False
+1587,PPUH Czermak Sp. z o.o. Sp.k. Sp. z o.o.,5640994147,poprawny,False,False
+1588,Łuc-Majak s.c. S.A.,0542451905,poprawny,False,False
+1589,FUNDACJA MIĄSKO-KUBACZYK S.C. SPÓŁKA Z O.O.,6594299200,poprawny,False,False
+1590,Grupa Łusiak sp. z o.o.,1183909344,poprawny,False,False
+1591,Spółdzielnia Szczudło-Pawliczak Sp. z o.o. Sp.k. sp. z o.o.,8346334886,poprawny,False,False
+1592,Fundacja Szlufik-Szkopek Sp. z o.o. Sp. J.,8669408658,poprawny,False,False
+1593,Glanc-Bender Sp.k. sp. z o.o.,8550743503,poprawny,False,False
+1594,Borczyk-Surdyk Sp. z o.o. S.A.,0396964533,poprawny,False,False
+1595,PPUH Sot-Ulrych i syn s.c. sp.k.,8300995422,poprawny,False,False
+1596,Kajstura-Dubel S.A. sp.k.,6679899473,poprawny,False,False
+1597,Seweryniak i syn s.c. Sp. z o.o.,4971103845,poprawny,False,False
+1598,Grupa Kolman Sp. z o.o. Spółka z o.o.,0518860161,poprawny,False,False
+1599,Dering-Witka i syn s.c. Spółka z o.o.,9698504508,poprawny,False,False
+1600,GRUPA GRZEBYK SP. Z O.O. SP.K. SP. Z O.O.,5714025032,poprawny,False,False
+1601,Galica S.A. Sp. z o.o.,6384936801,poprawny,False,False
+1602,PPUH Łabaj Sp. z o.o. Sp.k. Sp. z o.o.,012-789-69-53,poprawny,False,False
+1603,Spółdzielnia Garbacik Sp. z o.o. Sp.k. Sp. J.,7758670363,poprawny,False,False
+1604,  Grupa Maciuk-Kmak S.A. Spółka z o.o.,3946896331,poprawny,False,False
+1605,Grupa Garczyk Sp. z o.o. Sp. z o.o.,7073174459,poprawny,False,False
+1606,Spółdzielnia Dzidek-Wawrzynek Sp.j. S.A.,7850898971,poprawny,True,True
+1607,Rzońca-Rompa Sp. z o.o. Sp.k. Sp. J.,3485295377,poprawny,False,False
+1608,Krysta Sp. z o.o. Sp.k. sp.k.,7404207679,poprawny,False,False
+1609,Gołoś S.A. Spółka z o.o.,7330990009,poprawny,False,False
+1610,Grupa Waszczyk Sp.j. sp. z o.o.,3445385654,poprawny,False,False
+1611,FPUH Kowalówka Sp.j. Sp. J.,0047091101,poprawny,False,False
+1612,Gabinety Wiercigroch-Kostek i syn s.c. Sp. J.,9899651185,poprawny,False,False
+1613,Stowarzyszenie Gustaw-Pera Sp.j. Sp. J.,4776186877,poprawny,False,False
+1614,PPUH Kolanek Sp. z o.o. S.A.,8290525659,poprawny,False,False
+1615,Stosik-Fierek Sp.k. Sp. J.,3302927646,poprawny,False,False
+1616,Materka S.A. sp. z o.o.,1405131863,poprawny,False,False
+1617,Gabinety Soliwoda-Gałach Sp. z o.o. Sp. z o.o.,4785247443,poprawny,False,False
+1618,Łudzik Sp. z o.o. Sp. J.,2387351861,poprawny,False,False
+1619,Szynkiewicz Sp.k. Spółka z o.o.,1830258538,poprawny,False,False
+1620,Franczuk S.A. Spółka z o.o.,2178955997,poprawny,False,False
+1621,Grupa Kunc sp.k.,1675923835,poprawny,False,False
+1622,Piekart Sp.k. sp. z o.o.,8146342929,poprawny,False,True
+1623,Gabinety Śledzik sp. z o.o.,091-218-52-71,poprawny,False,False
+1624,Spółdzielnia Wiewiórka-Murach Sp. z o.o. Spółka z o.o.,5530153033,poprawny,False,False
+1625,  Dubis Sp. z o.o. Sp. z o.o.,7663454183,poprawny,False,False
+1626,Gabinety Pizoń s.c. Sp. z o.o.,6419106168,poprawny,False,False
+1627,Piekacz Sp.k. sp. z o.o.,4216826821,poprawny,False,False
+1628,Matus-Westfal Sp.j. S.A.,9962083472,błędny,False,False
+1629,Grupa Kiwior i syn s.c. Sp. J.,5722870322,poprawny,False,False
+1630,Miętka Sp. z o.o. Sp. J.,2438712956,poprawny,True,True
+1631,Drewnik Sp.k. Sp. J.,0286060486,poprawny,False,False
+1632,PPUH Nesterowicz Spółka z o.o.,7695090413,poprawny,False,False
+1633,Karwot-Chaber Sp. z o.o. S.A.,5562388785,poprawny,False,False
+1634,PPUH Stefanik S.A.   ,0622901138,poprawny,False,False
+1635,Spółdzielnia Zaborek Sp. z o.o. Sp.k. Sp. z o.o.,9903803515,poprawny,False,True
+1636,Stowarzyszenie Duc-Zbroszczyk Sp.j. sp.k.,4419147901,poprawny,False,False
+1637,Grupa Poleszak Sp. z o.o. Sp.k. Sp. J.,708-488-68-67,poprawny,False,False
+1638,Kiełbik Sp. z o.o. Sp. J.,8228280181,poprawny,False,False
+1639,Kieszek Sp. z o.o. S.A.,8467678099,poprawny,False,False
+1640,FPUH DZIUDA SP.K.,5975213531,poprawny,False,False
+1641,Spółdzielnia Hawro s.c. Sp. J.,9748741140,poprawny,False,False
+1642,Grupa Magryta i syn s.c. Sp. J.,1997645342,poprawny,False,False
+1643,Fundacja Stefankiewicz-Krępa i syn s.c. Sp. z o.o.,9678963006,poprawny,False,False
+1644,Gabinety Kościołek sp. z o.o.,0159722423,poprawny,False,True
+1645,Job s.c. S.A.,8098460185,poprawny,False,False
+1646,PPUH Sowała-Szramka Sp.j. Spółka z o.o.,3735866712,poprawny,False,False
+1647,Szylar-Troć Sp.j. S.A.,0967462725,poprawny,False,False
+1648,Saczuk-Małota Sp. z o.o. Sp. J.,,brak,False,False
+1649,Bidas Sp. z o.o. Sp.k. Sp. J.,7755821264,poprawny,False,False
+1650,Hanc-Policht Sp.j. Spółka z o.o.,4607890757,poprawny,False,False
+1651,Spółdzielnia Chwedczuk sp. z o.o.,944-149-25-34,poprawny,False,False
+1652,Żuchowicz S.A. sp. z o.o.,6590705548,poprawny,False,False
+1653,Spółdzielnia Pokrzywa Sp. z o.o. Sp.k. S.A.,8771569222,poprawny,False,False
+1654,Grupa Szczepan-Kaliciak i syn s.c. Sp. J.,341-535-97-70,poprawny,True,True
+1655,FPUH Tylka i syn s.c. sp. z o.o.,4943148729,poprawny,False,False
+1656,Grupa Stochmal i syn s.c. Spółka z o.o.,4741685571,poprawny,False,False
+1657,Fundacja Zygmuntowicz-Ksel Sp.k. Sp. z o.o.,9579475812,poprawny,False,False
+1658,Gabinety Zgoła Sp. z o.o. S.A.,233-470-40-73,poprawny,False,False
+1659,Grupa Aleksander-Wolan s.c. S.A.,9734185597,poprawny,False,False
+1660,Jewuła-Rohde Sp. z o.o. S.A.,0170396103,poprawny,False,False
+1661,Gabinety Iciek S.A.,0679490781,poprawny,False,False
+1662,Giel-Prostak S.A. sp. z o.o.   ,3536735580,poprawny,False,False
+1663,Grupa Kuska-Wyciszkiewicz Sp. z o.o. Sp.k. sp. z o.o.,4133513901,poprawny,False,False
+1664,Fundacja Fiołka s.c. Spółka z o.o.,9366357968,poprawny,False,False
+1665,Stowarzyszenie Czerniec i syn s.c. S.A.,3565826084,poprawny,False,False
+1666,Spółdzielnia Sypek i syn s.c. Spółka z o.o.,1288669111,poprawny,False,False
+1667,Januszko-Kondej s.c. sp. z o.o.,5261197895,poprawny,False,False
+1668,Siedlaczek Sp. z o.o. Sp.k. Spółka z o.o.,4653255440,poprawny,False,False
+1669,Długajczyk S.A. S.A.,7380520381,poprawny,False,False
+1670,Gabinety Opioła Sp. z o.o.,847-146-22-01,poprawny,False,False
+1671,Fundacja Tabiś-Podsiadła Sp.j. Sp. z o.o.,1127283607,poprawny,False,False
+1672,Gabinety Szpyt sp.k.,,brak,False,False
+1673,Borkowicz-Salawa Sp.k. sp. z o.o.,1720488869,poprawny,False,False
+1674,Machul-Prokopiak i syn s.c. Sp. J.,2645649672,poprawny,False,False
+1675,Frycz-Łabuś Sp. z o.o. Sp.k. Sp. J.,3906490976,poprawny,False,False
+1676,Kuczak-Parkitna Sp. z o.o. Sp.k. sp.k.,7018158912,poprawny,False,False
+1677,Ziajka-Chmara i syn s.c. sp. z o.o.,1531936255,poprawny,False,False
+1678,Linke i syn s.c. sp.k.,7548029336,błędny,False,False
+1679,Ochał S.A. Spółka z o.o.,7351745462,poprawny,False,False
+1680,Hulbój-Abramczuk Sp. z o.o. Sp.k. Spółka z o.o.,0128331957,poprawny,False,False
+1681,Fundacja Krzyśków Sp. z o.o. S.A.,1703056877,poprawny,False,False
+1682,Chadaj-Matacz Sp.k. S.A.,6841876774,poprawny,False,False
+1683,FPUH Pachla i syn s.c. Sp. J.,973-173-03-38,poprawny,False,False
+1684,Nazarewicz Sp. z o.o. Sp.k. Spółka z o.o.,4731815606,poprawny,False,False
+1685,PPUH Mikita Sp.j. Sp. J.,4761110796,poprawny,False,False
+1686,Wojtczuk Sp. z o.o. Sp.k. S.A.,2897226936,poprawny,False,False
+1687,Saternus-Oleśkiewicz S.A. Spółka z o.o.,6856066998,poprawny,False,False
+1688,Gabinety Giezek i syn s.c. S.A.,7779570394,poprawny,False,False
+1689,Downar-Stożek s.c. S.A.,1107351286,poprawny,False,False
+1690,Furga-Tomalik Sp. z o.o. Sp.k. sp. z o.o.,333-023-99-35,poprawny,False,False
+1691,PPUH Oleszko-Prokurat i syn s.c. Sp. J.,0695235782,poprawny,True,True
+1692,FPUH Sinkiewicz Sp. z o.o. Sp.k. S.A.,0064488545,poprawny,False,False
+1693,Gabinety Gosz-Gietka Sp.k. Spółka z o.o.,255-428-05-34,poprawny,False,False
+1694,FPUH Rej S.A.,8878602034,poprawny,False,False
+1695,Godyń i syn s.c. Sp. z o.o.,9586639925,błędny,True,True
+1696,Grupa Ruchała Sp. z o.o. Sp. J.,142-495-62-92,poprawny,False,False
+1697,FPUH Hajdukiewicz Sp. z o.o. Sp. z o.o.,3328880707,poprawny,False,False
+1698,Młyńczyk s.c. Sp. J.,1202201759,poprawny,False,False
+1699,Dorobek-Fidos S.A. Sp. J.,1046627505,poprawny,False,False
+1700,Gajzler-Pikula Sp. z o.o. sp. z o.o.,0360785486,poprawny,False,False
+1701,Lenda-Pałęga Sp. z o.o. sp. z o.o.,8368060143,poprawny,True,True
+1702,Grupa Beck-Mały i syn s.c. Sp. J.,8581970157,poprawny,True,True
+1703,Maraszek Sp.j. sp. z o.o.,5192018285,poprawny,False,False
+1704,Słyk-Miętus Sp.k. Spółka z o.o.,9379582911,poprawny,False,False
+1705,Nurek-Gałaj Sp. z o.o. Sp.k. Sp. J.,7149207574,poprawny,False,False
+1706,Brachaczek S.A. sp. z o.o.,6259188311,poprawny,False,False
+1707,FPUH Kafel Sp.k. S.A.,9787296572,poprawny,False,False
+1708,Śliż-Borkowicz Sp. z o.o. sp.k.,903-480-42-42,poprawny,False,False
+1709,Grupa Wereda-Działa i syn s.c. Sp. z o.o.,657-376-24-20,poprawny,False,False
+1710,Gabinety Daraż sp. z o.o.,0369309149,poprawny,False,False
+1711,FPUH Kucharz Sp. z o.o. Sp. J.,172-264-14-76,poprawny,False,False
+1712,Kozdrój Sp. z o.o. sp. z o.o.,9335984747,poprawny,True,True
+1713,Spółdzielnia Grygorowicz Sp. J.,2624736503,poprawny,False,False
+1714,Miętka Sp.k. Sp. J.   ,0647614429,poprawny,False,True
+1715,Grupa Herbut-Kutnik Sp.j. Spółka z o.o.,2316979204,poprawny,False,False
+1716,Jakimiak-Raszkiewicz S.A. sp. z o.o.,9690453929,poprawny,False,False
+1717,Jaremek s.c. sp. z o.o.,3813307347,poprawny,False,False
+1718,Fundacja Kobak-Pyszka s.c. S.A.,4122474095,poprawny,False,False
+1719,Fundacja Białka Sp.j. Sp. z o.o.,0715558704,poprawny,False,False
+1720,Gabinety Wielgo Sp.k. Sp. J.,551-253-80-76,poprawny,False,False
+1721,Godyń-Cylwik Sp.j. sp. z o.o.,4941971577,poprawny,False,False
+1722,Gabinety Daniec-Hołota S.A. sp.k.,2463061625,poprawny,False,False
+1723,Gabinety Bajak Sp. z o.o.,5042059868,poprawny,False,False
+1724,Spółdzielnia Minkina Spółka z o.o.,3360809018,poprawny,False,False
+1725,Wojciech Sp. z o.o. Sp.k. S.A.,888-818-93-06,błędny,False,False
+1726,Bąbol Sp. z o.o. Sp.k. sp.k.,7851856905,poprawny,False,True
+1727,  Fundacja Syroka-Muc s.c. sp. z o.o.,8007272088,poprawny,False,False
+1728,FPUH Kolonko-Balik Sp. z o.o. Spółka z o.o.,,brak,False,False
+1729,Fundacja Szymanik-Pawełko i syn s.c. S.A.   ,4560595634,poprawny,False,False
+1730,PPUH Stasica Sp.j. sp. z o.o.,0025856536,poprawny,False,False
+1731,FUNDACJA CIBOR S.A.,8719261544,błędny,False,False
+1732,Chowaniak Sp.j. sp. z o.o.,5455005499,poprawny,False,False
+1733,Hermanowicz-Pachla Sp.k. S.A.,3887246168,poprawny,False,False
+1734,Warczak Sp. z o.o. Sp.k. Sp. z o.o.,0091435292,poprawny,False,False
+1735,Grupa Lada Sp.k. sp.k.,6546628976,poprawny,False,False
+1736,Grupa Bryczek-Wojtalewicz Sp.k. sp. z o.o.,7560022302,poprawny,False,False
+1737,Spółdzielnia Kurzyna Sp. z o.o. Sp. z o.o.,2515890412,poprawny,False,True
+1738,Fundacja Łachut-Zaraś S.A. Sp. J.,,brak,False,False
+1739,Skrobot Sp. z o.o. Sp.k. S.A.,1527695845,poprawny,False,False
+1740,Grupa Furmankiewicz-Piątkiewicz s.c. sp.k.,6313737141,poprawny,False,False
+1741,PPUH Dudkowiak Sp. z o.o. S.A.,9141939600,poprawny,False,False
+1742,Żołna-Jakubiuk Sp.j. sp.k.,9256924768,poprawny,False,False
+1743,Składanek Sp.k. sp. z o.o.,1811814057,błędny,False,False
+1744,Bzymek Sp.k. S.A.,0856094069,poprawny,False,False
+1745,Spółdzielnia Dadej Sp.k. sp. z o.o.,1456457221,poprawny,False,False
+1746,Fundacja Gajcy-Słupek Sp.j. Sp. z o.o.,3374499987,poprawny,False,False
+1747,Capała Sp.j. sp.k.,4126410608,poprawny,False,False
+1748,Fundacja Tyka i syn s.c. sp.k.,0576310106,poprawny,False,False
+1749,Stowarzyszenie Szybiak-Fijoł Sp. z o.o. Sp.k. S.A.,0640047482,poprawny,False,False
+1750,Pituła Sp.j. sp.k.,4817036101,poprawny,False,False
+1751,  Elwart s.c. Spółka z o.o.,949-330-78-10,poprawny,False,False
+1752,Spółdzielnia Karpeta Sp. z o.o.,2144415590,poprawny,False,False
+1753,Jodko-Patyna Sp. z o.o. sp.k.,6552391706,błędny,False,False
+1754,Spółdzielnia Szymonik-Rećko Sp. z o.o. Sp.k. sp.k.,9266536192,poprawny,False,False
+1755,Kornak s.c. Sp. J.,2487238584,poprawny,False,False
+1756,Spółdzielnia Maślach S.A. Sp. J.,1413493173,poprawny,False,False
+1757,Grupa Surdel Sp.j. Sp. z o.o.,7357921167,poprawny,False,False
+1758,Strzała S.A. Spółka z o.o.,4646398977,poprawny,False,False
+1759,Sosnówka-Mizia Sp.k. sp. z o.o.,9342718662,poprawny,False,False
+1760,Kurzyna-Pacyga Sp. z o.o. sp.k.,2600011013,poprawny,False,False
+1761,FPUH Celuch Spółka z o.o.,4981213009,poprawny,False,False
+1762,Gabinety Czenczek sp.k.,0867233104,błędny,False,False
+1763,Fundacja Gorgol-Strama Sp.k. S.A.,556-192-21-88,poprawny,False,False
+1764,Stowarzyszenie Bieleń-Liss Sp. z o.o. S.A.,4176130236,poprawny,False,False
+1765,Pacholczak-Stochaj s.c. sp. z o.o.,5991676409,poprawny,False,False
+1766,Spółdzielnia Fuławka Spółka z o.o.,2826712693,poprawny,False,False
+1767,Gabinety Kurpisz-Ładniak S.A. sp. z o.o.,2529644485,poprawny,False,False
+1768,Palonek-Kość Sp. z o.o. Sp.k. Sp. z o.o.,1433064096,poprawny,False,False
+1769,Stowarzyszenie Kultys Sp. z o.o. Sp.k. Spółka z o.o.,9062787900,poprawny,False,False
+1770,PPUH Thiel-Danisz s.c. sp. z o.o.,7216266039,poprawny,False,False
+1771,Kuran-Sobków Sp.j. Spółka z o.o.,5999773796,poprawny,False,False
+1772,Grupa Działo s.c. Sp. J.,6703862569,poprawny,False,False
+1773,Grupa Rode sp. z o.o.,3300805637,poprawny,True,True
+1774,Fundacja Kilar i syn s.c. sp. z o.o.,2107883121,poprawny,False,False
+1775,Kusyk-Kwapis Sp. z o.o. Sp. z o.o.,7201970849,poprawny,False,False
+1776,Stowarzyszenie Kastelik Sp. J.,6365129554,poprawny,False,False
+1777,Cibor s.c. Sp. z o.o.,9484226236,poprawny,True,True
+1778,Gabinety Kretowicz Sp.j. Spółka z o.o.,0283034241,poprawny,False,False
+1779,PPUH Dyda-Zadworny s.c. sp. z o.o.,8091663169,poprawny,True,True
+1780,Fundacja Szczepan Sp.k. sp. z o.o.,0454410611,poprawny,False,False
+1781,FPUH Steckiewicz-Kokosza i syn s.c. Sp. J.,5801517643,poprawny,False,False
+1782,Gabinety Portka-Prucnal Sp.j. Sp. z o.o.,5050969964,poprawny,False,False
+1783,PPUH Heinrich-Kominiak Sp. z o.o. Sp.k. Sp. J.,2280588371,poprawny,False,False
+1784,Spółdzielnia Smoter-Demiańczuk s.c. Sp. J.,4762539509,poprawny,False,False
+1785,Piszcz-Berg Sp.j. S.A.,2778882605,poprawny,False,False
+1786,Fundacja Rząd Spółka z o.o.,8809718615,poprawny,True,False
+1787,PPUH Wołodźko Spółka z o.o.,5920559671,poprawny,True,False
+1788,Stowarzyszenie Łój sp.k.,8304576277,poprawny,False,False
+1789,Dziopa-Bytner Sp.j. sp.k.,7015221337,poprawny,False,False
+1790,Bulanda-Omiotek s.c. Sp. J.,1289899304,poprawny,False,False
+1791,Spółdzielnia Ochnio-Heleniak i syn s.c. sp.k.,9799271566,poprawny,False,False
+1792,Spółdzielnia Fogiel Sp. z o.o. Sp.k. sp. z o.o.,858-986-81-80,poprawny,False,False
+1793,Musiolik S.A. sp.k.,0073794997,poprawny,False,False
+1794,Sakwa Sp. z o.o. Sp.k. Spółka z o.o.,4107692623,poprawny,False,False
+1795,Hołysz S.A. Sp. z o.o.,6043598390,poprawny,False,False
+1796,Sadza Sp. z o.o. Spółka z o.o.,7837568162,poprawny,True,False
+1797,Grupa Józwik S.A.,3854033697,poprawny,False,False
+1798,Gabinety Pioch-Pryk s.c. sp. z o.o.,6532735515,poprawny,False,False
+1799,Spółdzielnia Klupś sp. z o.o.,3477146958,poprawny,False,False
+1800,Spółdzielnia Langier-Majtyka Sp.k. Sp. z o.o.,2006174133,poprawny,False,False
+1801,PPUH Kordus Sp. z o.o.,2189391274,poprawny,False,False
+1802,Grupa Żybura s.c. sp. z o.o.,6853045553,poprawny,False,False
+1803,Gabinety Tyczka S.A.,0777894338,poprawny,False,False
+1804,Fundacja Wąsek Sp. z o.o. Sp.k. S.A.,,brak,False,False
+1805,Danieluk s.c. Spółka z o.o.,0617906707,poprawny,False,False
+1806,Spółdzielnia Składanek-Marciniszyn s.c. sp. z o.o.,4490769720,poprawny,False,False
+1807,Siebert-Bakalarczyk Sp.k. Sp. J.,,brak,False,False
+1808,PPUH Zawiasa-Mikus i syn s.c. S.A.,0082283776,poprawny,False,False
+1809,Grupa Humeniuk-Szynkiewicz Sp. z o.o. sp.k.,872-820-63-25,poprawny,False,False
+1810,Spółdzielnia Młynarz-Miszkiel Sp.k. Spółka z o.o.,6658952475,poprawny,False,False
+1811,Fundacja Łusiak Spółka z o.o.,7245257379,poprawny,False,False
+1812,Petryk S.A. Sp. z o.o.,1298897285,poprawny,False,False
+1813,Fundacja Senger-Klos Sp.k. sp. z o.o.,6164170053,poprawny,False,False
+1814,Grupa Indyk Sp. J.,6880316648,poprawny,False,False
+1815,Fundacja Brzykcy-Golenia Sp.k. Sp. z o.o.,242-853-54-12,poprawny,False,False
+1816,Hanke-Naumiuk Sp. z o.o. Sp.k. sp.k.,7017086719,poprawny,False,False
+1817,Pachowicz-Burzec Sp.j. Spółka z o.o.,0433689571,poprawny,False,False
+1818,PPUH Maligłówka S.A. Sp. z o.o.,5110900701,poprawny,False,False
+1819,PPUH Kudłacz Sp.k. Sp. z o.o.,2549723928,poprawny,False,False
+1820,Kulczak i syn s.c. sp.k.,7475396593,poprawny,False,False
+1821,Spółdzielnia Szyndler Sp. z o.o. Sp.k. Sp. J.,9420416410,poprawny,False,False
+1822,Stowarzyszenie Bejger s.c. sp. z o.o.,,brak,False,False
+1823,Sady s.c. S.A.,1749058493,poprawny,True,True
+1824,Spółdzielnia Tadla-Kleban i syn s.c. sp. z o.o.,5862405743,poprawny,False,False
+1825,Kolek S.A. Spółka z o.o.,5352791115,poprawny,False,False
+1826,Fundacja Baranowicz s.c. S.A.,8985932135,błędny,False,False
+1827,Mudlaff-Płaneta S.A. sp. z o.o.,4800226423,poprawny,True,True
+1828,Spółdzielnia Jeżyk-Sąsiadek Sp.j. sp. z o.o.,9878192140,poprawny,False,False
+1829,Grupa Sklorz Sp. z o.o. Sp.k. Spółka z o.o.,2937178475,poprawny,False,False
+1830,Spółdzielnia Adamów sp.k.,7544584749,poprawny,False,False
+1831,FPUH Czuryło Sp. z o.o.,5962751930,poprawny,False,False
+1832,Owsianka s.c. sp.k.,4479365613,poprawny,False,False
+1833,Gabinety Majorczyk sp. z o.o.,0706594801,poprawny,False,False
+1834,Fundacja Wiekiera Spółka z o.o.,3303727180,poprawny,False,False
+1835,Naglik-Jewuła Sp. z o.o. Sp. z o.o.,2138078283,poprawny,False,False
+1836,Bartoś Sp. z o.o. sp.k.,1802882526,poprawny,False,False
+1837,Gabinety Pyziak-Szmaj Sp. z o.o. Spółka z o.o.,9469984286,poprawny,True,False
+1838,Supeł S.A. Sp. z o.o.,3132988719,poprawny,False,True
+1839,Denkiewicz s.c. sp.k.,6427786261,poprawny,False,False
+1840,FPUH Zimmer-Szymula S.A. Sp. J.,3208778343,poprawny,False,False
+1841,Moryc S.A. Spółka z o.o.,5573562324,poprawny,False,False
+1842,Wawrzyczek Sp. z o.o. Sp.k. sp.k.,5973027327,poprawny,False,False
+1843,PPUH Kosz-Patalas Sp. z o.o. sp. z o.o.,7704116780,poprawny,False,False
+1844,Cegła S.A. Sp. J.,7386569046,poprawny,False,False
+1845,Brzykcy i syn s.c. sp.k.,1248955879,poprawny,False,False
+1846,Woda S.A. Spółka z o.o.,5994264073,poprawny,False,False
+1847,Fundacja Pilarek-Wygoda i syn s.c. Sp. J.,0339801383,poprawny,False,False
+1848,Skubała-Bruzda Sp.k. sp.k.,058-108-01-52,poprawny,False,False
+1849,Filiks-Przekwas i syn s.c. sp. z o.o.,7728715658,poprawny,False,False
+1850,Spółdzielnia Milcarz i syn s.c. S.A.,5959955054,poprawny,False,False
+1851,FPUH Berus-Sykut Sp. z o.o. Sp.k. Spółka z o.o.,8541839528,poprawny,False,False
+1852,PPUH Sakwa-Matraszek Sp.k. Sp. J.,8821651197,poprawny,False,False
+1853,Gabinety Glazik Sp.k. Sp. z o.o.,3027694737,poprawny,False,False
+1854,Grupa Ziółko-Wrochna Sp. z o.o. Sp. z o.o.,2440293639,poprawny,False,False
+1855,  Gabinety Dzierwa Sp. z o.o.,5257959904,poprawny,False,False
+1856,Kubanek-Świerszcz Sp.j. Sp. J.,3254601897,poprawny,False,False
+1857,Bartkowicz-Wypiór Sp. z o.o. Sp.k. S.A.,1339962767,poprawny,False,False
+1858,Gabinety Klama Sp. z o.o.,2029138135,poprawny,False,True
+1859,Kozok-Polakiewicz i syn s.c. sp.k.,0888196643,poprawny,True,True
+1860,FPUH Kukieła Sp.k. Sp. z o.o.,3356831721,poprawny,False,False
+1861,Grupa Figat-Wyrobek Sp.j. Sp. z o.o.,4050133202,poprawny,False,False
+1862,Kwarciak S.A. S.A.,1487650775,poprawny,False,False
+1863,PPUH Skomra-Duszczak Sp. z o.o. Sp.k. S.A.,,brak,False,False
+1864,Małyszek s.c. sp.k.,9630667006,poprawny,False,False
+1865,PPUH Bela-Sowała Sp.j. sp. z o.o.,3370071583,poprawny,False,False
+1866,Smutek-Ptok i syn s.c. sp. z o.o.,3234306586,poprawny,False,False
+1867,Juraszczyk Sp.j. sp.k.,2375909725,poprawny,False,False
+1868,Bancerz Sp.j. Spółka z o.o.,4551391961,poprawny,False,False
+1869,Gabinety Kurpanik-Kaczan Sp. z o.o. Sp.k. sp.k.,3873693236,poprawny,False,False
+1870,Gabinety Brzęk Sp. z o.o. Sp.k. sp.k.,4664867419,poprawny,False,False
+1871,Grupa Szok-Bartłomiejczyk Sp. z o.o. S.A.,5529776018,poprawny,False,False
+1872,Basa-Irzyk Sp.j. Spółka z o.o.,4157281431,poprawny,False,False
+1873,Wężyk-Nikel i syn s.c. S.A.,0361189266,poprawny,False,False
+1874,  PPUH Fryś-Osojca s.c. Spółka z o.o.,7140344542,poprawny,False,False
+1875,Grupa Mosur Sp. z o.o.,1962272386,poprawny,False,False
+1876,Borysiak-Wojsław Sp.k. sp. z o.o.,0934099165,poprawny,True,True
+1877,Szkoła Sp. z o.o. Spółka z o.o.,0348484373,poprawny,False,False
+1878,Szpala Sp.k. Spółka z o.o.,9514295444,poprawny,False,False
+1879,Sędek S.A. Sp. J.,7562752803,poprawny,False,False
+1880,Gągała-Radziewicz S.A. S.A.,9459235169,poprawny,False,False
+1881,Gabara-Kudlak s.c. Sp. J.,100-170-78-19,poprawny,False,False
+1882,Stochel Sp. z o.o. sp. z o.o.,0494841429,poprawny,False,False
+1883,Stowarzyszenie Pyć Sp.k. S.A.,2875679814,poprawny,False,False
+1884,Grupa Dankiewicz Sp. J.,711-588-21-85,poprawny,False,False
+1885,Długozima Sp. z o.o. Sp.k. sp.k.,116-114-64-42,poprawny,False,False
+1886,PPUH Kochman-Drozda Sp.j. Spółka z o.o.,2473885233,poprawny,False,False
+1887,FPUH Budzeń-Folga Sp. z o.o. Sp.k. sp.k.,8125325127,poprawny,False,False
+1888,FPUH Ulrych Sp. J.,6602865388,poprawny,False,False
+1889,Roskosz-Tadeusiak i syn s.c. Sp. z o.o.,0037090703,poprawny,False,False
+1890,Stowarzyszenie Lada S.A.,6932070982,poprawny,False,False
+1891,Grupa Gągała-Hallmann S.A. Spółka z o.o.,8762965071,poprawny,False,False
+1892,Fundacja Maciejuk S.A.,765-419-82-89,poprawny,False,False
+1893,Grupa Maszkiewicz-Tworzydło Sp. z o.o. Sp.k. Sp. z o.o.,3452202620,poprawny,False,False
+1894,Stowarzyszenie Lepak Spółka z o.o.,6351685222,poprawny,False,False
+1895,Fundacja Makaruk sp.k.,6933276332,poprawny,True,True
+1896,Macek Sp.k. sp.k.,3723722597,poprawny,False,False
+1897,PPUH Stefanik-Bartuś S.A. Sp. J.,9423403709,poprawny,False,False
+1898,Gabinety Aleksandrzak-Murach Sp. z o.o. Sp.k. Spółka z o.o.,561-257-80-46,poprawny,False,False
+1899,Gabinety Muc Sp. J.,1769680646,poprawny,False,False
+1900,Downar Sp. z o.o. Sp. J.,8379264056,poprawny,False,False
+1901,Grupa Halik Sp. z o.o. Spółka z o.o.,9342883906,poprawny,False,False
+1902,FPUH Zamora Sp. J.,3150321983,poprawny,False,False
+1903,Gabinety Bas Sp. z o.o.,6668606734,poprawny,False,False
+1904,Wendt Sp. z o.o. Sp.k. sp. z o.o.,8959103855,poprawny,False,False
+1905,Spółdzielnia Kuban Spółka z o.o.,9637439633,poprawny,False,False
+1906,FPUH Ogłaza i syn s.c. Spółka z o.o.,5465653171,poprawny,False,False
+1907,Skomra Sp.k. sp. z o.o.,7366325677,poprawny,False,False
+1908,FPUH Ciepła S.A. sp. z o.o.,9166019103,poprawny,False,False
+1909,Bodzak-Żółkiewicz Sp.k. sp. z o.o.,2644789371,poprawny,False,False
+1910,Golczyk-Padło S.A. Sp. z o.o.,9093716456,poprawny,False,False
+1911,  Magier S.A. sp.k.,4473387803,poprawny,False,False
+1912,Spółdzielnia Hołysz-Olszyna Sp.j. Spółka z o.o.,1837847717,poprawny,False,False
+1913,Gabinety Wojtasiewicz S.A. S.A.,8593806251,poprawny,False,False
+1914,Stowarzyszenie Łapaj sp.k.,243-435-48-62,poprawny,False,False
+1915,Stowarzyszenie Myk-Strawa S.A. sp. z o.o.,8710880351,poprawny,False,False
+1916,Trzyna s.c. Sp. z o.o.,1161221505,poprawny,False,False
+1917,Fundacja Niedbał Sp.j. sp.k.,6819004158,poprawny,False,False
+1918,Gabinety Kuśka Sp. J.,6013855008,poprawny,False,False
+1919,Fundacja Głownia i syn s.c. Spółka z o.o.,5718158066,poprawny,False,False
+1920,Stowarzyszenie Nawrotek-Kołpak Sp. z o.o. S.A.,5055191937,poprawny,False,False
+1921,Kuczaj-Wołczyk s.c. Sp. z o.o.,5071961293,poprawny,False,False
+1922,FPUH Muskała Sp.k. sp. z o.o.,7588562745,poprawny,False,False
+1923,Stowarzyszenie Rubin-Wałek S.A. Sp. J.,2030695166,poprawny,False,False
+1924,Spółdzielnia Duszczak-Dziduch s.c. Sp. J.,,brak,False,False
+1925,PPUH Marcińczyk Sp. z o.o. sp.k.,2062314598,poprawny,False,False
+1926,Letkiewicz S.A. Sp. z o.o.,4505211209,poprawny,False,False
+1927,Gabinety Kopik sp.k.,044-608-19-72,poprawny,False,False
+1928,Paliga Sp. z o.o. Sp.k. Spółka z o.o.,4950609580,poprawny,False,False
+1929,FPUH Bielat-Tokarek Sp. z o.o. Sp.k. sp.k.,3985907429,poprawny,False,False
+1930,Tokarek Sp.j. Spółka z o.o.,6691953012,poprawny,False,False
+1931,Pociask Sp.j. Spółka z o.o.,6859026290,poprawny,False,False
+1932,Fundacja Staniaszek-Leśko s.c. sp.k.,6603498242,poprawny,False,False
+1933,Tymczyszyn Sp. z o.o. Sp.k. Sp. z o.o.,,brak,False,False
+1934,Stowarzyszenie Żach Sp.k. Spółka z o.o.,2352560087,poprawny,False,False
+1935,Fundacja Ekert S.A. Sp. z o.o.,5205353130,poprawny,False,False
+1936,Fundacja Węgrzynek-Ścieszka S.A. sp.k.,3423221098,poprawny,False,False
+1937,Gabinety Chachaj-Powierża Sp. z o.o. Sp.k. Spółka z o.o.,1408783431,poprawny,False,False
+1938,Kondej-Grębowiec s.c. sp. z o.o.,1168231375,poprawny,False,False
+1939,Fundacja Strzoda Sp.k. Spółka z o.o.,2657896353,poprawny,True,False
+1940,Grupa Pawliczek-Bartuś Sp. z o.o. Spółka z o.o.,8882372540,poprawny,False,False
+1941,FPUH Machul S.A.,8828050348,poprawny,False,False
+1942,Fundacja Knieć-Hrabia Sp.j. Spółka z o.o.,7676660826,poprawny,False,False
+1943,Grupa Gruchot sp. z o.o.,0753136856,poprawny,False,False
+1944,Milka-Pałac S.A. Sp. z o.o.,7414430108,poprawny,False,False
+1945,Picheta-Filas i syn s.c. Spółka z o.o.,7443319974,poprawny,False,False
+1946,Kudela-Kus Sp. z o.o. sp.k.,7296970101,poprawny,True,True
+1947,PPUH Męcik sp.k.,7585861884,poprawny,False,False
+1948,Czermak Sp. z o.o. Sp.k. sp.k.,9279437635,poprawny,True,True
+1949,FPUH Karczmarz i syn s.c. sp. z o.o.,473-148-36-82,poprawny,False,False
+1950,FPUH Koman Sp. z o.o. Sp.k. S.A.,,brak,False,False
+1951,Kołata Sp. z o.o. sp. z o.o.,,brak,False,False
+1952,Kielich Sp.k. Spółka z o.o.,4853123447,poprawny,False,False
+1953,Serzysko Sp. z o.o. sp.k.,4651242108,poprawny,False,False
+1954,Czura-Zawiasa S.A. Sp. J.,3648116592,poprawny,False,False
+1955,Dylak-Panicz Sp.j. sp.k.,379-313-63-67,poprawny,False,False
+1956,Ryndak i syn s.c. S.A.,5935861347,poprawny,False,False
+1957,FPUH Elert sp.k.,088-426-72-34,poprawny,False,False
+1958,PPUH Tomaszczyk-Prażuch Sp. z o.o. Sp.k. Sp. z o.o.,111-391-54-86,poprawny,False,False
+1959,FPUH PASZKOWIAK SP. Z O.O. SP. Z O.O.,4990108619,poprawny,False,False
+1960,Gabinety Derek Sp.k. Sp. J.,9915738060,poprawny,False,False
+1961,Grupa Nieradko-Kubów Sp.k. sp.k.,6102372642,poprawny,True,True
+1962,PPUH Dybiec-Pietrewicz Sp. z o.o. Sp.k. Spółka z o.o.,5971557937,poprawny,False,False
+1963,Fundacja Szambelan Sp. z o.o. sp.k.,1773260962,poprawny,False,False
+1964,Grupa Franiak i syn s.c. Sp. z o.o.,859-735-86-77,poprawny,False,False
+1965,Kopytko s.c. Sp. z o.o.,2632767659,poprawny,False,True
+1966,Spółdzielnia Owczarczak-Kostek s.c. Spółka z o.o.,9471553476,poprawny,False,False
+1967,Tondera-Hyjek Sp. z o.o. sp. z o.o.,7729084898,poprawny,False,False
+1968,Spółdzielnia Sot Spółka z o.o.,4807805383,poprawny,False,False
+1969,Dub-Nasiadka Sp.k. Sp. z o.o.,3696480404,poprawny,False,False
+1970,Spółdzielnia Kuliberda Sp.k. S.A.,3240510268,poprawny,False,False
+1971,FPUH Doktór Sp. z o.o. Sp.k. Spółka z o.o.,6746466030,poprawny,False,False
+1972,Litwińczuk-Skierka Sp.k. sp.k.,2094101026,poprawny,False,False
+1973,PPUH Szczepan Spółka z o.o.,8497797383,poprawny,False,False
+1974,PPUH Rudzik S.A.,5478935055,poprawny,False,False
+1975,Gabinety Gęca s.c. S.A.,5670718127,poprawny,False,False
+1976,Stowarzyszenie Skiepko S.A.,7459984131,poprawny,False,False
+1977,Bak-Jarczak i syn s.c. Sp. z o.o.,7910651063,poprawny,True,True
+1978,FPUH MIK SP. J.,4830348579,poprawny,True,True
+1979,Berendt S.A. Spółka z o.o.,9272809039,poprawny,False,False
+1980,Spółdzielnia Piekart Spółka z o.o.,3167859842,poprawny,False,False
+1981,Sieradzan S.A. sp.k.,3032075600,poprawny,False,False
+1982,Spółdzielnia Królczyk sp. z o.o.,302-999-66-32,poprawny,False,False
+1983,FPUH Tabak-Knieć Sp. z o.o. Sp.k. Sp. z o.o.,3079915400,poprawny,False,False
+1984,Sutor Sp.k. Sp. J.,9531850049,poprawny,False,False
+1985,Gabinety Froń-Ciochoń Sp.j. Sp. J.,6820481094,poprawny,False,False
+1986,Krenc-Barszczak Sp. z o.o. Sp.k. sp.k.,5779739828,poprawny,False,False
+1987,PPUH Zeman-Saran s.c. Sp. z o.o.,8272382646,poprawny,False,False
+1988,Grupa Dziuban Sp. z o.o. Sp.k. Sp. J.,6881559034,poprawny,False,False
+1989,Bak-Kilar S.A. S.A.,6150488495,poprawny,False,False
+1990,Gabinety Brózda-Masłoń Sp. z o.o. Sp.k. Spółka z o.o.,6403507693,błędny,False,False
+1991,Stowarzyszenie Cymbała Sp. z o.o. Sp.k. Sp. z o.o.,0822775477,poprawny,True,True
+1992,Orszulik i syn s.c. Sp. J.,1238724931,poprawny,False,False
+1993,Grupa Gajcy Sp.k. Spółka z o.o.,9484967412,poprawny,False,False
+1994,  Osik-Duczmal i syn s.c. S.A.,1255935027,poprawny,False,False
+1995,Siebert s.c. Sp. z o.o.,2272765315,poprawny,False,False
+1996,Spółdzielnia Sobiło Sp. J.,5595562165,poprawny,False,False
+1997,Parzyszek-Litwińczuk Sp. z o.o. Sp.k. Sp. z o.o.,8950491086,poprawny,False,False
+1998,FPUH Duszczyk Sp. J.,7852197936,poprawny,False,False
+1999,Rogula-Drela Sp.k. Sp. J.,6089888505,poprawny,False,False
+2000,Grupa Seta-Sawko S.A. Spółka z o.o.,3202640098,poprawny,False,False
+2001,Klatka-Szlachcic SP. Z O.O.,3074645203,poprawny,True,True
+2002,Heczko Spółka z ograniczoną odpowiedzialnością,5653286323,poprawny,True,False
+2003,Fiedoruk-Fita s.c. Sp. z o.o.,1823601076,poprawny,True,True
+2004,Kozok-Hejna SP. Z O.O.,9305966012,poprawny,True,False
+2005,Grupa Beck-Mały i syn s.c. SP. Z O.O.,8581970157,poprawny,True,True
+2006,Stein SP. Z O.O.,8889178798,poprawny,True,True
+2007,Fundacja Makaruk sp.k. Sp. z o.o.,6933276332,poprawny,True,True
+2008,GABINETY WYRWICH SPÓŁKA Z O.O. SP. Z O.O.,0361920259,poprawny,True,True
+2009,Ogonek s.c. Spółka z ograniczoną odpowiedzialnością,1541520645,poprawny,True,False
+2010,PPUH Karmelita-Kolarz Sp. z o.o.,6760083503,poprawny,True,True
+2011,Spółdzielnia Dylak Spółka z ograniczoną odpowiedzialnością,7842701037,poprawny,True,True
+2012,Spółdzielnia Smektała-Drabczyk SP. Z O.O.,8193242684,poprawny,True,False
+2013,FPUH Ładziak sp. z o.o. SP. Z O.O.,1105833093,poprawny,True,True
+2014,Grupa Kapciak SP. Z O.O.,1986424235,poprawny,True,True
+2015,FPUH Katana sp.k. Spółka z ograniczoną odpowiedzialnością,2071518202,poprawny,True,True
+2016,Mudlaff-Płaneta Sp. z o.o.,4800226423,poprawny,True,True
+2017,Gabinety Broniarek Spółka z ograniczoną odpowiedzialnością,7002842764,poprawny,True,True
+2018,Podsiedlik-Posłuszny i syn s.c. Spółka z ograniczoną odpowiedzialnością,2311775336,poprawny,True,True
+2019,Spółdzielnia Micał SP. Z O.O.,7706736825,poprawny,True,True
+2020,Oczko-Ośko i syn s.c. SP. Z O.O.,2339220718,poprawny,True,True
+2021,Stowarzyszenie Widuch Sp. z o.o.,009-004-04-79,poprawny,True,True
+2022,FPUH Tyniec Sp. z o.o.,4973348433,poprawny,True,True
+2023,Balawender i syn s.c. Sp. z o.o.,2660235153,poprawny,True,True
+2024,PPUH Wota Spółka z ograniczoną odpowiedzialnością,1467741865,poprawny,True,True
+2025,Kozok-Polakiewicz i syn s.c. sp.k. Sp. z o.o.,0888196643,poprawny,True,True
+2026,PPUH Wołodźko SP. Z O.O.,5920559671,poprawny,True,False
+2027,Trybus SP. Z O.O.,7069556077,poprawny,True,True
+2028,Jakóbiak-Owczarczak SP. Z O.O.,1041459641,poprawny,True,True
+2029,Sadza Spółka z ograniczoną odpowiedzialnością,7837568162,poprawny,True,False
+2030,Stowarzyszenie Cymbała Sp. z o.o.,0822775477,poprawny,True,True
+2031,Borysiak-Wojsław Sp. z o.o.,0934099165,poprawny,True,True
+2032,Karkut-Kieca Spółka z ograniczoną odpowiedzialnością,4607001444,poprawny,True,True
+2033,FPUH Kubasiewicz s.c. SP. Z O.O.,9098624055,poprawny,True,True
+2034,Grupa Grądziel Spółka z ograniczoną odpowiedzialnością,8102131253,poprawny,True,False
+2035,Wlazły-Gosek Sp. z o.o.,7811266913,poprawny,True,True
+2036,Nędzi-Kasznia SP. Z O.O.,4690819747,poprawny,True,True
+2037,Cibor s.c. SP. Z O.O.,9484226236,poprawny,True,True
+2038,Szambelan-Ciastek Spółka z ograniczoną odpowiedzialnością,1602529860,poprawny,True,True
+2039,Fundacja Strzoda SP. Z O.O.,2657896353,poprawny,True,False
+2040,Fundacja Koniecko Spółka z ograniczoną odpowiedzialnością,4883192134,poprawny,True,True
+2041,Cacko i syn s.c. sp. z o.o. Sp. z o.o.,7676945919,poprawny,True,True
+2042,Grupa Hajder-Świerad i syn s.c. SP. Z O.O.,6320374768,poprawny,True,False
+2043,Engler Spółka z ograniczoną odpowiedzialnością,8687653262,poprawny,True,True
+2044,FPUH Prokopiak Spółka z ograniczoną odpowiedzialnością,0154303911,poprawny,True,True
+2045,Kudela-Kus Sp. z o.o.,7296970101,poprawny,True,True
+2046,Grupa Lesner sp.k. Spółka z ograniczoną odpowiedzialnością,8479513719,poprawny,True,True
+2047,FPUH Sajewicz SP. Z O.O.,5651269444,poprawny,True,True
+2048,Grupa Rode sp. z o.o. Spółka z ograniczoną odpowiedzialnością,3300805637,poprawny,True,True
+2049,FPUH Sykała i syn s.c. sp.k. SP. Z O.O.,0782633379,poprawny,True,True
+2050,PPUH Klinger s.c. sp. z o.o. Spółka z ograniczoną odpowiedzialnością,7532735243,poprawny,True,True
+2051,WIEWIÓRKA-BORCZYK SP. Z O.O. SP. Z O.O. Sp. z o.o.,0285327272,poprawny,True,True
+2052,Stowarzyszenie Tutka Spółka z ograniczoną odpowiedzialnością,2018596265,poprawny,True,True
+2053,Godyń i syn s.c. Sp. z o.o.,9586639925,błędny,True,True
+2054,FPUH Szymanik Spółka z ograniczoną odpowiedzialnością,5496919285,poprawny,True,True
+2055,Broncel s.c. sp.k. SP. Z O.O.,2653371702,poprawny,True,True
+2056,Szajna-Heinrich i syn s.c. Sp. z o.o.,7429220417,poprawny,True,True
+2057,Stowarzyszenie Zysk i syn s.c. Spółka z ograniczoną odpowiedzialnością,3461571736,poprawny,True,True
+2058,Fundacja Seidel SP. Z O.O.,9792703354,błędny,True,False
+2059,Piórek Spółka z ograniczoną odpowiedzialnością,1879938443,błędny,True,True
+2060,Rosada-Panicz i syn s.c. Sp. z o.o.,443-861-25-98,poprawny,True,True
+2061,Kuncewicz-Radke i syn s.c. Sp. z o.o.,0243736155,poprawny,True,False
+2062,Nieroda Sp. z o.o.,8496498566,poprawny,True,True
+2063,Fundacja Tylka Spółka z ograniczoną odpowiedzialnością,9839301033,poprawny,True,True
+2064,FPUH Piejko Sp. z o.o.,4588165020,poprawny,True,True
+2065,Fundacja Rząd Spółka z ograniczoną odpowiedzialnością,8809718615,poprawny,True,False
+2066,Gabinety Pyziak-Szmaj Spółka z ograniczoną odpowiedzialnością,9469984286,poprawny,True,False
+2067,Fundacja Pleban Sp. z o.o.,5187053497,poprawny,True,False
+2068,Spółdzielnia Dzidek-Wawrzynek Spółka z ograniczoną odpowiedzialnością,7850898971,poprawny,True,True
+2069,Kuzior-Kinal SP. Z O.O.,0404333357,poprawny,True,False
+2070,Jędrzejek i syn s.c. Sp. z o.o.,5739769154,poprawny,True,True
+2071,Domowicz s.c. Spółka z ograniczoną odpowiedzialnością,423-324-16-55,poprawny,True,True
+2072,Stowarzyszenie Węgier-Świątkiewicz Spółka z ograniczoną odpowiedzialnością,7080612943,poprawny,True,True
+2073,Gral-Choina Spółka z ograniczoną odpowiedzialnością,9078956771,poprawny,True,True
+2074,Fundacja Szelest-Poczta SP. Z O.O.,3714708273,poprawny,True,True
+2075,Mysiak-Szałaj Spółka z ograniczoną odpowiedzialnością,591-297-51-94,poprawny,True,True
+2076,Stowarzyszenie Brzeźniak-Klorek i syn s.c. Sp. z o.o.,5970996250,poprawny,True,True
+2077,Czermak SP. Z O.O.,9279437635,poprawny,True,True
+2078,Kluj-Ciochoń Sp. z o.o.,5560932049,poprawny,True,False
+2079,Grupa Nieradko-Kubów SP. Z O.O.,6102372642,poprawny,True,True
+2080,Kozdrój Sp. z o.o.,9335984747,poprawny,True,True
+2081,Durys Sp. z o.o.,3021781671,poprawny,True,False
+2082,Bak-Jarczak i syn s.c. Sp. z o.o.,7910651063,poprawny,True,True
+2083,Gabryszak-Długozima Spółka z ograniczoną odpowiedzialnością,7216966630,poprawny,True,False
+2084,PPUH Dyda-Zadworny s.c. sp. z o.o. SP. Z O.O.,8091663169,poprawny,True,True
+2085,Judek-Bugiel Spółka z ograniczoną odpowiedzialnością,6170243762,poprawny,True,True
+2086,Osada Spółka z ograniczoną odpowiedzialnością,1375298830,poprawny,True,True
+2087,Stowarzyszenie Słoń i syn s.c. SP. Z O.O.,1315350691,poprawny,True,True
+2088,Gabinety Radko sp.k. Spółka z ograniczoną odpowiedzialnością,5327877472,poprawny,True,True
+2089,FPUH Szklarek-Szpyt Spółka z ograniczoną odpowiedzialnością,2662497532,poprawny,True,False
+2090,PPUH Martyn Sp. z o.o.,1219051885,poprawny,True,True
+2091,Spółdzielnia Fryś-Klaus Spółka z ograniczoną odpowiedzialnością,216-558-52-39,poprawny,True,False
+2092,Stowarzyszenie Dudczak Sp. z o.o.,6597595459,poprawny,True,True
+2093,Lenda-Pałęga SP. Z O.O.,8368060143,poprawny,True,True
+2094,PPUH Oleszko-Prokurat i syn s.c. Sp. z o.o.,0695235782,poprawny,True,True
+2095,FPUH MIK SP. J. SP. Z O.O.,4830348579,poprawny,True,True
+2096,Tabiś-Betlej SP. Z O.O.,7315663973,poprawny,True,False
+2097,Fundacja Tylka Sp. z o.o.,6563370144,poprawny,True,True
+2098,Sady s.c. Sp. z o.o.,1749058493,poprawny,True,True
+2099,Spółdzielnia Wolańczyk Sp. z o.o.,0017012775,poprawny,True,True
+2100,PPUH ANIOŁA SP.J. SPÓŁKA Z O.O. Sp. z o.o.,705-516-94-07,poprawny,True,True
+2101,Rećko i syn s.c. Spółka z ograniczoną odpowiedzialnością,0542960802,poprawny,True,False
+2102,PPUH Jama sp. z o.o. Sp. z o.o.,2113869083,poprawny,True,True
+2103,Grupa Szczepan-Kaliciak i syn s.c. Sp. z o.o.,341-535-97-70,poprawny,True,True
+2104,Smorąg-Szwiec SP. Z O.O.,9323822312,poprawny,True,True
+2105,Gabinety Drygała SP. Z O.O.,3735160917,poprawny,True,True
+2106,Szlufik Sp. z o.o.,4743974291,poprawny,True,True
+2107,Stowarzyszenie Bednarowicz Sp. z o.o.,9025590563,poprawny,True,True
+2108,Freitag-Dyjas Sp. z o.o.,241-613-94-49,poprawny,True,True
+2109,Fundacja Dyczko sp. z o.o. Spółka z ograniczoną odpowiedzialnością,6866326633,poprawny,True,True
+2110,Pasieczna Spółka z ograniczoną odpowiedzialnością,5807836131,poprawny,True,True
+2111,Gabinety Pyszka Spółka z ograniczoną odpowiedzialnością,7225605311,poprawny,True,True
+2112,Grupa Ostasz-Dudziec s.c. sp.k. SP. Z O.O.,6298056826,poprawny,True,True
+2113,Miętka Spółka z ograniczoną odpowiedzialnością,2438712956,poprawny,True,True
+2114,Wołczyk-Warych i syn s.c. sp. z o.o. SP. Z O.O.,9981274396,poprawny,True,True
+2115,Fundacja Mich SP. Z O.O.,9121277567,poprawny,True,True
+2116,Grupa Dzierżak i syn s.c. sp. z o.o. Spółka z ograniczoną odpowiedzialnością,1734024223,poprawny,True,True
+2117,Gabinety Kwinta Spółka z ograniczoną odpowiedzialnością,335-548-64-00,poprawny,True,True
+2118,Kluczek Spółka z ograniczoną odpowiedzialnością,1043321817,poprawny,True,True
+2119,Fundacja Łągiewka Spółka z ograniczoną odpowiedzialnością,8293102706,poprawny,True,True
+2120,Grupa Gryta-Berg SP. Z O.O.,1027674780,poprawny,True,False
