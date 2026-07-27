@@ -108,6 +108,14 @@ Taki podział ułatwia określenie, które działania można zautomatyzować, a 
   <img src="images/Dashboard_overview-01.png" alt="Dashboard Power BI — strona przeglądu" width="90%">
 </p>
 
+<p align="center">
+  <img src="images/Dashboard_overview-02.png" alt="Dashboard Power BI — strona przeglądu" width="90%">
+</p>
+
+<p align="center">
+  <img src="images/Dashboard_details.png" alt="Dashboard Power BI — strona przeglądu" width="90%">
+</p>
+
 ## Jak uruchomić
 
 1. Zaimportuj pliki CSV z `data/` do MS SQL Server (np. przez SSMS).
