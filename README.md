@@ -4,7 +4,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 Projekt przedstawia proces audytu jakości danych podstawowych – od profilowania danych i implementacji reguł jakości w SQL-u, po budowę tabeli wynikowej oraz interaktywnego dashboardu w Power BI.
-Wszystkie reguły zostały opisane w pliku [Data Quality Report](raport/Data_Quality_Report.md)
+> Wszystkie reguły zostały opisane w pliku [Data Quality Report](raport/Data_Quality_Report.md)
 
 ## Problem
 
