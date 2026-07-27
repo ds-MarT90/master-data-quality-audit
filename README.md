@@ -1,10 +1,11 @@
 # Audyt jakości danych podstawowych w SQL-u i Power BI
+>  **English version of the documentation will be available soon.**
+
 
 ![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 Projekt przedstawia proces audytu jakości danych podstawowych – od profilowania danych i implementacji reguł jakości w SQL-u, po budowę tabeli wynikowej oraz interaktywnego dashboardu w Power BI.
-> Wszystkie reguły zostały opisane w pliku [Data Quality Report](raport/Data_Quality_Report.md)
 
 ## Problem
 
@@ -16,13 +17,14 @@ Celem projektu było wykrycie problemów z jakością danych, zmierzenie ich ska
 > Nie zawierają żadnych rzeczywistych informacji o firmach ani osobach.
 
 
-> ## Projekt w skrócie
+## Projekt w skrócie
 
 - profilowanie danych z pięciu tabel
 - implementacja 35 reguł jakości danych w SQL
 - budowa tabeli wynikowej (`dq_wyniki`)
 - dashboard KPI w Power BI
 - analiza sześciu wymiarów jakości danych
+> Wszystkie reguły zostały opisane w pliku [Data Quality Report](raport/Data_Quality_Report.md)
 
 
 ## Dane
