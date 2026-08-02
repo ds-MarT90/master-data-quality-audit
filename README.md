@@ -122,7 +122,7 @@ Taki podział ułatwia określenie, które działania można zautomatyzować, a 
 2. Uruchom pliki z `sql/`, aby zobaczyć błędne rekordy i procenty naruszeń.
 3. Uruchom `CREATE_TABLE.sql`, a następnie `Dashboard_results.sql`, aby zbudować
    tabelę scorecard `dq_wyniki`.
-4. Otwórz `powerbi/dashboard_jakosci.pbix` i odśwież źródło danych.
+4. Otwórz `dashboard/Master-Data-Quality-Dashboard.pbix` i odśwież źródło danych.
 
 ## Technologie
 
